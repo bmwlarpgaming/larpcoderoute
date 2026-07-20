@@ -1,0 +1,35 @@
+{"id":"002426",
+ "reponse":"BD",
+ "sexe":"F",
+ "enonce":["L’éclairage public se coupe à 23 h. Pour stationner ici toute la nuit, je dois laisser :","- les feux de position","- les feux de croisement"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002426_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002426_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002426_BT_R",
+		"position":29899,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"002426_BT_Q01","x":0,"y":0},
+			{"filename":"002426_BT_R02","x":522,"y":233},
+			{"filename":"002426_BT_R03","x":323,"y":285}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3859,"effet":"B"},
+			{"image":3,"position":18244,"effet":"C"}
+			]
+		}
+	]
+}

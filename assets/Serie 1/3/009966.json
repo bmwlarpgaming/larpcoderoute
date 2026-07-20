@@ -1,0 +1,41 @@
+{"id":"009966",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je passe","je m'arrête","",""],
+ "sequence":[
+		{"son":"009966_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009966_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009966_BT_R",
+		"position":13708,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009966_BT_Q01","x":0,"y":0},
+			{"filename":"009966_BT_R02","x":131,"y":251},
+			{"filename":"009966_BT_R03","x":131,"y":123},
+			{"filename":"009966_BT_R04","x":131,"y":123},
+			{"filename":"009966_BT_R05","x":0,"y":44}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2613,"effet":"C"},
+			{"image":3,"position":4781,"effet":"C"},
+			{"image":4,"position":7285,"effet":"C"},
+			{"image":1,"position":8997,"effet":"C"},
+			{"image":5,"position":10279,"effet":"C"},
+			{"image":1,"position":13293,"effet":"C"}
+			]
+		}
+	]
+}

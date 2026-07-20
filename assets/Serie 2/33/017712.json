@@ -1,0 +1,38 @@
+{"id":"017712",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je suis bien placé pour prendre la prochaine sortie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017712_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017712_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017712_BT_R",
+		"position":24843,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017712_BT_Q01","x":0,"y":0},
+			{"filename":"017712_BT_R02","x":716,"y":27},
+			{"filename":"017712_BT_R04","x":636,"y":245},
+			{"filename":"017712_BT_R05","x":627,"y":247}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2414,"effet":"C"},
+			{"image":3,"position":6116,"effet":"C"},
+			{"image":4,"position":15005,"effet":"C"},
+			{"image":1,"position":23962,"effet":"C"}
+			]
+		}
+	]
+}

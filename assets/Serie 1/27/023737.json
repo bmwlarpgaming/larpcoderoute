@@ -1,0 +1,40 @@
+{"id":"023737",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["L'assistant au stationnement (Park Assist) est capable de trouver un emplacement adapté aux dimensions de la voiture :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023737_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023737_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023737_BT_R",
+		"position":39953,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023737_BT_Q01","x":0,"y":0},
+			{"filename":"023737_BT_R02","x":515,"y":257},
+			{"filename":"023737_BT_R03","x":459,"y":147},
+			{"filename":"023737_BT_R04","x":0,"y":0},
+			{"filename":"023737_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7170,"effet":"C"},
+			{"image":3,"position":15617,"effet":"C"},
+			{"image":4,"position":21545,"effet":"C"},
+			{"image":5,"position":32232,"effet":"C"},
+			{"image":1,"position":39669,"effet":"C"}
+			]
+		}
+	]
+}

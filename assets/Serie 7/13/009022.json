@@ -1,0 +1,44 @@
+{"id":"009022",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Les véhicules les moins visibles dans la circulation sont :","",""],
+ "proposition":["- les poids lourds","- les voitures","- les 2 roues",""],
+ "sequence":[
+		{"son":"009022_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009022_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009022_BT_R",
+		"position":27006,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"009022_BT_Q01","x":0,"y":0},
+			{"filename":"009022_BT_R02","x":45,"y":44},
+			{"filename":"009022_BT_R03","x":45,"y":44},
+			{"filename":"009022_BT_R04","x":45,"y":44},
+			{"filename":"009022_BT_R05","x":45,"y":44},
+			{"filename":"009022_BT_R06","x":45,"y":44},
+			{"filename":"009022_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2142,"effet":"C"},
+			{"image":3,"position":6670,"effet":"C"},
+			{"image":4,"position":8710,"effet":"C"},
+			{"image":5,"position":9662,"effet":"C"},
+			{"image":6,"position":10622,"effet":"C"},
+			{"image":7,"position":14103,"effet":"C"},
+			{"image":1,"position":20630,"effet":"C"}
+			]
+		}
+	]
+}

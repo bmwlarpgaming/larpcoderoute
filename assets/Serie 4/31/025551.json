@@ -1,0 +1,40 @@
+{"id":"025551",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Conduire sans avoir souscrit à une assurance automobile :","","Je devrai rembourser les indemnités versées aux victimes en cas d'accident :"],
+ "proposition":["- est interdit","- est possible sur un parking seulement","OUI","NON"],
+ "sequence":[
+		{"son":"025551_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025551_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025551_BT_R",
+		"position":23854,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025551_BT_Q01","x":0,"y":0},
+			{"filename":"025551_BT_R02","x":811,"y":35},
+			{"filename":"025551_BT_R03","x":811,"y":35},
+			{"filename":"025551_BT_R04","x":785,"y":11},
+			{"filename":"025551_BT_R05","x":785,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1609,"effet":"C"},
+			{"image":3,"position":6368,"effet":"C"},
+			{"image":4,"position":10566,"effet":"C"},
+			{"image":5,"position":18553,"effet":"C"},
+			{"image":1,"position":23027,"effet":"C"}
+			]
+		}
+	]
+}

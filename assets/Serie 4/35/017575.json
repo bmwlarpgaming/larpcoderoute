@@ -1,0 +1,40 @@
+{"id":"017575",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je tourne à gauche :","- les usagers venant de gauche doivent me céder le passage","- les usagers venant de droite doivent me céder le passage"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017575_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017575_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017575_BT_R",
+		"position":26839,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017575_BT_Q01","x":0,"y":0},
+			{"filename":"017575_BT_R02","x":347,"y":65},
+			{"filename":"017575_BT_R03","x":203,"y":0},
+			{"filename":"017575_BT_R04","x":203,"y":0},
+			{"filename":"017575_BT_R05","x":179,"y":226}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6605,"effet":"C"},
+			{"image":3,"position":12445,"effet":"C"},
+			{"image":4,"position":17157,"effet":"C"},
+			{"image":5,"position":22665,"effet":"C"},
+			{"image":1,"position":25865,"effet":"C"}
+			]
+		}
+	]
+}

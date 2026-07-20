@@ -1,0 +1,37 @@
+{"id":"025749",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Averti d'une affection médicale potentiellement incompatible avec la conduite par mon médecin traitant :","",""],
+ "proposition":["- j'attends d'être convoqué par un médecin agréé","- je prends rendez-vous pour un contrôle médical auprès d'un médecin agréé","- j'évalue moi-même ma capacité à conduire",""],
+ "sequence":[
+		{"son":"025749_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025749_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025749_BT_R",
+		"position":22683,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025749_BT_Q01","x":0,"y":0},
+			{"filename":"025749_BT_R02","x":699,"y":17},
+			{"filename":"025749_BT_R03","x":279,"y":17},
+			{"filename":"025749_BT_R04","x":279,"y":17}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1611,"effet":"C"},
+			{"image":3,"position":7987,"effet":"C"},
+			{"image":4,"position":12284,"effet":"C"}
+			]
+		}
+	]
+}

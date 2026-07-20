@@ -1,0 +1,38 @@
+{"id":"007823",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["La signalisation autorise le dépassement :","","Je dépasse :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"007823_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"007823_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"007823_BT_R",
+		"position":28823,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"007823_BT_Q01","x":0,"y":0},
+			{"filename":"007823_BT_R02","x":167,"y":371},
+			{"filename":"007823_BT_R03","x":70,"y":227},
+			{"filename":"007823_BT_R04","x":70,"y":227}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2529,"effet":"C"},
+			{"image":3,"position":16415,"effet":"C"},
+			{"image":4,"position":21743,"effet":"C"},
+			{"image":1,"position":28039,"effet":"C"}
+			]
+		}
+	]
+}

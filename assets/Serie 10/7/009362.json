@@ -1,0 +1,39 @@
+{"id":"009362",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Cette voie est réservée :","",""],
+ "proposition":["- aux piétons","- aux cyclomotoristes","- aux cyclistes",""],
+ "sequence":[
+		{"son":"009362_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009362_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009362_BT_R",
+		"position":31673,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009362_BT_Q01","x":0,"y":0},
+			{"filename":"009362_BT_R02","x":931,"y":132},
+			{"filename":"009362_BT_R03","x":899,"y":125},
+			{"filename":"009362_BT_R04","x":922,"y":36}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8192,"effet":"C"},
+			{"image":3,"position":12695,"effet":"C"},
+			{"image":4,"position":15346,"effet":"C"},
+			{"image":3,"position":21846,"effet":"C"},
+			{"image":1,"position":31007,"effet":"C"}
+			]
+		}
+	]
+}

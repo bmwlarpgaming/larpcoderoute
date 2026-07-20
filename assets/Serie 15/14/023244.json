@@ -1,0 +1,37 @@
+{"id":"023244",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je tourne à droite. Avant de m'engager :","",""],
+ "proposition":["- je regarde uniquement à gauche","- je regarde à gauche et à droite","",""],
+ "sequence":[
+		{"son":"023244_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023244_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023244_BT_R",
+		"position":25864,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023244_BT_Q01","x":0,"y":0},
+			{"filename":"023244_BT_R02","x":19,"y":11},
+			{"filename":"023244_BT_R03","x":0,"y":0},
+			{"filename":"023244_BT_R04","x":172,"y":3}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3388,"effet":"C"},
+			{"image":3,"position":8963,"effet":"C"},
+			{"image":4,"position":19841,"effet":"C"}
+			]
+		}
+	]
+}

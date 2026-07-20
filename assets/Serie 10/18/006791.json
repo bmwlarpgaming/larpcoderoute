@@ -1,0 +1,35 @@
+{"id":"006791",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je dépasse :","","Je franchis la ligne centrale :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"006791_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"006791_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"006791_BT_R",
+		"position":11504,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"006791_BT_Q01","x":0,"y":0},
+			{"filename":"006791_BT_R02","x":835,"y":380},
+			{"filename":"006791_BT_R03","x":397,"y":283}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2058,"effet":"C"},
+			{"image":3,"position":6856,"effet":"C"}
+			]
+		}
+	]
+}

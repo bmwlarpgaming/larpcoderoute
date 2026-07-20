@@ -1,0 +1,40 @@
+{"id":"017767",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je m'écarte au minimum de :","",""],
+ "proposition":["- 1 mètre","- 1,50 mètre","",""],
+ "sequence":[
+		{"son":"017767_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017767_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017767_BT_R",
+		"position":40971,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017767_BT_Q01","x":0,"y":0},
+			{"filename":"017767_BT_R02","x":525,"y":228},
+			{"filename":"017767_BT_R03","x":427,"y":123},
+			{"filename":"017767_BT_R04","x":923,"y":44},
+			{"filename":"017767_BT_R05","x":470,"y":131}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1316,"effet":"C"},
+			{"image":3,"position":16459,"effet":"C"},
+			{"image":4,"position":26079,"effet":"C"},
+			{"image":5,"position":36914,"effet":"C"},
+			{"image":1,"position":40438,"effet":"C"}
+			]
+		}
+	]
+}

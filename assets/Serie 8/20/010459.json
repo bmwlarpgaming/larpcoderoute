@@ -1,0 +1,44 @@
+{"id":"010459",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je choisis :","",""],
+ "proposition":["- de ralentir","- de maintenir l'allure","- d'accélérer",""],
+ "sequence":[
+		{"son":"010459_BT_Q",
+		"video":"010459",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010459_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010459_BT_R",
+		"video":"010459",
+		"position":41320,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"010459_BT_Q02","x":0,"y":0},
+			{"filename":"010459_BT_R03","x":0,"y":0},
+			{"filename":"010459_BT_R04","x":52,"y":285},
+			{"filename":"010459_BT_R05","x":360,"y":355},
+			{"filename":"010459_BT_R06","x":0,"y":198},
+			{"filename":"010459_BT_R07","x":323,"y":366}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9674,"effet":"C"},
+			{"image":3,"position":20069,"effet":"C"},
+			{"image":4,"position":25906,"effet":"C"},
+			{"image":5,"position":32104,"effet":"C"},
+			{"image":6,"position":37438,"effet":"C"},
+			{"image":1,"position":40574,"effet":"C"}
+			]
+		}
+	]
+}

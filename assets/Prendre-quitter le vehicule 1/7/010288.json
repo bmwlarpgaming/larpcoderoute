@@ -1,0 +1,36 @@
+{"id":"010288",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Prendre ce véhicule présente des risques pour un trajet :","- de 2 km","- de 30 km"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010288_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010288_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010288_BT_R",
+		"position":28115,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010288_BT_Q01","x":0,"y":0},
+			{"filename":"010288_BT_R02","x":251,"y":364},
+			{"filename":"010288_BT_R03","x":433,"y":370}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9328,"effet":"C"},
+			{"image":3,"position":19169,"effet":"C"},
+			{"image":1,"position":27444,"effet":"C"}
+			]
+		}
+	]
+}

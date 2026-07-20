@@ -1,0 +1,40 @@
+{"id":"023539",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Heurté à 50 km/h par une voiture, les chances de survie du piéton sont d'environ :","",""],
+ "proposition":["- 90 %","- 50 %","- 20%",""],
+ "sequence":[
+		{"son":"023539_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023539_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023539_BT_R",
+		"position":28980,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023539_BT_Q01","x":0,"y":0},
+			{"filename":"023539_BT_R02","x":0,"y":0},
+			{"filename":"023539_BT_R03","x":0,"y":0},
+			{"filename":"023539_BT_R04","x":0,"y":0},
+			{"filename":"023539_BT_R05","x":907,"y":91}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":998,"effet":"C"},
+			{"image":3,"position":5250,"effet":"C"},
+			{"image":4,"position":12480,"effet":"C"},
+			{"image":5,"position":17839,"effet":"C"},
+			{"image":1,"position":28724,"effet":"C"}
+			]
+		}
+	]
+}

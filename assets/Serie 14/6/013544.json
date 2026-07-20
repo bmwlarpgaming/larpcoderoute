@@ -1,0 +1,36 @@
+{"id":"013544",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Changer de conducteur lors d'un long trajet nécessite :","- de régler les rétroviseurs","- d'ajuster le siège"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"013544_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013544_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013544_BT_R",
+		"position":18913,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"013544_BT_Q01","x":0,"y":0},
+			{"filename":"013544_BT_R02","x":0,"y":0},
+			{"filename":"013544_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9989,"effet":"C"},
+			{"image":3,"position":16385,"effet":"C"},
+			{"image":1,"position":18717,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"009877",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Ce véhicule est arrêté. Il y a un risque :","-  pour les autres usagers","- pour le jeune garçon"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"009877_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009877_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009877_BT_R",
+		"position":47592,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009877_BT_Q01","x":0,"y":0},
+			{"filename":"009877_BT_R02","x":0,"y":0},
+			{"filename":"009877_BT_R03","x":0,"y":0},
+			{"filename":"009877_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":17297,"effet":"C"},
+			{"image":3,"position":26592,"effet":"C"},
+			{"image":4,"position":37776,"effet":"C"},
+			{"image":1,"position":46800,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{"id":"011498",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Changer de file vers la gauche maintenant est utile :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011498_BT_Q",
+		"video":"011498",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011498_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011498_BT_R",
+		"video":"011498",
+		"position":19960,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011498_BT_Q02","x":0,"y":0},
+			{"filename":"011498_BT_R03","x":623,"y":125},
+			{"filename":"011498_BT_R04","x":96,"y":105},
+			{"filename":"011498_BT_R05","x":493,"y":214}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1648,"effet":"C"},
+			{"image":3,"position":8648,"effet":"C"},
+			{"image":4,"position":16296,"effet":"C"}
+			]
+		}
+	]
+}

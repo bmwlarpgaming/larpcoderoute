@@ -1,0 +1,41 @@
+{"id":"026091",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Souhaitant s'engager dans la circulation, l'automobiliste a actionné son clignotant gauche au bon moment :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"026091_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"026091_BT_Q01","x":0,"y":0},
+			{"filename":"026091_BT_Q02","x":691,"y":120}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":959,"effet":"B"}
+			]
+		},
+		{"son":"026091_BT_R",
+		"position":36113,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"026091_BT_Q01","x":0,"y":0},
+			{"filename":"026091_BT_R02","x":691,"y":120},
+			{"filename":"026091_BT_R03","x":803,"y":195},
+			{"filename":"026091_BT_R04","x":484,"y":124},
+			{"filename":"026091_BT_R05","x":178,"y":124}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1025,"effet":"B"},
+			{"image":3,"position":6165,"effet":"C"},
+			{"image":4,"position":22361,"effet":"C"},
+			{"image":5,"position":31427,"effet":"C"}
+			]
+		}
+	]
+}

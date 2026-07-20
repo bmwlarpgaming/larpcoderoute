@@ -1,0 +1,36 @@
+{"id":"023650",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Je réduis mon allure :","- pour aborder le virage en sécurité","- pour aborder le passage à niveau en sécurité"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023650_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023650_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023650_BT_R",
+		"position":37130,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"023650_BT_Q01","x":0,"y":0},
+			{"filename":"023650_BT_R02","x":459,"y":119},
+			{"filename":"023650_BT_R03","x":459,"y":102}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9827,"effet":"C"},
+			{"image":3,"position":21154,"effet":"C"},
+			{"image":1,"position":35890,"effet":"C"}
+			]
+		}
+	]
+}

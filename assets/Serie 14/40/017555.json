@@ -1,0 +1,49 @@
+{"id":"017555",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Pour le conducteur du véhicule gris, quelle est la meilleure solution :","",""],
+ "proposition":["- klaxonner pour prévenir le motard","- freiner fort","- renoncer à changer de direction",""],
+ "sequence":[
+		{"son":"017555_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"017555_BT_Q01","x":0,"y":0},
+			{"filename":"017555_BT_Q02","x":452,"y":149}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":775,"effet":"B"}
+			]
+		},
+		{"son":"017555_BT_R",
+		"position":30009,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"017555_BT_Q01","x":0,"y":0},
+			{"filename":"017555_BT_R02","x":452,"y":149},
+			{"filename":"017555_BT_R03","x":173,"y":0},
+			{"filename":"017555_BT_R04","x":173,"y":0},
+			{"filename":"017555_BT_R05","x":523,"y":132},
+			{"filename":"017555_BT_R06","x":452,"y":132},
+			{"filename":"017555_BT_R07","x":578,"y":3},
+			{"filename":"017555_BT_R08","x":452,"y":3}
+			],
+		"nbetapes":10,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":621,"effet":"B"},
+			{"image":3,"position":7285,"effet":"C"},
+			{"image":4,"position":7424,"effet":"B"},
+			{"image":5,"position":9469,"effet":"C"},
+			{"image":6,"position":9644,"effet":"B"},
+			{"image":7,"position":15265,"effet":"C"},
+			{"image":8,"position":15460,"effet":"B"},
+			{"image":1,"position":25001,"effet":"C"},
+			{"image":2,"position":25220,"effet":"B"}
+			]
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{"id":"023138",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Si un véhicule arrive en sens inverse, le conducteur de cette voiture bénéficie de la priorité de passage :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023138_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023138_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023138_BT_R",
+		"position":16955,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"023138_BT_Q01","x":0,"y":0},
+			{"filename":"023138_BT_R02","x":669,"y":139},
+			{"filename":"023138_BT_R03","x":669,"y":19}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":969,"effet":"C"},
+			{"image":3,"position":4890,"effet":"C"}
+			]
+		}
+	]
+}

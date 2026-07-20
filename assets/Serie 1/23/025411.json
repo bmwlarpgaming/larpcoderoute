@@ -1,0 +1,36 @@
+{"id":"025411",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Klaxonner en ville est autorisé :","",""],
+ "proposition":["- pour inciter un conducteur à démarrer plus vite","- pour empêcher la traversée régulière d'un piéton","- en cas de danger immédiat","- avant de dépasser un cycliste"],
+ "sequence":[
+		{"son":"025411_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025411_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025411_BT_R",
+		"position":25927,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"025411_BT_Q01","x":0,"y":0},
+			{"filename":"025411_BT_R02","x":0,"y":0},
+			{"filename":"025411_BT_R03","x":332,"y":172}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5251,"effet":"C"},
+			{"image":3,"position":13164,"effet":"C"},
+			{"image":1,"position":20890,"effet":"C"}
+			]
+		}
+	]
+}

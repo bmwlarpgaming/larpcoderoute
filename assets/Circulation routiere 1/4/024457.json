@@ -1,0 +1,47 @@
+{"id":"024457",
+ "reponse":"BD",
+ "sexe":"F",
+ "enonce":["La signalisation m'interdit de tourner à gauche :","","La signalisation m'annonce un passage piétons à 50 m :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"024457_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"024457_BT_Q01","x":0,"y":0},
+			{"filename":"024457_BT_Q02","x":783,"y":43}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2090,"effet":"C"},
+			{"image":1,"position":20546,"effet":"C"}
+			]
+		},
+		{"son":"024457_BT_R",
+		"position":47185,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"024457_BT_Q01","x":0,"y":0},
+			{"filename":"024457_BT_R02","x":783,"y":43},
+			{"filename":"024457_BT_R03","x":51,"y":69},
+			{"filename":"024457_BT_R04","x":51,"y":69},
+			{"filename":"024457_BT_R05","x":235,"y":108},
+			{"filename":"024457_BT_R06","x":235,"y":108}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":990,"effet":"C"},
+			{"image":1,"position":2844,"effet":"C"},
+			{"image":3,"position":4023,"effet":"C"},
+			{"image":4,"position":15413,"effet":"C"},
+			{"image":1,"position":24039,"effet":"C"},
+			{"image":5,"position":29500,"effet":"C"},
+			{"image":6,"position":34716,"effet":"C"},
+			{"image":1,"position":45971,"effet":"C"}
+			]
+		}
+	]
+}

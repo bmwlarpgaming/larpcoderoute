@@ -1,0 +1,39 @@
+{"id":"019477",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Mon véhicule est équipé de ce dispositif. Une fois le pneu regonflé, je réinitialise moi-même le voyant :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"019477_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"019477_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"019477_BT_R",
+		"position":34453,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"019477_BT_Q01","x":0,"y":0},
+			{"filename":"019477_BT_R02","x":436,"y":291},
+			{"filename":"019477_BT_R03","x":0,"y":0},
+			{"filename":"019477_BT_R04","x":0,"y":0},
+			{"filename":"019477_BT_R05","x":392,"y":134}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1028,"effet":"C"},
+			{"image":3,"position":7305,"effet":"C"},
+			{"image":4,"position":13597,"effet":"C"},
+			{"image":5,"position":18892,"effet":"C"}
+			]
+		}
+	]
+}

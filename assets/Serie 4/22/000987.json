@@ -1,0 +1,36 @@
+{"id":"000987",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["J'ai encore la possibilité de prendre la prochaine sortie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"000987_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000987_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000987_BT_R",
+		"position":23273,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"000987_BT_Q01","x":0,"y":0},
+			{"filename":"000987_BT_R02","x":0,"y":0},
+			{"filename":"000987_BT_R03","x":1140,"y":18}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":876,"effet":"B"},
+			{"image":3,"position":14868,"effet":"C"},
+			{"image":1,"position":22009,"effet":"C"}
+			]
+		}
+	]
+}

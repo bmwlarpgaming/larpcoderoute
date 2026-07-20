@@ -1,0 +1,45 @@
+{"id":"024486",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Après ce panneau, la vitesse maximale autorisée sera de :","",""],
+ "proposition":["- 50 km/h","- 80 km/h","- 90 km/h",""],
+ "sequence":[
+		{"son":"024486_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"024486_BT_Q01","x":0,"y":0},
+			{"filename":"024486_BT_Q02","x":820,"y":107}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1940,"effet":"C"},
+			{"image":1,"position":15608,"effet":"C"}
+			]
+		},
+		{"son":"024486_BT_R",
+		"position":45453,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"024486_BT_Q01","x":0,"y":0},
+			{"filename":"024486_BT_R02","x":820,"y":107},
+			{"filename":"024486_BT_R03","x":771,"y":27},
+			{"filename":"024486_BT_R04","x":0,"y":0},
+			{"filename":"024486_BT_R05","x":155,"y":147},
+			{"filename":"024486_BT_R06","x":155,"y":147}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":688,"effet":"C"},
+			{"image":3,"position":7446,"effet":"C"},
+			{"image":4,"position":19050,"effet":"C"},
+			{"image":5,"position":31505,"effet":"C"},
+			{"image":6,"position":37350,"effet":"C"},
+			{"image":1,"position":44201,"effet":"C"}
+			]
+		}
+	]
+}

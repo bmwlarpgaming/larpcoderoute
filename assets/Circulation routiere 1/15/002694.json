@@ -1,0 +1,41 @@
+{"id":"002694",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je vais à ANNECY. Je change de voie maintenant :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"002694_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002694_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002694_BT_R",
+		"position":30046,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002694_BT_Q01","x":0,"y":0},
+			{"filename":"002694_BT_R02","x":195,"y":211},
+			{"filename":"002694_BT_R03","x":424,"y":218},
+			{"filename":"002694_BT_R05","x":152,"y":211},
+			{"filename":"002694_BT_R06","x":982,"y":92}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3728,"effet":"C"},
+			{"image":3,"position":7765,"effet":"C"},
+			{"image":2,"position":11487,"effet":"C"},
+			{"image":4,"position":15469,"effet":"C"},
+			{"image":5,"position":21446,"effet":"C"},
+			{"image":1,"position":28680,"effet":"C"}
+			]
+		}
+	]
+}

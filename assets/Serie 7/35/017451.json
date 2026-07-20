@@ -1,0 +1,42 @@
+{"id":"017451",
+ "reponse":"ACD",
+ "sexe":"F",
+ "enonce":["","Ce panneau implique :",""],
+ "proposition":["- une circulation à sens unique","- une interdiction d'accès aux poids lourds","- une vitesse limitée à 130 km/h","- une interdiction de faire marche arrière"],
+ "sequence":[
+		{"son":"017451_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017451_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017451_BT_R",
+		"position":33067,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017451_BT_Q01","x":0,"y":0},
+			{"filename":"017451_BT_R02","x":127,"y":75},
+			{"filename":"017451_BT_R03","x":127,"y":75},
+			{"filename":"017451_BT_R04","x":127,"y":75},
+			{"filename":"017451_BT_R05","x":127,"y":75},
+			{"filename":"017451_BT_R06","x":127,"y":75}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6551,"effet":"C"},
+			{"image":3,"position":10903,"effet":"C"},
+			{"image":4,"position":12831,"effet":"C"},
+			{"image":5,"position":19000,"effet":"C"},
+			{"image":6,"position":23563,"effet":"C"},
+			{"image":1,"position":28419,"effet":"C"}
+			]
+		}
+	]
+}

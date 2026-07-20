@@ -1,0 +1,37 @@
+{"id":"023544",
+ "reponse":"BCD",
+ "sexe":"F",
+ "enonce":["Je dois maintenir une distance de sécurité d'au moins deux diodes bleues :","",""],
+ "proposition":["- uniquement avec les voitures","- avec tous les véhicules","- à l'arrêt","- en circulation"],
+ "sequence":[
+		{"son":"023544_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023544_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023544_BT_R",
+		"position":24892,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023544_BT_Q01","x":0,"y":0},
+			{"filename":"023544_BT_R02","x":380,"y":219},
+			{"filename":"023544_BT_R03","x":380,"y":35},
+			{"filename":"023544_BT_R04","x":380,"y":35}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9530,"effet":"C"},
+			{"image":3,"position":13243,"effet":"C"},
+			{"image":4,"position":21596,"effet":"C"}
+			]
+		}
+	]
+}

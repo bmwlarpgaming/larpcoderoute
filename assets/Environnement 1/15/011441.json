@@ -1,0 +1,38 @@
+{"id":"011441",
+ "reponse":"ACD",
+ "sexe":"H",
+ "enonce":["Pour consommer moins de carburant, je profite de l'élan (énergie cinétique) de ma voiture :","","Cette technique est utilisable :"],
+ "proposition":["OUI","NON","- sur route","- en ville"],
+ "sequence":[
+		{"son":"011441_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011441_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011441_BT_R",
+		"position":27821,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011441_BT_Q01","x":0,"y":0},
+			{"filename":"011441_BT_R02","x":0,"y":0},
+			{"filename":"011441_BT_R03","x":811,"y":139},
+			{"filename":"011441_BT_R04","x":307,"y":91}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3679,"effet":"C"},
+			{"image":3,"position":9844,"effet":"C"},
+			{"image":4,"position":19584,"effet":"C"},
+			{"image":1,"position":27344,"effet":"C"}
+			]
+		}
+	]
+}

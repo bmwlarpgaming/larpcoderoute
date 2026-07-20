@@ -1,0 +1,40 @@
+{"id":"023671",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Mon véhicule n'est pas équipé de pneus hiver. À partir du panneau, en période hivernale, je dois avoir des chaînes à neige :","",""],
+ "proposition":["- à bord du véhicule","- sur les 4 pneus","",""],
+ "sequence":[
+		{"son":"023671_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023671_BT_Q01","x":0,"y":0},
+			{"filename":"023671_BT_Q02","x":595,"y":75}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4822,"effet":"C"},
+			{"image":1,"position":14062,"effet":"C"}
+			]
+		},
+		{"son":"023671_BT_R",
+		"position":34306,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023671_BT_Q01","x":0,"y":0},
+			{"filename":"023671_BT_R02","x":595,"y":75},
+			{"filename":"023671_BT_R03","x":595,"y":75},
+			{"filename":"023671_BT_R04","x":437,"y":75}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4700,"effet":"C"},
+			{"image":3,"position":16271,"effet":"C"},
+			{"image":4,"position":30688,"effet":"C"}
+			]
+		}
+	]
+}

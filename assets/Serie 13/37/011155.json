@@ -1,0 +1,35 @@
+{"id":"011155",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Lorsqu'une victime a perdu connaissance, il est recommandé en attendant les secours, de vérifier régulièrement sa respiration :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011155_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011155_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011155_BT_R",
+		"position":22617,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"011155_BT_Q01","x":0,"y":0},
+			{"filename":"011155_BT_R02","x":0,"y":0},
+			{"filename":"011155_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8970,"effet":"C"},
+			{"image":3,"position":16115,"effet":"C"}
+			]
+		}
+	]
+}

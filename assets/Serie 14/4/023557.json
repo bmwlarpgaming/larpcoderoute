@@ -1,0 +1,39 @@
+{"id":"023557",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["La contre-visite est obligatoire en cas de défaillance :","",""],
+ "proposition":["- mineure","- majeure","- critique",""],
+ "sequence":[
+		{"son":"023557_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023557_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023557_BT_R",
+		"position":33253,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023557_BT_Q01","x":0,"y":0},
+			{"filename":"023557_BT_R02","x":315,"y":46},
+			{"filename":"023557_BT_R03","x":315,"y":46},
+			{"filename":"023557_BT_R04","x":315,"y":46},
+			{"filename":"023557_BT_R05","x":315,"y":107}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2134,"effet":"C"},
+			{"image":3,"position":10573,"effet":"C"},
+			{"image":4,"position":20471,"effet":"C"},
+			{"image":5,"position":25292,"effet":"C"}
+			]
+		}
+	]
+}

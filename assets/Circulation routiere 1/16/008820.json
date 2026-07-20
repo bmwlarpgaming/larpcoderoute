@@ -1,0 +1,38 @@
+{"id":"008820",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Ce panneau indique que la route est prioritaire à la prochaine intersection seulement :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008820_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008820_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008820_BT_R",
+		"position":27878,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008820_BT_Q01","x":0,"y":0},
+			{"filename":"008820_BT_R02","x":315,"y":136},
+			{"filename":"008820_BT_R03","x":731,"y":101},
+			{"filename":"008820_BT_R04","x":763,"y":358}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2178,"effet":"C"},
+			{"image":3,"position":5473,"effet":"C"},
+			{"image":4,"position":11500,"effet":"C"},
+			{"image":1,"position":21583,"effet":"C"}
+			]
+		}
+	]
+}

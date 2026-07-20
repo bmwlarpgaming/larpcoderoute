@@ -1,0 +1,40 @@
+{"id":"023328",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Le conducteur de cette voiture a conservé son clignotant alors qu'il ne tourne pas. Le risque d'accident est :","",""],
+ "proposition":["- augmenté","- diminué","- inchangé",""],
+ "sequence":[
+		{"son":"023328_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023328_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023328_BT_R",
+		"position":29382,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023328_BT_Q01","x":0,"y":0},
+			{"filename":"023328_BT_R02","x":219,"y":130},
+			{"filename":"023328_BT_R03","x":729,"y":310},
+			{"filename":"023328_BT_R04","x":0,"y":0},
+			{"filename":"023328_BT_R05","x":725,"y":289}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1047,"effet":"C"},
+			{"image":3,"position":7872,"effet":"C"},
+			{"image":4,"position":12388,"effet":"C"},
+			{"image":5,"position":22975,"effet":"C"},
+			{"image":1,"position":29119,"effet":"C"}
+			]
+		}
+	]
+}

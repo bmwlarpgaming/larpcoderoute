@@ -1,0 +1,40 @@
+{"id":"010570",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Cette conductrice prend un risque en roulant :","- à 30 km/h","- à 50 km/h"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010570_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010570_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010570_BT_R",
+		"position":29814,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010570_BT_Q01","x":0,"y":0},
+			{"filename":"010570_BT_R02","x":379,"y":18},
+			{"filename":"010570_BT_R03","x":379,"y":18},
+			{"filename":"010570_BT_R04","x":534,"y":193},
+			{"filename":"010570_BT_R05","x":257,"y":52}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7232,"effet":"C"},
+			{"image":3,"position":12008,"effet":"C"},
+			{"image":4,"position":15945,"effet":"C"},
+			{"image":5,"position":20944,"effet":"C"},
+			{"image":1,"position":24844,"effet":"C"}
+			]
+		}
+	]
+}

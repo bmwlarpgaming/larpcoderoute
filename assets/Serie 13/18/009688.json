@@ -1,0 +1,43 @@
+{"id":"009688",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je suis le véhicule rouge pour dépasser :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009688_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009688_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009688_BT_R",
+		"position":43279,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"009688_BT_Q01","x":0,"y":0},
+			{"filename":"009688_BT_R02","x":579,"y":243},
+			{"filename":"009688_BT_R03","x":499,"y":243},
+			{"filename":"009688_BT_R04","x":355,"y":147},
+			{"filename":"009688_BT_R05","x":635,"y":139},
+			{"filename":"009688_BT_R06","x":521,"y":123},
+			{"filename":"009688_BT_R07","x":293,"y":123}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4052,"effet":"C"},
+			{"image":3,"position":9942,"effet":"C"},
+			{"image":4,"position":13146,"effet":"C"},
+			{"image":5,"position":19226,"effet":"C"},
+			{"image":6,"position":29876,"effet":"C"},
+			{"image":7,"position":36663,"effet":"C"}
+			]
+		}
+	]
+}

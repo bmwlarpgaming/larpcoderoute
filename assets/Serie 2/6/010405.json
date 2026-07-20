@@ -1,0 +1,38 @@
+{"id":"010405",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Avant de monter en voiture, je contrôle :","- l’aspect des pneus","- l’absence d’obstacles autour du véhicule"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010405_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010405_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010405_BT_R",
+		"position":26116,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010405_BT_Q01","x":0,"y":0},
+			{"filename":"010405_BT_R02","x":699,"y":187},
+			{"filename":"010405_BT_R03","x":892,"y":107},
+			{"filename":"010405_BT_R04","x":699,"y":187}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5448,"effet":"C"},
+			{"image":3,"position":11228,"effet":"C"},
+			{"image":4,"position":13991,"effet":"C"},
+			{"image":1,"position":23566,"effet":"C"}
+			]
+		}
+	]
+}

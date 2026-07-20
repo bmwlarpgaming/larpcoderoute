@@ -1,0 +1,39 @@
+{"id":"010643",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Ce cadran indique la vitesse du moteur :","","C'est une aide utile à l'écoconduite :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010643_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010643_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010643_BT_R",
+		"position":46930,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010643_BT_Q01","x":0,"y":0},
+			{"filename":"010643_BT_R02","x":542,"y":172},
+			{"filename":"010643_BT_R03","x":542,"y":172},
+			{"filename":"010643_BT_R04","x":542,"y":172},
+			{"filename":"010643_BT_R05","x":542,"y":172}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9828,"effet":"C"},
+			{"image":3,"position":15659,"effet":"C"},
+			{"image":4,"position":22805,"effet":"C"},
+			{"image":5,"position":28708,"effet":"C"}
+			]
+		}
+	]
+}

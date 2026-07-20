@@ -1,0 +1,38 @@
+{"id":"023461",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["J'avertis le cycliste de ma présence en utilisant le klaxon :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023461_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023461_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023461_BT_R",
+		"position":37899,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023461_BT_Q01","x":0,"y":0},
+			{"filename":"023461_BT_R02","x":0,"y":286},
+			{"filename":"023461_BT_R03","x":0,"y":397},
+			{"filename":"023461_BT_R04","x":0,"y":59}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3975,"effet":"C"},
+			{"image":3,"position":23201,"effet":"C"},
+			{"image":4,"position":31753,"effet":"C"},
+			{"image":1,"position":36864,"effet":"C"}
+			]
+		}
+	]
+}

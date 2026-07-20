@@ -1,0 +1,43 @@
+{"id":"012065",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["La fatigue chez le conducteur peut se manifester par :","",""],
+ "proposition":["- une concentration importante","- des picotements aux yeux","- des douleurs dans la nuque",""],
+ "sequence":[
+		{"son":"012065_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012065_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012065_BT_R",
+		"position":40944,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"012065_BT_Q01","x":0,"y":0},
+			{"filename":"012065_BT_R02","x":0,"y":0},
+			{"filename":"012065_BT_R03","x":0,"y":0},
+			{"filename":"012065_BT_R04","x":0,"y":0},
+			{"filename":"012065_BT_R05","x":0,"y":0},
+			{"filename":"012065_BT_R06","x":59,"y":50},
+			{"filename":"012065_BT_R07","x":59,"y":50}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":968,"effet":"C"},
+			{"image":3,"position":6255,"effet":"C"},
+			{"image":4,"position":10243,"effet":"C"},
+			{"image":5,"position":20679,"effet":"C"},
+			{"image":6,"position":25359,"effet":"C"},
+			{"image":7,"position":25435,"effet":"B"}
+			]
+		}
+	]
+}

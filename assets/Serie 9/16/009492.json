@@ -1,0 +1,37 @@
+{"id":"009492",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je me rapproche des véhicules","je garde mes distances","",""],
+ "sequence":[
+		{"son":"009492_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009492_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009492_BT_R",
+		"position":18251,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009492_BT_Q01","x":0,"y":0},
+			{"filename":"009492_BT_R02","x":29,"y":66},
+			{"filename":"009492_BT_R03","x":29,"y":66},
+			{"filename":"009492_BT_R04","x":337,"y":339}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6219,"effet":"C"},
+			{"image":3,"position":10323,"effet":"C"},
+			{"image":4,"position":15771,"effet":"C"}
+			]
+		}
+	]
+}

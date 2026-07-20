@@ -1,0 +1,38 @@
+{"id":"012154",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Les feux avant de brouillard permettent :","- d'éclairer plus loin","- d'éclairer plus large"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"012154_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012154_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012154_BT_R",
+		"position":19109,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"012154_BT_Q01","x":0,"y":0},
+			{"filename":"012154_BT_R02","x":474,"y":307},
+			{"filename":"012154_BT_R03","x":0,"y":0},
+			{"filename":"012154_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":825,"effet":"C"},
+			{"image":3,"position":5535,"effet":"C"},
+			{"image":4,"position":10420,"effet":"C"},
+			{"image":1,"position":18019,"effet":"C"}
+			]
+		}
+	]
+}

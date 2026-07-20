@@ -1,0 +1,38 @@
+{"id":"002118",
+ "reponse":"ACD",
+ "sexe":"H",
+ "enonce":["J'ai le droit de circuler avec :","",""],
+ "proposition":["- les feux de croisement","- les feux de route","- les feux de brouillard avant","- les feux de brouillard arrière"],
+ "sequence":[
+		{"son":"002118_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002118_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002118_BT_R",
+		"position":29320,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002118_BT_Q01","x":0,"y":0},
+			{"filename":"002118_BT_R02","x":366,"y":303},
+			{"filename":"002118_BT_R03","x":366,"y":301},
+			{"filename":"002118_BT_R04","x":366,"y":301}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11380,"effet":"C"},
+			{"image":3,"position":14150,"effet":"C"},
+			{"image":4,"position":21080,"effet":"C"},
+			{"image":1,"position":27970,"effet":"C"}
+			]
+		}
+	]
+}

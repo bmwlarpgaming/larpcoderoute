@@ -1,0 +1,43 @@
+{"id":"018040",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Je souhaite stationner. Je mets le clignotant à droite :","","Je fais un appel de feux stop :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"018040_BT_Q",
+		"video":"018040",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"018040_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"018040_BT_R",
+		"video":"018040",
+		"position":27500,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"018040_BT_R03","x":0,"y":0},
+			{"filename":"018040_BT_R04","x":0,"y":0},
+			{"filename":"018040_BT_R05","x":0,"y":0},
+			{"filename":"018040_BT_R06","x":0,"y":0},
+			{"filename":"018040_BT_R07","x":0,"y":0},
+			{"filename":"018040_BT_R08","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7325,"effet":"C"},
+			{"image":3,"position":8830,"effet":"C"},
+			{"image":4,"position":10437,"effet":"C"},
+			{"image":5,"position":19896,"effet":"C"},
+			{"image":6,"position":26500,"effet":"C"}
+			]
+		}
+	]
+}

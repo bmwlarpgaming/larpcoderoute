@@ -1,0 +1,43 @@
+{"id":"023702",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Pour un conducteur en délai probatoire, la vitesse maximale autorisée sur autoroute par beau temps est de :","",""],
+ "proposition":["- 130 km/h","- 110 km/h","- 100 km/h",""],
+ "sequence":[
+		{"son":"023702_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023702_BT_Q01","x":0,"y":0},
+			{"filename":"023702_BT_Q02","x":835,"y":59}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1172,"effet":"C"},
+			{"image":1,"position":16616,"effet":"C"}
+			]
+		},
+		{"son":"023702_BT_R",
+		"position":29653,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023702_BT_Q01","x":0,"y":0},
+			{"filename":"023702_BT_R03","x":187,"y":3},
+			{"filename":"023702_BT_R04","x":59,"y":3},
+			{"filename":"023702_BT_R05","x":237,"y":59},
+			{"filename":"023702_BT_R06","x":237,"y":59}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1866,"effet":"C"},
+			{"image":3,"position":7399,"effet":"C"},
+			{"image":4,"position":14947,"effet":"C"},
+			{"image":5,"position":21526,"effet":"C"},
+			{"image":1,"position":28773,"effet":"C"}
+			]
+		}
+	]
+}

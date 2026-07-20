@@ -1,0 +1,38 @@
+{"id":"017727",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["","",""],
+ "proposition":["Je passe sans ralentir","Je ralentis et je passe","Je m'arrête",""],
+ "sequence":[
+		{"son":"017727_BT_Q",
+		"video":"017727",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017727_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017727_BT_R",
+		"video":"017727",
+		"position":13580,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017727_BT_Q03","x":0,"y":0},
+			{"filename":"017727_BT_R04","x":539,"y":211},
+			{"filename":"017727_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1070,"effet":"C"},
+			{"image":3,"position":5858,"effet":"C"},
+			{"image":1,"position":13028,"effet":"C"}
+			]
+		}
+	]
+}

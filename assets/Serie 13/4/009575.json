@@ -1,0 +1,40 @@
+{"id":"009575",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["La roue de secours peut être remplacée :","- par une roue galette","- par un kit de dépannage"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"009575_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009575_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009575_BT_R",
+		"position":57139,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009575_BT_Q01","x":0,"y":0},
+			{"filename":"009575_BT_R02","x":965,"y":255},
+			{"filename":"009575_BT_R03","x":53,"y":212},
+			{"filename":"009575_BT_R04","x":53,"y":212},
+			{"filename":"009575_BT_R05","x":53,"y":212}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":19365,"effet":"C"},
+			{"image":3,"position":20699,"effet":"C"},
+			{"image":4,"position":30427,"effet":"C"},
+			{"image":5,"position":35969,"effet":"C"},
+			{"image":1,"position":56659,"effet":"C"}
+			]
+		}
+	]
+}

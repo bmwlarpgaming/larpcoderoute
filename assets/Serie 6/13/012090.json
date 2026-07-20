@@ -1,0 +1,37 @@
+{"id":"012090",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["J'anticipe un éventuel écart de trajectoire du cycliste :","","Je serre complètement à gauche :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"012090_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012090_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012090_BT_R",
+		"position":45170,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"012090_BT_Q01","x":0,"y":0},
+			{"filename":"012090_BT_R02","x":183,"y":0},
+			{"filename":"012090_BT_R03","x":333,"y":339},
+			{"filename":"012090_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1206,"effet":"C"},
+			{"image":3,"position":30626,"effet":"C"},
+			{"image":4,"position":39405,"effet":"C"}
+			]
+		}
+	]
+}

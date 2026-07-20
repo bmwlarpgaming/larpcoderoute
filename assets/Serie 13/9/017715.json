@@ -1,0 +1,40 @@
+{"id":"017715",
+ "reponse":"BCD",
+ "sexe":"F",
+ "enonce":["La signalisation annonce une sortie d'autoroute :","","Je suis bien placé pour aller à :"],
+ "proposition":["OUI","NON","ANGERS","LA ROCHE SUR YON"],
+ "sequence":[
+		{"son":"017715_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017715_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017715_BT_R",
+		"position":33579,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017715_BT_Q01","x":0,"y":0},
+			{"filename":"017715_BT_R02","x":383,"y":3},
+			{"filename":"017715_BT_R03","x":408,"y":101},
+			{"filename":"017715_BT_R04","x":472,"y":193},
+			{"filename":"017715_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1172,"effet":"C"},
+			{"image":3,"position":9291,"effet":"C"},
+			{"image":4,"position":14840,"effet":"C"},
+			{"image":5,"position":23498,"effet":"C"},
+			{"image":1,"position":28526,"effet":"C"}
+			]
+		}
+	]
+}

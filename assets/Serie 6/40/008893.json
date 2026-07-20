@@ -1,0 +1,38 @@
+{"id":"008893",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je suis bien placé pour stationner :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008893_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008893_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008893_BT_R",
+		"position":23227,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008893_BT_Q01","x":0,"y":0},
+			{"filename":"008893_BT_R02","x":651,"y":381},
+			{"filename":"008893_BT_R03","x":555,"y":73},
+			{"filename":"008893_BT_R04","x":323,"y":67}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5027,"effet":"C"},
+			{"image":3,"position":7403,"effet":"C"},
+			{"image":4,"position":9995,"effet":"C"},
+			{"image":1,"position":12961,"effet":"C"}
+			]
+		}
+	]
+}

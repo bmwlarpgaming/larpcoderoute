@@ -1,0 +1,40 @@
+{"id":"011231",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je change de voie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011231_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"011231_BT_Q01","x":0,"y":0},
+			{"filename":"011231_BT_Q02","x":759,"y":267}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":284,"effet":"B"}
+			]
+		},
+		{"son":"011231_BT_R",
+		"position":31564,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011231_BT_R01","x":0,"y":0},
+			{"filename":"011231_BT_R02","x":377,"y":427},
+			{"filename":"011231_BT_R03","x":19,"y":24},
+			{"filename":"011231_BT_R04","x":19,"y":24}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5765,"effet":"C"},
+			{"image":3,"position":15967,"effet":"C"},
+			{"image":4,"position":22279,"effet":"C"},
+			{"image":1,"position":29087,"effet":"C"}
+			]
+		}
+	]
+}

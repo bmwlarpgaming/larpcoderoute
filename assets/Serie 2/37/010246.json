@@ -1,0 +1,36 @@
+{"id":"010246",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Ce motard se plaint de douleurs au dos et il veut se relever.","",""],
+ "proposition":["Je l'aide à se mettre debout","Je lui donne à boire","J'attends les secours",""],
+ "sequence":[
+		{"son":"010246_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010246_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010246_BT_R",
+		"position":29108,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010246_BT_Q01","x":0,"y":0},
+			{"filename":"010246_BT_R02","x":110,"y":150},
+			{"filename":"010246_BT_R03","x":110,"y":150}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2237,"effet":"C"},
+			{"image":3,"position":12485,"effet":"C"},
+			{"image":1,"position":28679,"effet":"C"}
+			]
+		}
+	]
+}

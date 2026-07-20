@@ -1,0 +1,40 @@
+{"id":"008741",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["Il pleut fortement, ce conducteur peut ajouter :","- les feux n° 1","- les feux n° 2"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"008741_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008741_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008741_BT_R",
+		"position":42504,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"008741_BT_Q01","x":0,"y":0},
+			{"filename":"008741_BT_R02","x":187,"y":27},
+			{"filename":"008741_BT_R03","x":187,"y":27},
+			{"filename":"008741_BT_R04","x":187,"y":27},
+			{"filename":"008741_BT_R05","x":187,"y":27}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4749,"effet":"C"},
+			{"image":3,"position":16757,"effet":"C"},
+			{"image":4,"position":22717,"effet":"C"},
+			{"image":5,"position":30134,"effet":"C"},
+			{"image":1,"position":38104,"effet":"C"}
+			]
+		}
+	]
+}

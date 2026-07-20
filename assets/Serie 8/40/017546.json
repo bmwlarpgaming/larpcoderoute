@@ -1,0 +1,46 @@
+{"id":"017546",
+ "reponse":"ACD",
+ "sexe":"F",
+ "enonce":["À 150 mètres je vais devoir  :","- m'arrêter","- céder le passage"],
+ "proposition":["OUI","NON","à droite","à gauche"],
+ "sequence":[
+		{"son":"017546_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017546_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017546_BT_R",
+		"position":27828,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"017546_BT_Q01","x":0,"y":0},
+			{"filename":"017546_BT_R02","x":827,"y":91},
+			{"filename":"017546_BT_R03","x":75,"y":220},
+			{"filename":"017546_BT_R04","x":0,"y":0},
+			{"filename":"017546_BT_R05","x":75,"y":220},
+			{"filename":"017546_BT_R06","x":0,"y":0},
+			{"filename":"017546_BT_R07","x":580,"y":21},
+			{"filename":"017546_BT_R08","x":580,"y":21}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1762,"effet":"C"},
+			{"image":3,"position":9199,"effet":"C"},
+			{"image":4,"position":11012,"effet":"C"},
+			{"image":5,"position":14424,"effet":"C"},
+			{"image":6,"position":17174,"effet":"C"},
+			{"image":7,"position":19414,"effet":"C"},
+			{"image":8,"position":23113,"effet":"C"},
+			{"image":1,"position":26597,"effet":"C"}
+			]
+		}
+	]
+}

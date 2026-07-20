@@ -1,0 +1,39 @@
+{"id":"025368",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je dois porter un gilet de haute visibilité :","- lors d'une immobilisation d'urgence","- lors d'un stationnement sur le bas-côté"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025368_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025368_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025368_BT_R",
+		"position":34772,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025368_BT_Q01","x":0,"y":0},
+			{"filename":"025368_BT_R02","x":0,"y":0},
+			{"filename":"025368_BT_R03","x":0,"y":0},
+			{"filename":"025368_BT_R04","x":0,"y":0},
+			{"filename":"025368_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2341,"effet":"C"},
+			{"image":3,"position":6446,"effet":"C"},
+			{"image":4,"position":20157,"effet":"C"},
+			{"image":5,"position":27085,"effet":"C"}
+			]
+		}
+	]
+}

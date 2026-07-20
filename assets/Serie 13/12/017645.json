@@ -1,0 +1,40 @@
+{"id":"017645",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Tracter une petite remorque a des conséquences sur la conduite :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017645_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017645_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017645_BT_R",
+		"position":38993,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017645_BT_Q01","x":0,"y":0},
+			{"filename":"017645_BT_R02","x":643,"y":163},
+			{"filename":"017645_BT_R03","x":675,"y":0},
+			{"filename":"017645_BT_R04","x":683,"y":0},
+			{"filename":"017645_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5293,"effet":"C"},
+			{"image":3,"position":9111,"effet":"C"},
+			{"image":4,"position":17844,"effet":"C"},
+			{"image":5,"position":27246,"effet":"C"},
+			{"image":1,"position":38212,"effet":"C"}
+			]
+		}
+	]
+}

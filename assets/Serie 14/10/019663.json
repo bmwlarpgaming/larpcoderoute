@@ -1,0 +1,37 @@
+{"id":"019663",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je poursuis le dépassement du poids lourd","je me rabats à droite","",""],
+ "sequence":[
+		{"son":"019663_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"019663_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"019663_BT_R",
+		"position":31382,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"019663_BT_Q01","x":0,"y":0},
+			{"filename":"019663_BT_R02","x":594,"y":137},
+			{"filename":"019663_BT_R03","x":0,"y":0},
+			{"filename":"019663_BT_R04","x":755,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1044,"effet":"C"},
+			{"image":3,"position":7005,"effet":"C"},
+			{"image":4,"position":20113,"effet":"C"}
+			]
+		}
+	]
+}

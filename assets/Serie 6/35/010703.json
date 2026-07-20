@@ -1,0 +1,38 @@
+{"id":"010703",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Pour négocier ce virage :","- j'anticipe le ralentissement","- j'utilise le frein moteur"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010703_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010703_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010703_BT_R",
+		"position":22586,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010703_BT_Q01","x":0,"y":0},
+			{"filename":"010703_BT_R02","x":336,"y":260},
+			{"filename":"010703_BT_R03","x":0,"y":0},
+			{"filename":"010703_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1281,"effet":"C"},
+			{"image":3,"position":11080,"effet":"C"},
+			{"image":4,"position":15778,"effet":"C"},
+			{"image":1,"position":22115,"effet":"C"}
+			]
+		}
+	]
+}

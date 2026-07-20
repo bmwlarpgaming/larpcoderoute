@@ -1,0 +1,39 @@
+{"id":"025698",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Les utilisateurs de trottinettes électriques sont concernés par le Code de la route :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"025698_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025698_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025698_BT_R",
+		"position":34154,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025698_BT_Q01","x":0,"y":0},
+			{"filename":"025698_BT_R02","x":843,"y":11},
+			{"filename":"025698_BT_R03","x":635,"y":11},
+			{"filename":"025698_BT_R04","x":107,"y":155},
+			{"filename":"025698_BT_R05","x":107,"y":19}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7555,"effet":"C"},
+			{"image":3,"position":15832,"effet":"C"},
+			{"image":4,"position":19511,"effet":"C"},
+			{"image":5,"position":25607,"effet":"C"}
+			]
+		}
+	]
+}

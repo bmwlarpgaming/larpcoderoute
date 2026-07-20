@@ -1,0 +1,36 @@
+{"id":"017671",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["L'indice le plus important est  :","",""],
+ "proposition":["- le marquage au sol","- le regard du conducteur","",""],
+ "sequence":[
+		{"son":"017671_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017671_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017671_BT_R",
+		"position":26347,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017671_BT_Q01","x":0,"y":0},
+			{"filename":"017671_BT_R02","x":763,"y":331},
+			{"filename":"017671_BT_R03","x":819,"y":211}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5571,"effet":"B"},
+			{"image":3,"position":12901,"effet":"C"},
+			{"image":1,"position":22469,"effet":"C"}
+			]
+		}
+	]
+}

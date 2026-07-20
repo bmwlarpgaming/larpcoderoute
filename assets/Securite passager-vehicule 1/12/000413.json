@@ -1,0 +1,37 @@
+{"id":"000413",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Le dispositif GPS permet :","- de réduire les erreurs de parcours","- d’améliorer la vigilance"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"000413_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000413_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000413_BT_R",
+		"position":41019,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"000413_BT_Q01","x":0,"y":0},
+			{"filename":"000413_BT_R02","x":507,"y":123},
+			{"filename":"000413_BT_R04","x":295,"y":291}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10637,"effet":"B"},
+			{"image":1,"position":20035,"effet":"C"},
+			{"image":3,"position":28795,"effet":"C"},
+			{"image":1,"position":37307,"effet":"C"}
+			]
+		}
+	]
+}

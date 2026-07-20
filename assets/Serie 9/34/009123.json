@@ -1,0 +1,37 @@
+{"id":"009123",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Je doute des intentions du cycliste :","- je klaxonne","- je ralentis"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"009123_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009123_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009123_BT_R",
+		"position":31658,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009123_BT_Q01","x":0,"y":0},
+			{"filename":"009123_BT_R02","x":0,"y":0},
+			{"filename":"009123_BT_R03","x":0,"y":0},
+			{"filename":"009123_BT_R04","x":246,"y":320}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1416,"effet":"C"},
+			{"image":3,"position":6184,"effet":"C"},
+			{"image":4,"position":21583,"effet":"C"}
+			]
+		}
+	]
+}

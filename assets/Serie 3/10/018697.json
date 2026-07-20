@@ -1,0 +1,42 @@
+{"id":"018697",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je  m'apprête à m'arrêter :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"018697_BT_Q",
+		"video":"018697",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"018697_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"018697_BT_R",
+		"video":"018697",
+		"position":28239,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"018697_BT_Q03","x":0,"y":0},
+			{"filename":"018697_BT_R03","x":451,"y":308},
+			{"filename":"018697_BT_R04","x":451,"y":227},
+			{"filename":"018697_BT_R05","x":0,"y":0},
+			{"filename":"018697_BT_R06","x":371,"y":131}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2336,"effet":"C"},
+			{"image":3,"position":7471,"effet":"C"},
+			{"image":4,"position":12600,"effet":"C"},
+			{"image":5,"position":19104,"effet":"C"},
+			{"image":1,"position":27711,"effet":"C"}
+			]
+		}
+	]
+}

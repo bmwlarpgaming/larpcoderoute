@@ -1,0 +1,36 @@
+{"id":"008690",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je dois passer en feux de croisement :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008690_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008690_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008690_BT_R",
+		"position":32663,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"008690_BT_Q01","x":0,"y":0},
+			{"filename":"008690_BT_R02","x":471,"y":197},
+			{"filename":"008690_BT_R03","x":315,"y":403}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5277,"effet":"C"},
+			{"image":3,"position":12091,"effet":"C"},
+			{"image":1,"position":25369,"effet":"C"}
+			]
+		}
+	]
+}

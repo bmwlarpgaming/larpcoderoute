@@ -1,0 +1,39 @@
+{"id":"023658",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Afin d'être mieux détecté, j'utilise de préférence :","",""],
+ "proposition":["- les feux de route","- les feux de croisement","- les feux de position seuls",""],
+ "sequence":[
+		{"son":"023658_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023658_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023658_BT_R",
+		"position":26884,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023658_BT_Q01","x":0,"y":0},
+			{"filename":"023658_BT_R02","x":412,"y":123},
+			{"filename":"023658_BT_R03","x":412,"y":123},
+			{"filename":"023658_BT_R04","x":412,"y":123},
+			{"filename":"023658_BT_R05","x":412,"y":123}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4058,"effet":"C"},
+			{"image":3,"position":6708,"effet":"C"},
+			{"image":4,"position":15007,"effet":"C"},
+			{"image":5,"position":18522,"effet":"C"}
+			]
+		}
+	]
+}

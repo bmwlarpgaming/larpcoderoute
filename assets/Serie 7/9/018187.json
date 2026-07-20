@@ -1,0 +1,41 @@
+{"id":"018187",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je me prépare à me placer dans la voie de gauche :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"018187_BT_Q",
+		"video":"018187",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"018187_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"018187_BT_R",
+		"video":"018187",
+		"position":28053,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"018187_BT_Q03","x":0,"y":0},
+			{"filename":"018187_BT_R04","x":0,"y":0},
+			{"filename":"018187_BT_R05","x":995,"y":36},
+			{"filename":"018187_BT_R06","x":523,"y":254},
+			{"filename":"018187_BT_R07","x":523,"y":254}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5452,"effet":"C"},
+			{"image":3,"position":17336,"effet":"C"},
+			{"image":4,"position":22580,"effet":"C"},
+			{"image":5,"position":23134,"effet":"B"}
+			]
+		}
+	]
+}

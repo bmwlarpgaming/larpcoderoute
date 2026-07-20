@@ -1,0 +1,43 @@
+{"id":"002902",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Dans cette situation :","",""],
+ "proposition":["- je m’écarte et je passe","- je ralentis et je passe","- je m’arrête",""],
+ "sequence":[
+		{"son":"002902_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"002902_BT_Q01","x":0,"y":0},
+			{"filename":"002902_BT_Q02","x":600,"y":269}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":810,"effet":"B"}
+			]
+		},
+		{"son":"002902_BT_R",
+		"position":29458,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002902_BT_Q01","x":0,"y":0},
+			{"filename":"002902_BT_R02","x":600,"y":269},
+			{"filename":"002902_BT_R03","x":579,"y":126},
+			{"filename":"002902_BT_R04","x":600,"y":0},
+			{"filename":"002902_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":717,"effet":"B"},
+			{"image":3,"position":3314,"effet":"C"},
+			{"image":4,"position":9072,"effet":"C"},
+			{"image":5,"position":21213,"effet":"C"},
+			{"image":1,"position":24224,"effet":"C"},
+			{"image":2,"position":24741,"effet":"B"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"002433",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Sur une route vallonnée, pour faire des économies de carburant, il est préférable d’utiliser :","",""],
+ "proposition":["- le régulateur de vitesse","- le limiteur de vitesse","",""],
+ "sequence":[
+		{"son":"002433_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002433_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002433_BT_R",
+		"position":48239,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"002433_BT_Q01","x":0,"y":0},
+			{"filename":"002433_BT_R02","x":72,"y":75},
+			{"filename":"002433_BT_R03","x":310,"y":75},
+			{"filename":"002433_BT_R04","x":284,"y":75},
+			{"filename":"002433_BT_R05","x":292,"y":75},
+			{"filename":"002433_BT_R06","x":141,"y":75}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1664,"effet":"B"},
+			{"image":3,"position":9980,"effet":"C"},
+			{"image":4,"position":21522,"effet":"C"},
+			{"image":5,"position":34283,"effet":"C"},
+			{"image":6,"position":44243,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{"id":"025198",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Avec un chargement de vélos sur le toit de ma voiture, certaines précautions sont à prendre :","- dans la situation A","- dans la situation B"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025198_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025198_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025198_BT_R",
+		"position":42593,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"025198_BT_Q01","x":0,"y":0},
+			{"filename":"025198_BT_R02","x":0,"y":0},
+			{"filename":"025198_BT_R03","x":0,"y":0},
+			{"filename":"025198_BT_R04","x":291,"y":33},
+			{"filename":"025198_BT_R05","x":0,"y":0},
+			{"filename":"025198_BT_R06","x":20,"y":267}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7277,"effet":"C"},
+			{"image":3,"position":12837,"effet":"C"},
+			{"image":4,"position":19093,"effet":"C"},
+			{"image":5,"position":28805,"effet":"C"},
+			{"image":6,"position":35165,"effet":"C"},
+			{"image":1,"position":41977,"effet":"C"}
+			]
+		}
+	]
+}

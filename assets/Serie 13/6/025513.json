@@ -1,0 +1,40 @@
+{"id":"025513",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Des chaussures adaptées facilitent la gestion des commandes en conduite :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"025513_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025513_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025513_BT_R",
+		"position":33526,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025513_BT_Q01","x":0,"y":0},
+			{"filename":"025513_BT_R02","x":0,"y":0},
+			{"filename":"025513_BT_R03","x":0,"y":0},
+			{"filename":"025513_BT_R04","x":0,"y":0},
+			{"filename":"025513_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2937,"effet":"C"},
+			{"image":3,"position":7443,"effet":"C"},
+			{"image":4,"position":11348,"effet":"C"},
+			{"image":5,"position":29250,"effet":"C"},
+			{"image":1,"position":32609,"effet":"C"}
+			]
+		}
+	]
+}

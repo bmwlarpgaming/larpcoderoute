@@ -1,0 +1,40 @@
+{"id":"024498",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["L'intervalle latéral minimum à conserver lors du dépassement d'un cycliste hors agglomération est de :","",""],
+ "proposition":["- 1 m","- 1,5 m","",""],
+ "sequence":[
+		{"son":"024498_BT_Q",
+		"video":"024498",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024498_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024498_BT_R",
+		"video":"024498",
+		"position":24110,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"024498_BT_Q03","x":0,"y":0},
+			{"filename":"024498_BT_R04","x":264,"y":11},
+			{"filename":"024498_BT_R05","x":264,"y":11},
+			{"filename":"024498_BT_R06","x":19,"y":19}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3104,"effet":"C"},
+			{"image":3,"position":12720,"effet":"C"},
+			{"image":4,"position":16662,"effet":"C"},
+			{"image":1,"position":23387,"effet":"C"}
+			]
+		}
+	]
+}

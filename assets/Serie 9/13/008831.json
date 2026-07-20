@@ -1,0 +1,40 @@
+{"id":"008831",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je suis bien placé pour aller tout droit :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008831_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008831_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008831_BT_R",
+		"position":29158,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"008831_BT_Q01","x":0,"y":0},
+			{"filename":"008831_BT_R02","x":363,"y":300},
+			{"filename":"008831_BT_R03","x":363,"y":300},
+			{"filename":"008831_BT_R04","x":363,"y":261},
+			{"filename":"008831_BT_R05","x":244,"y":275}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3730,"effet":"C"},
+			{"image":3,"position":6370,"effet":"C"},
+			{"image":4,"position":10279,"effet":"C"},
+			{"image":5,"position":23722,"effet":"C"},
+			{"image":1,"position":28474,"effet":"C"}
+			]
+		}
+	]
+}

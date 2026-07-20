@@ -1,0 +1,41 @@
+{"id":"024722",
+ "reponse":"AB",
+ "sexe":"F",
+ "enonce":["Sont autorisés à tourner à gauche :","",""],
+ "proposition":["- les cyclistes","- les usagers de trottinettes électriques","- les automobilistes",""],
+ "sequence":[
+		{"son":"024722_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"024722_BT_Q01","x":0,"y":0},
+			{"filename":"024722_BT_Q02","x":59,"y":35}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":453,"effet":"C"},
+			{"image":1,"position":12794,"effet":"C"}
+			]
+		},
+		{"son":"024722_BT_R",
+		"position":23482,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"024722_BT_Q01","x":0,"y":0},
+			{"filename":"024722_BT_R02","x":59,"y":35},
+			{"filename":"024722_BT_R03","x":59,"y":35},
+			{"filename":"024722_BT_R04","x":163,"y":275}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1042,"effet":"C"},
+			{"image":3,"position":7244,"effet":"C"},
+			{"image":4,"position":18918,"effet":"C"},
+			{"image":1,"position":22912,"effet":"C"}
+			]
+		}
+	]
+}

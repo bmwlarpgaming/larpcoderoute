@@ -1,0 +1,47 @@
+{"id":"009157",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["Dans cette rue, circuler à 50 km/h :","- est autorisé","- est adapté à la situation"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"009157_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009157_BT_Q01","x":0,"y":0},
+			{"filename":"009157_BT_Q02","x":286,"y":260}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":428,"effet":"B"}
+			]
+		},
+		{"son":"009157_BT_R",
+		"position":36607,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"009157_BT_Q01","x":0,"y":0},
+			{"filename":"009157_BT_R02","x":286,"y":260},
+			{"filename":"009157_BT_R03","x":0,"y":0},
+			{"filename":"009157_BT_R04","x":198,"y":157},
+			{"filename":"009157_BT_R05","x":0,"y":0},
+			{"filename":"009157_BT_R06","x":0,"y":0},
+			{"filename":"009157_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":616,"effet":"B"},
+			{"image":3,"position":2827,"effet":"C"},
+			{"image":4,"position":7026,"effet":"C"},
+			{"image":5,"position":11670,"effet":"C"},
+			{"image":1,"position":14317,"effet":"C"},
+			{"image":2,"position":14777,"effet":"B"},
+			{"image":6,"position":31339,"effet":"C"},
+			{"image":7,"position":34111,"effet":"C"}
+			]
+		}
+	]
+}

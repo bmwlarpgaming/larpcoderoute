@@ -1,0 +1,42 @@
+{"id":"002738",
+ "reponse":"ABD",
+ "sexe":"F",
+ "enonce":["Je peux stationner :","","Le stationnement est :"],
+ "proposition":["- à gauche","- à droite","- payant","- à durée limitée"],
+ "sequence":[
+		{"son":"002738_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002738_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002738_BT_R",
+		"position":38089,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"002738_BT_Q01","x":0,"y":0},
+			{"filename":"002738_BT_R02","x":367,"y":278},
+			{"filename":"002738_BT_R03","x":276,"y":0},
+			{"filename":"002738_BT_R04","x":252,"y":274},
+			{"filename":"002738_BT_R05","x":252,"y":252},
+			{"filename":"002738_BT_R06","x":252,"y":66}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2845,"effet":"C"},
+			{"image":3,"position":10565,"effet":"C"},
+			{"image":4,"position":14280,"effet":"C"},
+			{"image":5,"position":26920,"effet":"C"},
+			{"image":6,"position":29078,"effet":"C"},
+			{"image":1,"position":36472,"effet":"C"}
+			]
+		}
+	]
+}

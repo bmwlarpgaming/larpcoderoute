@@ -1,0 +1,39 @@
+{"id":"010389",
+ "reponse":"ABD",
+ "sexe":"F",
+ "enonce":["Sur le lieu d’un accident, lorsque j’appelle les secours, je donne :","",""],
+ "proposition":["- mon identité","- mon numéro de téléphone","- l'immatriculation de mon véhicule","- le nombre de victimes"],
+ "sequence":[
+		{"son":"010389_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010389_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010389_BT_R",
+		"position":40433,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010389_BT_Q01","x":0,"y":0},
+			{"filename":"010389_BT_R02","x":0,"y":0},
+			{"filename":"010389_BT_R03","x":0,"y":0},
+			{"filename":"010389_BT_R04","x":0,"y":0},
+			{"filename":"010389_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5324,"effet":"C"},
+			{"image":3,"position":9004,"effet":"C"},
+			{"image":4,"position":22267,"effet":"C"},
+			{"image":5,"position":31502,"effet":"C"}
+			]
+		}
+	]
+}

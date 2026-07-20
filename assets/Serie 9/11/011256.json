@@ -1,0 +1,38 @@
+{"id":"011256",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Dans une longue descente, pour économiser du carburant :","- je mets au point mort","- je lâche l'accélérateur"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"011256_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011256_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011256_BT_R",
+		"position":25398,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011256_BT_Q01","x":0,"y":0},
+			{"filename":"011256_BT_R02","x":127,"y":19},
+			{"filename":"011256_BT_R03","x":0,"y":97},
+			{"filename":"011256_BT_R04","x":233,"y":257}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1221,"effet":"C"},
+			{"image":3,"position":9897,"effet":"C"},
+			{"image":4,"position":14417,"effet":"C"},
+			{"image":1,"position":24893,"effet":"C"}
+			]
+		}
+	]
+}

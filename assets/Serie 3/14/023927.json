@@ -1,0 +1,38 @@
+{"id":"023927",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["La période du matin où le niveau de vigilance d'un conducteur baisse est :","","ou"],
+ "proposition":["-  entre 2h et 5h","- entre 8h et 10h","",""],
+ "sequence":[
+		{"son":"023927_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023927_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023927_BT_R",
+		"position":27435,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023927_BT_Q01","x":0,"y":0},
+			{"filename":"023927_BT_R02","x":0,"y":0},
+			{"filename":"023927_BT_R03","x":0,"y":0},
+			{"filename":"023927_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":988,"effet":"C"},
+			{"image":3,"position":6660,"effet":"C"},
+			{"image":4,"position":19586,"effet":"C"},
+			{"image":1,"position":27203,"effet":"C"}
+			]
+		}
+	]
+}

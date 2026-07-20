@@ -1,0 +1,41 @@
+{"id":"009994",
+ "reponse":"D",
+ "sexe":"F",
+ "enonce":["Pour faire un trajet d'un kilomètre en centre-ville, le moyen de locomotion le moins adapté est :","",""],
+ "proposition":["- le vélo","- le roller","- la marche","- la voiture"],
+ "sequence":[
+		{"son":"009994_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009994_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009994_BT_R",
+		"position":36612,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"009994_BT_Q01","x":0,"y":0},
+			{"filename":"009994_BT_R02","x":0,"y":0},
+			{"filename":"009994_BT_R03","x":0,"y":0},
+			{"filename":"009994_BT_R04","x":0,"y":0},
+			{"filename":"009994_BT_R05","x":552,"y":13},
+			{"filename":"009994_BT_R06","x":171,"y":35}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1967,"effet":"C"},
+			{"image":3,"position":8070,"effet":"C"},
+			{"image":4,"position":11489,"effet":"C"},
+			{"image":5,"position":30412,"effet":"C"},
+			{"image":6,"position":32492,"effet":"C"}
+			]
+		}
+	]
+}

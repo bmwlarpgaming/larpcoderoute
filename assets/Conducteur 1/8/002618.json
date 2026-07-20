@@ -1,0 +1,41 @@
+{"id":"002618",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je mets le clignotant :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"002618_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002618_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002618_BT_R",
+		"position":31153,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"002618_BT_Q01","x":0,"y":0},
+			{"filename":"002618_BT_R02","x":259,"y":180},
+			{"filename":"002618_BT_R03","x":835,"y":20},
+			{"filename":"002618_BT_R04","x":204,"y":183},
+			{"filename":"002618_BT_R05","x":431,"y":429},
+			{"filename":"002618_BT_R06","x":449,"y":447}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2000,"effet":"C"},
+			{"image":3,"position":11151,"effet":"C"},
+			{"image":4,"position":17076,"effet":"C"},
+			{"image":5,"position":28912,"effet":"C"},
+			{"image":6,"position":30248,"effet":"B"}
+			]
+		}
+	]
+}

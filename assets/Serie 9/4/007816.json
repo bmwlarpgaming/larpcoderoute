@@ -1,0 +1,37 @@
+{"id":"007816",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Le risque d'aquaplanage augmente :","- avec la vitesse","- avec l'usure des pneus"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"007816_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"007816_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"007816_BT_R",
+		"position":31196,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"007816_BT_Q01","x":0,"y":0},
+			{"filename":"007816_BT_R02","x":0,"y":0},
+			{"filename":"007816_BT_R03","x":363,"y":124}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6493,"effet":"C"},
+			{"image":1,"position":12253,"effet":"C"},
+			{"image":3,"position":12900,"effet":"C"},
+			{"image":1,"position":30572,"effet":"C"}
+			]
+		}
+	]
+}

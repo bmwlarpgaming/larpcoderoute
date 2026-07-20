@@ -1,0 +1,38 @@
+{"id":"010039",
+ "reponse":"ABD",
+ "sexe":"F",
+ "enonce":["Le système ISOFIX permet :","",""],
+ "proposition":["- de mieux arrimer le siège enfant","- de limiter le risque d'erreur d'installation","- de désactiver automatiquement l'airbag","- de sécuriser l'enfant"],
+ "sequence":[
+		{"son":"010039_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010039_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010039_BT_R",
+		"position":32032,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010039_BT_Q01","x":0,"y":0},
+			{"filename":"010039_BT_R02","x":325,"y":12},
+			{"filename":"010039_BT_R03","x":390,"y":115},
+			{"filename":"010039_BT_R04","x":271,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3972,"effet":"C"},
+			{"image":3,"position":6960,"effet":"C"},
+			{"image":4,"position":16292,"effet":"C"},
+			{"image":1,"position":31212,"effet":"C"}
+			]
+		}
+	]
+}

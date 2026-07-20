@@ -1,0 +1,36 @@
+{"id":"017543",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Avant de tourner à gauche, je cède le passage :","- au véhicule bleu","- au véhicule jaune"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017543_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017543_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017543_BT_R",
+		"position":25206,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017543_BT_Q01","x":0,"y":0},
+			{"filename":"017543_BT_R02","x":998,"y":268},
+			{"filename":"017543_BT_R03","x":467,"y":257}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7844,"effet":"C"},
+			{"image":3,"position":22000,"effet":"C"},
+			{"image":1,"position":24969,"effet":"C"}
+			]
+		}
+	]
+}

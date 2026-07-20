@@ -1,0 +1,39 @@
+{"id":"023287",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Une mention est apposée sur le permis si je dois porter des lunettes de vue pour conduire :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023287_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023287_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023287_BT_R",
+		"position":31547,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023287_BT_Q01","x":0,"y":0},
+			{"filename":"023287_BT_R02","x":723,"y":0},
+			{"filename":"023287_BT_R03","x":0,"y":0},
+			{"filename":"023287_BT_R04","x":0,"y":0},
+			{"filename":"023287_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7318,"effet":"C"},
+			{"image":3,"position":13201,"effet":"C"},
+			{"image":4,"position":22152,"effet":"C"},
+			{"image":5,"position":27352,"effet":"C"}
+			]
+		}
+	]
+}

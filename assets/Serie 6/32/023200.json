@@ -1,0 +1,42 @@
+{"id":"023200",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je me prépare à m'arrêter :","","J'utilise mon avertisseur sonore :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023200_BT_Q",
+		"video":"023200",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023200_BT_Q03","x":0,"y":0},
+			{"filename":"023200_BT_Q04","x":859,"y":0}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":695,"effet":"C"}
+			]
+		},
+		{"son":"023200_BT_R",
+		"video":"023200",
+		"position":19667,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023200_BT_Q03","x":0,"y":0},
+			{"filename":"023200_BT_R04","x":859,"y":0},
+			{"filename":"023200_BT_R05","x":588,"y":0},
+			{"filename":"023200_BT_R06","x":588,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":525,"effet":"C"},
+			{"image":3,"position":4448,"effet":"C"},
+			{"image":4,"position":16217,"effet":"C"},
+			{"image":2,"position":19288,"effet":"C"}
+			]
+		}
+	]
+}

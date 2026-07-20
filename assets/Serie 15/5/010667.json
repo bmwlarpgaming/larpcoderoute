@@ -1,0 +1,39 @@
+{"id":"010667",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je suis à ma place sur la chaussée :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010667_BT_Q",
+		"video":"010667",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010667_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010667_BT_R",
+		"video":"010667",
+		"position":14962,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010667_BT_Q02","x":0,"y":0},
+			{"filename":"010667_BT_R03","x":547,"y":193},
+			{"filename":"010667_BT_R04","x":547,"y":112},
+			{"filename":"010667_BT_R05","x":493,"y":198}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4224,"effet":"C"},
+			{"image":3,"position":6944,"effet":"C"},
+			{"image":4,"position":13274,"effet":"C"}
+			]
+		}
+	]
+}

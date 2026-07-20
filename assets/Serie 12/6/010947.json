@@ -1,0 +1,40 @@
+{"id":"010947",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Le moteur est coupé, la conductrice descend immédiatement du véhicule :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010947_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010947_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010947_BT_R",
+		"position":32594,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010947_BT_Q01","x":0,"y":0},
+			{"filename":"010947_BT_R02","x":241,"y":44},
+			{"filename":"010947_BT_R03","x":0,"y":0},
+			{"filename":"010947_BT_R04","x":0,"y":0},
+			{"filename":"010947_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4923,"effet":"C"},
+			{"image":3,"position":14542,"effet":"C"},
+			{"image":4,"position":21996,"effet":"C"},
+			{"image":5,"position":27474,"effet":"C"},
+			{"image":1,"position":31802,"effet":"C"}
+			]
+		}
+	]
+}

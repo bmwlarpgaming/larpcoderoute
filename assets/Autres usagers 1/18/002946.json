@@ -1,0 +1,50 @@
+{"id":"002946",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Quelle est la meilleure solution ?","",""],
+ "proposition":["J’avance jusqu’au feu rouge","Je prends la voie de droite","Je serre à gauche",""],
+ "sequence":[
+		{"son":"002946_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"002946_BT_Q01","x":0,"y":0},
+			{"filename":"002946_BT_Q02","x":1043,"y":83}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":504,"effet":"B"}
+			]
+		},
+		{"son":"002946_BT_R",
+		"position":75727,
+		"temps":0,
+		"nbimages":9,
+		"image":[
+			{"filename":"002946_BT_Q01","x":0,"y":0},
+			{"filename":"002946_BT_R02","x":1043,"y":83},
+			{"filename":"002946_BT_R03","x":297,"y":403},
+			{"filename":"002946_BT_R04","x":297,"y":83},
+			{"filename":"002946_BT_R05","x":675,"y":67},
+			{"filename":"002946_BT_R06","x":612,"y":67},
+			{"filename":"002946_BT_R07","x":461,"y":67},
+			{"filename":"002946_BT_R08","x":70,"y":67},
+			{"filename":"002946_BT_R09","x":339,"y":123}
+			],
+		"nbetapes":10,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":542,"effet":"B"},
+			{"image":3,"position":3744,"effet":"C"},
+			{"image":4,"position":4085,"effet":"B"},
+			{"image":5,"position":7625,"effet":"C"},
+			{"image":6,"position":32488,"effet":"C"},
+			{"image":7,"position":49246,"effet":"B"},
+			{"image":8,"position":55069,"effet":"C"},
+			{"image":9,"position":68219,"effet":"C"},
+			{"image":1,"position":68699,"effet":"B"}
+			]
+		}
+	]
+}

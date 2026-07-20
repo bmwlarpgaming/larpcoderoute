@@ -1,0 +1,40 @@
+{"id":"011615",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["J'ai raison d'accélérer pour terminer ce dépassement :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011615_BT_Q",
+		"video":"011615",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011615_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011615_BT_R",
+		"video":"011615",
+		"position":34417,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011615_BT_Q02","x":0,"y":0},
+			{"filename":"011615_BT_R03","x":0,"y":0},
+			{"filename":"011615_BT_R04","x":302,"y":65},
+			{"filename":"011615_BT_R05","x":302,"y":65}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2250,"effet":"C"},
+			{"image":3,"position":10374,"effet":"C"},
+			{"image":4,"position":14190,"effet":"C"},
+			{"image":1,"position":33594,"effet":"C"}
+			]
+		}
+	]
+}

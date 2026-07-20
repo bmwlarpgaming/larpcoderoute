@@ -1,0 +1,38 @@
+{"id":"009975",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je dépasse le cycliste :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009975_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009975_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009975_BT_R",
+		"position":15551,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009975_BT_Q01","x":0,"y":0},
+			{"filename":"009975_BT_R02","x":290,"y":268},
+			{"filename":"009975_BT_R03","x":174,"y":323},
+			{"filename":"009975_BT_R04","x":386,"y":316}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":410,"effet":"C"},
+			{"image":3,"position":3626,"effet":"C"},
+			{"image":4,"position":7052,"effet":"C"},
+			{"image":1,"position":13660,"effet":"C"}
+			]
+		}
+	]
+}

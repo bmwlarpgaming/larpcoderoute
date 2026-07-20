@@ -1,0 +1,41 @@
+{"id":"018201",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Sur certains modèles, un siège bébé peut être installé à l'arrière, dos à la route :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"018201_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"018201_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"018201_BT_R",
+		"position":50833,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"018201_BT_Q01","x":0,"y":0},
+			{"filename":"018201_BT_R02","x":0,"y":0},
+			{"filename":"018201_BT_R03","x":0,"y":0},
+			{"filename":"018201_BT_R05","x":635,"y":339},
+			{"filename":"018201_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11934,"effet":"C"},
+			{"image":3,"position":21753,"effet":"C"},
+			{"image":1,"position":28662,"effet":"C"},
+			{"image":4,"position":35820,"effet":"C"},
+			{"image":5,"position":40061,"effet":"C"},
+			{"image":1,"position":49937,"effet":"C"}
+			]
+		}
+	]
+}

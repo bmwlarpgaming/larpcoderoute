@@ -1,0 +1,38 @@
+{"id":"013872",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["L’AFU (Aide au Freinage d’Urgence) raccourcit les distances de freinage :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"013872_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013872_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013872_BT_R",
+		"position":43131,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"013872_BT_Q01","x":0,"y":0},
+			{"filename":"013872_BT_R02","x":0,"y":0},
+			{"filename":"013872_BT_R03","x":0,"y":0},
+			{"filename":"013872_BT_R04","x":339,"y":379}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5503,"effet":"C"},
+			{"image":3,"position":10559,"effet":"C"},
+			{"image":4,"position":27551,"effet":"C"},
+			{"image":1,"position":40096,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{"id":"019206",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Cette jauge sert à vérifier le niveau :","",""],
+ "proposition":["- de liquide de refroidissement","- d'huile moteur","",""],
+ "sequence":[
+		{"son":"019206_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"019206_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"019206_BT_R",
+		"position":35131,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"019206_BT_Q01","x":0,"y":0},
+			{"filename":"019206_BT_R02","x":43,"y":35},
+			{"filename":"019206_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1787,"effet":"C"},
+			{"image":1,"position":10416,"effet":"C"},
+			{"image":3,"position":21971,"effet":"C"},
+			{"image":1,"position":34563,"effet":"C"}
+			]
+		}
+	]
+}

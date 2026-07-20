@@ -1,0 +1,46 @@
+{"id":"003133",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je suis en retard pour prendre mon train. Il va entrer en gare. J’accélère pour franchir le passage à niveau :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"003133_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"003133_BT_Q01","x":0,"y":0},
+			{"filename":"003133_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":552,"effet":"B"}
+			]
+		},
+		{"son":"003133_BT_R",
+		"position":46365,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"003133_BT_Q01","x":0,"y":0},
+			{"filename":"003133_BT_R02","x":0,"y":0},
+			{"filename":"003133_BT_R03","x":0,"y":0},
+			{"filename":"003133_BT_R04","x":0,"y":0},
+			{"filename":"003133_BT_R05","x":0,"y":0},
+			{"filename":"003133_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":531,"effet":"B"},
+			{"image":3,"position":5252,"effet":"C"},
+			{"image":4,"position":8950,"effet":"C"},
+			{"image":5,"position":13588,"effet":"C"},
+			{"image":3,"position":20216,"effet":"C"},
+			{"image":6,"position":28321,"effet":"C"},
+			{"image":1,"position":40594,"effet":"C"},
+			{"image":2,"position":41170,"effet":"B"}
+			]
+		}
+	]
+}

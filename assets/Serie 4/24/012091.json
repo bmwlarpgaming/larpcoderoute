@@ -1,0 +1,44 @@
+{"id":"012091",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Pour dépasser ce cycliste, je vais laisser un intervalle de sécurité :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"012091_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012091_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012091_BT_R",
+		"position":33410,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"012091_BT_Q01","x":0,"y":0},
+			{"filename":"012091_BT_R02","x":0,"y":0},
+			{"filename":"012091_BT_R03","x":757,"y":275},
+			{"filename":"012091_BT_R04","x":0,"y":0},
+			{"filename":"012091_BT_R05","x":0,"y":0},
+			{"filename":"012091_BT_R06","x":0,"y":0},
+			{"filename":"012091_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2928,"effet":"C"},
+			{"image":3,"position":7742,"effet":"C"},
+			{"image":4,"position":12434,"effet":"C"},
+			{"image":5,"position":18315,"effet":"C"},
+			{"image":6,"position":20030,"effet":"C"},
+			{"image":7,"position":22422,"effet":"C"},
+			{"image":1,"position":27443,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"023584",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Avec cette commande, je fais fonctionner :","- les essuie-glaces","- le désembuage de la lunette arrière"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023584_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023584_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023584_BT_R",
+		"position":33816,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023584_BT_Q01","x":0,"y":0},
+			{"filename":"023584_BT_R02","x":0,"y":0},
+			{"filename":"023584_BT_R04","x":0,"y":0},
+			{"filename":"023584_BT_R05","x":0,"y":0},
+			{"filename":"023584_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5100,"effet":"C"},
+			{"image":3,"position":17505,"effet":"C"},
+			{"image":4,"position":21409,"effet":"C"},
+			{"image":5,"position":29973,"effet":"C"},
+			{"image":1,"position":33171,"effet":"C"}
+			]
+		}
+	]
+}

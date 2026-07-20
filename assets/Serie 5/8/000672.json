@@ -1,0 +1,39 @@
+{"id":"000672",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["La prise de cannabis :","- augmente la prise de risques","- réduit le temps de réaction"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"000672_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000672_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000672_BT_R",
+		"position":22250,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"000672_BT_Q01","x":0,"y":0},
+			{"filename":"000672_BT_R02","x":128,"y":37},
+			{"filename":"000672_BT_R03","x":128,"y":37},
+			{"filename":"000672_BT_R04","x":130,"y":37},
+			{"filename":"000672_BT_R05","x":130,"y":37}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5048,"effet":"C"},
+			{"image":3,"position":9536,"effet":"C"},
+			{"image":4,"position":13544,"effet":"C"},
+			{"image":5,"position":17898,"effet":"C"}
+			]
+		}
+	]
+}

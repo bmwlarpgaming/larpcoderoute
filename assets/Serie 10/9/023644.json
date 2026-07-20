@@ -1,0 +1,40 @@
+{"id":"023644",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Dans ces conditions, pour limiter le risque de patinage au démarrage, j'utilise des pneus hiver :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023644_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023644_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023644_BT_R",
+		"position":29727,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023644_BT_Q01","x":0,"y":0},
+			{"filename":"023644_BT_R02","x":0,"y":0},
+			{"filename":"023644_BT_R03","x":0,"y":0},
+			{"filename":"023644_BT_R04","x":0,"y":0},
+			{"filename":"023644_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":969,"effet":"C"},
+			{"image":3,"position":6940,"effet":"C"},
+			{"image":4,"position":16598,"effet":"C"},
+			{"image":5,"position":26624,"effet":"C"},
+			{"image":1,"position":29556,"effet":"C"}
+			]
+		}
+	]
+}

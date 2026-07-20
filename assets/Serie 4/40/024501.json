@@ -1,0 +1,43 @@
+{"id":"024501",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["J'entre dans une zone où ma vitesse pourra être contrôlée :","","Les radars sont implantés aux endroits recensés dangereux :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"024501_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"024501_BT_Q01","x":0,"y":0},
+			{"filename":"024501_BT_Q02","x":803,"y":19}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":741,"effet":"C"},
+			{"image":1,"position":19218,"effet":"C"}
+			]
+		},
+		{"son":"024501_BT_R",
+		"position":32705,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024501_BT_Q01","x":0,"y":0},
+			{"filename":"024501_BT_R02","x":803,"y":19},
+			{"filename":"024501_BT_R03","x":747,"y":19},
+			{"filename":"024501_BT_R04","x":86,"y":14},
+			{"filename":"024501_BT_R05","x":86,"y":14}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1040,"effet":"C"},
+			{"image":3,"position":5031,"effet":"C"},
+			{"image":4,"position":17947,"effet":"C"},
+			{"image":5,"position":21597,"effet":"C"},
+			{"image":1,"position":31515,"effet":"C"}
+			]
+		}
+	]
+}

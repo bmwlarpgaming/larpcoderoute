@@ -1,0 +1,39 @@
+{"id":"024269",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Ce panneau indique un passage à niveau :","",""],
+ "proposition":["- sans barrière","- avec demi-barrières","- muni d'un feu rouge clignotant",""],
+ "sequence":[
+		{"son":"024269_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024269_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024269_BT_R",
+		"position":21353,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024269_BT_Q01","x":0,"y":0},
+			{"filename":"024269_BT_R02","x":315,"y":59},
+			{"filename":"024269_BT_R03","x":315,"y":59},
+			{"filename":"024269_BT_R04","x":315,"y":59},
+			{"filename":"024269_BT_R05","x":315,"y":355}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2018,"effet":"C"},
+			{"image":3,"position":7971,"effet":"C"},
+			{"image":4,"position":13324,"effet":"C"},
+			{"image":5,"position":17315,"effet":"C"}
+			]
+		}
+	]
+}

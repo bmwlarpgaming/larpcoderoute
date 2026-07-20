@@ -1,0 +1,38 @@
+{"id":"013142",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je vais rencontrer davantage d'usagers vulnérables :","","Ils devront s'adapter à moi :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"013142_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013142_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013142_BT_R",
+		"position":22218,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"013142_BT_Q01","x":0,"y":0},
+			{"filename":"013142_BT_R02","x":637,"y":26},
+			{"filename":"013142_BT_R03","x":0,"y":0},
+			{"filename":"013142_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1435,"effet":"C"},
+			{"image":3,"position":7507,"effet":"C"},
+			{"image":4,"position":16579,"effet":"C"},
+			{"image":1,"position":21877,"effet":"C"}
+			]
+		}
+	]
+}

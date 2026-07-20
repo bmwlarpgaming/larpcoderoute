@@ -1,0 +1,37 @@
+{"id":"013179",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Ne pas s'arrêter dans cette situation est considéré comme un délit  de fuite :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"013179_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013179_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013179_BT_R",
+		"position":34401,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"013179_BT_Q01","x":0,"y":0},
+			{"filename":"013179_BT_R02","x":131,"y":75},
+			{"filename":"013179_BT_R03","x":370,"y":411},
+			{"filename":"013179_BT_R04","x":621,"y":405}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10098,"effet":"C"},
+			{"image":3,"position":18459,"effet":"C"},
+			{"image":4,"position":28277,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"013191",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["En cas d'infraction, un novice titulaire du permis depuis 18 mois obtenu en formation AAC peut perdre tous ses points en une seule fois :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"013191_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013191_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013191_BT_R",
+		"position":34010,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"013191_BT_Q01","x":0,"y":0},
+			{"filename":"013191_BT_R02","x":83,"y":59},
+			{"filename":"013191_BT_R03","x":83,"y":59},
+			{"filename":"013191_BT_R04","x":83,"y":59},
+			{"filename":"013191_BT_R05","x":83,"y":59}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5500,"effet":"C"},
+			{"image":3,"position":14531,"effet":"C"},
+			{"image":4,"position":20094,"effet":"C"},
+			{"image":5,"position":24752,"effet":"C"},
+			{"image":1,"position":33395,"effet":"C"}
+			]
+		}
+	]
+}

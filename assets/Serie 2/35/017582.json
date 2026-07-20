@@ -1,0 +1,40 @@
+{"id":"017582",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["","Je peux m'engager :",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017582_BT_Q",
+		"video":"017582",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017582_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017582_BT_R",
+		"video":"017582",
+		"position":32545,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017582_BT_Q03","x":0,"y":0},
+			{"filename":"017582_BT_R03","x":738,"y":252},
+			{"filename":"017582_BT_R04","x":537,"y":379},
+			{"filename":"017582_BT_R05","x":900,"y":96}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":13497,"effet":"C"},
+			{"image":3,"position":22505,"effet":"C"},
+			{"image":4,"position":28633,"effet":"C"},
+			{"image":1,"position":32130,"effet":"C"}
+			]
+		}
+	]
+}

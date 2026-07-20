@@ -1,0 +1,40 @@
+{"id":"023572",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Le cric doit être positionné à des endroits spécifiques :","- à l'avant","- à l'arrière"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023572_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023572_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023572_BT_R",
+		"position":39547,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023572_BT_Q01","x":0,"y":0},
+			{"filename":"023572_BT_R02","x":0,"y":0},
+			{"filename":"023572_BT_R03","x":0,"y":0},
+			{"filename":"023572_BT_R04","x":0,"y":0},
+			{"filename":"023572_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8666,"effet":"C"},
+			{"image":3,"position":16664,"effet":"C"},
+			{"image":4,"position":20304,"effet":"C"},
+			{"image":5,"position":35429,"effet":"C"},
+			{"image":1,"position":39222,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"012749",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je me suis trompé de direction. J'ai encore la possibilité de tourner à gauche :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"012749_BT_Q",
+		"video":"012749",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012749_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012749_BT_R",
+		"video":"012749",
+		"position":27866,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012749_BT_Q02","x":0,"y":0},
+			{"filename":"012749_BT_R03","x":0,"y":0},
+			{"filename":"012749_BT_R04","x":0,"y":0},
+			{"filename":"012749_BT_R05","x":0,"y":0},
+			{"filename":"012749_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2696,"effet":"C"},
+			{"image":3,"position":9492,"effet":"C"},
+			{"image":4,"position":9797,"effet":"B"},
+			{"image":5,"position":21330,"effet":"C"}
+			]
+		}
+	]
+}

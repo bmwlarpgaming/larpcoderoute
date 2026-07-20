@@ -1,0 +1,38 @@
+{"id":"009653",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je m'arrête :","",""],
+ "proposition":["- à côté du cycliste","- derrière le cycliste","",""],
+ "sequence":[
+		{"son":"009653_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009653_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009653_BT_R",
+		"position":37262,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009653_BT_Q01","x":0,"y":0},
+			{"filename":"009653_BT_R02","x":515,"y":0},
+			{"filename":"009653_BT_R03","x":393,"y":373},
+			{"filename":"009653_BT_R04","x":299,"y":269}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8999,"effet":"C"},
+			{"image":3,"position":23473,"effet":"C"},
+			{"image":4,"position":32058,"effet":"C"},
+			{"image":1,"position":36914,"effet":"C"}
+			]
+		}
+	]
+}

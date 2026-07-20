@@ -1,0 +1,40 @@
+{"id":"023228",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["L'observation dans les rétroviseurs suffit pour changer de voie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023228_BT_Q",
+		"video":"023228",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023228_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023228_BT_R",
+		"video":"023228",
+		"position":33436,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023228_BT_Q03","x":0,"y":0},
+			{"filename":"023228_BT_R04","x":3,"y":60},
+			{"filename":"023228_BT_R05","x":3,"y":11},
+			{"filename":"023228_BT_R06","x":718,"y":230}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9402,"effet":"C"},
+			{"image":3,"position":18046,"effet":"C"},
+			{"image":4,"position":29122,"effet":"C"},
+			{"image":1,"position":33205,"effet":"C"}
+			]
+		}
+	]
+}

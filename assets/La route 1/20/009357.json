@@ -1,0 +1,51 @@
+{"id":"009357",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Je circule à la vitesse maximale :","",""],
+ "proposition":["- j'accélère pour me rabattre à droite","- je ralentis et je me rabats à droite","- je reste ici en maintenant l'allure",""],
+ "sequence":[
+		{"son":"009357_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009357_BT_Q01","x":0,"y":0},
+			{"filename":"009357_BT_Q02","x":827,"y":43}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":313,"effet":"B"}
+			]
+		},
+		{"son":"009357_BT_R",
+		"position":51718,
+		"temps":0,
+		"nbimages":10,
+		"image":[
+			{"filename":"009357_BT_Q01","x":0,"y":0},
+			{"filename":"009357_BT_R02","x":201,"y":83},
+			{"filename":"009357_BT_R03","x":78,"y":83},
+			{"filename":"009357_BT_R04","x":78,"y":83},
+			{"filename":"009357_BT_R05","x":201,"y":11},
+			{"filename":"009357_BT_R06","x":201,"y":11},
+			{"filename":"009357_BT_R07","x":201,"y":83},
+			{"filename":"009357_BT_R08","x":201,"y":83},
+			{"filename":"009357_BT_R09","x":201,"y":83},
+			{"filename":"009357_BT_R10","x":201,"y":83}
+			],
+		"nbetapes":10,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2084,"effet":"C"},
+			{"image":3,"position":5716,"effet":"C"},
+			{"image":4,"position":7636,"effet":"C"},
+			{"image":5,"position":12412,"effet":"C"},
+			{"image":6,"position":13939,"effet":"C"},
+			{"image":7,"position":17373,"effet":"C"},
+			{"image":8,"position":20812,"effet":"C"},
+			{"image":9,"position":39506,"effet":"C"},
+			{"image":10,"position":46615,"effet":"C"}
+			]
+		}
+	]
+}

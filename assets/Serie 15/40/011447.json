@@ -1,0 +1,39 @@
+{"id":"011447",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je suis bien placé pour tourner à gauche :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011447_BT_Q",
+		"video":"011447",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011447_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011447_BT_R",
+		"video":"011447",
+		"position":27427,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011447_BT_Q02","x":0,"y":0},
+			{"filename":"011447_BT_R03","x":0,"y":0},
+			{"filename":"011447_BT_R04","x":0,"y":0},
+			{"filename":"011447_BT_R05","x":455,"y":243}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3463,"effet":"C"},
+			{"image":3,"position":9316,"effet":"C"},
+			{"image":4,"position":20236,"effet":"C"}
+			]
+		}
+	]
+}

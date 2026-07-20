@@ -1,0 +1,46 @@
+{"id":"023281",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Actionner les feux de détresse permet d'informer les usagers :","",""],
+ "proposition":["- uniquement devant","- uniquement derrière","- devant et derrière",""],
+ "sequence":[
+		{"son":"023281_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023281_BT_Q01","x":0,"y":0},
+			{"filename":"023281_BT_Q02","x":61,"y":219}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1033,"effet":"B"}
+			]
+		},
+		{"son":"023281_BT_R",
+		"position":37177,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023281_BT_R01","x":0,"y":0},
+			{"filename":"023281_BT_R02","x":0,"y":0},
+			{"filename":"023281_BT_R03","x":0,"y":0},
+			{"filename":"023281_BT_R04","x":19,"y":21},
+			{"filename":"023281_BT_R05","x":19,"y":19},
+			{"filename":"023281_BT_R06","x":708,"y":193},
+			{"filename":"023281_BT_R07","x":1008,"y":99}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1469,"effet":"C"},
+			{"image":3,"position":2529,"effet":"B"},
+			{"image":4,"position":8328,"effet":"C"},
+			{"image":5,"position":17889,"effet":"C"},
+			{"image":6,"position":21906,"effet":"C"},
+			{"image":7,"position":31985,"effet":"C"},
+			{"image":1,"position":36729,"effet":"C"}
+			]
+		}
+	]
+}

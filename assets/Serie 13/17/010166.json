@@ -1,0 +1,38 @@
+{"id":"010166",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["Les passagers adultes sont dispensés d'attacher la ceinture :","- aux places avant","- aux places arrière"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010166_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010166_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010166_BT_R",
+		"position":22079,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010166_BT_Q01","x":0,"y":0},
+			{"filename":"010166_BT_R02","x":328,"y":176},
+			{"filename":"010166_BT_R03","x":24,"y":33},
+			{"filename":"010166_BT_R04","x":400,"y":363}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3843,"effet":"C"},
+			{"image":3,"position":7427,"effet":"C"},
+			{"image":4,"position":16871,"effet":"C"},
+			{"image":1,"position":21675,"effet":"C"}
+			]
+		}
+	]
+}

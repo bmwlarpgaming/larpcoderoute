@@ -1,0 +1,40 @@
+{"id":"012174",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Un trop plein d'huile dans un moteur est sans risque :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"012174_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012174_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012174_BT_R",
+		"position":44582,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012174_BT_Q01","x":0,"y":0},
+			{"filename":"012174_BT_R02","x":0,"y":0},
+			{"filename":"012174_BT_R03","x":0,"y":0},
+			{"filename":"012174_BT_R04","x":0,"y":0},
+			{"filename":"012174_BT_R05","x":755,"y":301}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3044,"effet":"C"},
+			{"image":3,"position":14356,"effet":"C"},
+			{"image":4,"position":25372,"effet":"C"},
+			{"image":5,"position":39502,"effet":"C"},
+			{"image":1,"position":44062,"effet":"C"}
+			]
+		}
+	]
+}

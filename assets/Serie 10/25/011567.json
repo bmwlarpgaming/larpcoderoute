@@ -1,0 +1,38 @@
+{"id":"011567",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Personne à gauche, je m'engage à droite franchement :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011567_BT_Q",
+		"video":"011567",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011567_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011567_BT_R",
+		"video":"011567",
+		"position":28062,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"011567_BT_Q02","x":0,"y":0},
+			{"filename":"011567_BT_R03","x":331,"y":0},
+			{"filename":"011567_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4418,"effet":"C"},
+			{"image":3,"position":15937,"effet":"C"},
+			{"image":1,"position":25731,"effet":"C"}
+			]
+		}
+	]
+}

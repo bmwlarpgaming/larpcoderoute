@@ -1,0 +1,46 @@
+{"id":"008554",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Pour dépasser, j'emprunte :","","ou"],
+ "proposition":["- la voie centrale","- la voie la plus à gauche","",""],
+ "sequence":[
+		{"son":"008554_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"008554_BT_Q01","x":0,"y":0},
+			{"filename":"008554_BT_Q02","x":403,"y":243}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":833,"effet":"B"}
+			]
+		},
+		{"son":"008554_BT_R",
+		"position":34062,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"008554_BT_Q01","x":0,"y":0},
+			{"filename":"008554_BT_R02","x":419,"y":187},
+			{"filename":"008554_BT_R03","x":516,"y":248},
+			{"filename":"008554_BT_R04","x":147,"y":244},
+			{"filename":"008554_BT_R05","x":0,"y":235},
+			{"filename":"008554_BT_R06","x":0,"y":244},
+			{"filename":"008554_BT_R07","x":251,"y":92}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2573,"effet":"C"},
+			{"image":3,"position":10870,"effet":"C"},
+			{"image":4,"position":15881,"effet":"C"},
+			{"image":5,"position":18995,"effet":"C"},
+			{"image":6,"position":23312,"effet":"C"},
+			{"image":7,"position":28025,"effet":"C"},
+			{"image":1,"position":30767,"effet":"C"}
+			]
+		}
+	]
+}

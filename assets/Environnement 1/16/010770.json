@@ -1,0 +1,36 @@
+{"id":"010770",
+ "reponse":"AB",
+ "sexe":"H",
+ "enonce":["Utiliser un mode de transport alternatif :","",""],
+ "proposition":["- fluidifie la circulation","- réduit la pollution","- est sans effet sur la pollution ou la circulation",""],
+ "sequence":[
+		{"son":"010770_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010770_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010770_BT_R",
+		"position":26488,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010770_BT_Q01","x":0,"y":0},
+			{"filename":"010770_BT_R02","x":278,"y":251},
+			{"filename":"010770_BT_R03","x":275,"y":251}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6684,"effet":"C"},
+			{"image":3,"position":16812,"effet":"C"},
+			{"image":1,"position":25828,"effet":"C"}
+			]
+		}
+	]
+}

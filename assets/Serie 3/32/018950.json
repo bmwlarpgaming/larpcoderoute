@@ -1,0 +1,46 @@
+{"id":"018950",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["La mauvaise réadaptation de l'allure au réseau routier est un facteur d'accidents :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"018950_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"018950_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"018950_BT_R",
+		"position":34352,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"018950_BT_Q01","x":0,"y":0},
+			{"filename":"018950_BT_R02","x":27,"y":20},
+			{"filename":"018950_BT_R03","x":27,"y":20},
+			{"filename":"018950_BT_R04","x":27,"y":20},
+			{"filename":"018950_BT_R05","x":27,"y":20},
+			{"filename":"018950_BT_R06","x":27,"y":20},
+			{"filename":"018950_BT_R07","x":27,"y":20},
+			{"filename":"018950_BT_R08","x":27,"y":20}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8416,"effet":"C"},
+			{"image":3,"position":17863,"effet":"C"},
+			{"image":4,"position":18892,"effet":"C"},
+			{"image":5,"position":19843,"effet":"C"},
+			{"image":6,"position":21158,"effet":"C"},
+			{"image":7,"position":22819,"effet":"C"},
+			{"image":8,"position":25432,"effet":"C"},
+			{"image":1,"position":33987,"effet":"C"}
+			]
+		}
+	]
+}

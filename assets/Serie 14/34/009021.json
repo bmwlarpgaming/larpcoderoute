@@ -1,0 +1,36 @@
+{"id":"009021",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Dans cette zone de rencontre, le trafic est faible. Je choisis de rouler  :","",""],
+ "proposition":["- à 20 km/h et moins","- entre 30 et 35 km/h","- entre 40 et 50 km/h",""],
+ "sequence":[
+		{"son":"009021_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009021_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009021_BT_R",
+		"position":35048,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"009021_BT_Q01","x":0,"y":0},
+			{"filename":"009021_BT_R02","x":435,"y":213},
+			{"filename":"009021_BT_R03","x":435,"y":213}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":12698,"effet":"C"},
+			{"image":3,"position":26264,"effet":"C"},
+			{"image":1,"position":29992,"effet":"C"}
+			]
+		}
+	]
+}

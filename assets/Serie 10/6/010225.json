@@ -1,0 +1,38 @@
+{"id":"010225",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Un rétroviseur intérieur bien réglé couvre :","- la lunette arrière","- les vitres latérales à l'arrière"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010225_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010225_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010225_BT_R",
+		"position":28397,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010225_BT_Q01","x":0,"y":0},
+			{"filename":"010225_BT_R02","x":614,"y":0},
+			{"filename":"010225_BT_R03","x":0,"y":0},
+			{"filename":"010225_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2442,"effet":"C"},
+			{"image":3,"position":6298,"effet":"C"},
+			{"image":4,"position":25042,"effet":"C"},
+			{"image":1,"position":27882,"effet":"C"}
+			]
+		}
+	]
+}

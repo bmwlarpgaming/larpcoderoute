@@ -1,0 +1,40 @@
+{"id":"000879",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["La place indiquée peut être utilisée :","- en A","- en B"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"000879_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000879_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000879_BT_R",
+		"position":38053,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"000879_BT_Q01","x":0,"y":0},
+			{"filename":"000879_BT_R02","x":483,"y":83},
+			{"filename":"000879_BT_R03","x":76,"y":219},
+			{"filename":"000879_BT_R04","x":85,"y":293},
+			{"filename":"000879_BT_R05","x":459,"y":107}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":849,"effet":"C"},
+			{"image":3,"position":8231,"effet":"C"},
+			{"image":4,"position":12962,"effet":"C"},
+			{"image":5,"position":30704,"effet":"C"},
+			{"image":1,"position":37200,"effet":"C"}
+			]
+		}
+	]
+}

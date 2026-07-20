@@ -1,0 +1,40 @@
+{"id":"002304",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["L’habitude des trajets quotidiens entraîne :","- un sentiment de sécurité","- une baisse de vigilance"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002304_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002304_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002304_BT_R",
+		"position":28118,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002304_BT_Q01","x":0,"y":0},
+			{"filename":"002304_BT_R02","x":0,"y":0},
+			{"filename":"002304_BT_R03","x":0,"y":0},
+			{"filename":"002304_BT_R04","x":0,"y":0},
+			{"filename":"002304_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3025,"effet":"C"},
+			{"image":3,"position":8329,"effet":"C"},
+			{"image":4,"position":18582,"effet":"C"},
+			{"image":5,"position":19558,"effet":"C"},
+			{"image":1,"position":24286,"effet":"C"}
+			]
+		}
+	]
+}

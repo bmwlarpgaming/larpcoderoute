@@ -1,0 +1,40 @@
+{"id":"011027",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Il est possible de conduire dans un tunnel éclairé avec des lunettes de soleil :","","Des branches larges réduisent le champ visuel :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"011027_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011027_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011027_BT_R",
+		"position":35194,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011027_BT_Q01","x":0,"y":0},
+			{"filename":"011027_BT_R02","x":0,"y":0},
+			{"filename":"011027_BT_R03","x":0,"y":0},
+			{"filename":"011027_BT_R04","x":0,"y":0},
+			{"filename":"011027_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4082,"effet":"C"},
+			{"image":3,"position":10765,"effet":"C"},
+			{"image":4,"position":20054,"effet":"C"},
+			{"image":5,"position":27816,"effet":"C"},
+			{"image":1,"position":34277,"effet":"C"}
+			]
+		}
+	]
+}

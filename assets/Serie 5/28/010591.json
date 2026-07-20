@@ -1,0 +1,43 @@
+{"id":"010591",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je m'engage :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010591_BT_Q",
+		"video":"010591",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010591_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010591_BT_R",
+		"video":"010591",
+		"position":37841,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"010591_BT_Q02","x":0,"y":0},
+			{"filename":"010591_BT_R03","x":0,"y":0},
+			{"filename":"010591_BT_R04","x":0,"y":0},
+			{"filename":"010591_BT_R05","x":0,"y":0},
+			{"filename":"010591_BT_R06","x":0,"y":0},
+			{"filename":"010591_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4058,"effet":"C"},
+			{"image":3,"position":8775,"effet":"C"},
+			{"image":4,"position":13790,"effet":"C"},
+			{"image":5,"position":23685,"effet":"C"},
+			{"image":6,"position":30723,"effet":"C"}
+			]
+		}
+	]
+}

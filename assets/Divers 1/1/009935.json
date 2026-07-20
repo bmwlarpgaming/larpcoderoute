@@ -1,0 +1,40 @@
+{"id":"009935",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["J'ai perdu un point. Pour le récupérer, sans autre retrait, j'attendrai :","",""],
+ "proposition":["- 6 mois","- 1 an","- 2 ans","- 3 ans"],
+ "sequence":[
+		{"son":"009935_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009935_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009935_BT_R",
+		"position":41644,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009935_BT_Q01","x":0,"y":0},
+			{"filename":"009935_BT_R02","x":0,"y":0},
+			{"filename":"009935_BT_R03","x":626,"y":275},
+			{"filename":"009935_BT_R04","x":626,"y":275},
+			{"filename":"009935_BT_R05","x":626,"y":275}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1251,"effet":"C"},
+			{"image":1,"position":15312,"effet":"C"},
+			{"image":3,"position":20023,"effet":"C"},
+			{"image":4,"position":23242,"effet":"C"},
+			{"image":5,"position":30226,"effet":"C"}
+			]
+		}
+	]
+}

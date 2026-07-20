@@ -1,0 +1,38 @@
+{"id":"021297",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["À 1 km, je peux m’attendre à rencontrer :","- un accident","- un embouteillage"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"021297_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021297_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021297_BT_R",
+		"position":18102,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"021297_BT_Q01","x":0,"y":0},
+			{"filename":"021297_BT_R02","x":539,"y":3},
+			{"filename":"021297_BT_R03","x":0,"y":0},
+			{"filename":"021297_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":832,"effet":"C"},
+			{"image":3,"position":7379,"effet":"C"},
+			{"image":4,"position":11987,"effet":"C"},
+			{"image":1,"position":17826,"effet":"C"}
+			]
+		}
+	]
+}

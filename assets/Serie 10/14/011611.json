@@ -1,0 +1,42 @@
+{"id":"011611",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["L'indice le plus important est situé :","",""],
+ "proposition":["- en A","- en B","- en C",""],
+ "sequence":[
+		{"son":"011611_BT_Q",
+		"video":"011611",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011611_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011611_BT_R",
+		"video":"011611",
+		"position":24876,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011611_BT_R02","x":0,"y":0},
+			{"filename":"011611_BT_R03","x":458,"y":52},
+			{"filename":"011611_BT_R06","x":974,"y":159},
+			{"filename":"011611_BT_R04","x":0,"y":0},
+			{"filename":"011611_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8771,"effet":"C"},
+			{"image":3,"position":19464,"effet":"C"},
+			{"image":4,"position":21837,"effet":"C"},
+			{"image":5,"position":22964,"effet":"C"},
+			{"image":3,"position":24552,"effet":"C"}
+			]
+		}
+	]
+}

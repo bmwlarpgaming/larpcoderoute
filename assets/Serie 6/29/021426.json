@@ -1,0 +1,35 @@
+{"id":"021426",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["En règle générale, je dois céder le passage aux véhicules de transports en commun quittant leur arrêt :","- en agglomération","- hors agglomération"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"021426_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021426_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021426_BT_R",
+		"position":24522,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"021426_BT_Q01","x":0,"y":0},
+			{"filename":"021426_BT_R02","x":0,"y":0},
+			{"filename":"021426_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8891,"effet":"C"},
+			{"image":3,"position":19616,"effet":"C"}
+			]
+		}
+	]
+}

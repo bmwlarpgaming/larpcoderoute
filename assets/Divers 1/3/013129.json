@@ -1,0 +1,37 @@
+{"id":"013129",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Le refus de s'arrêter lors d'un contrôle routier et mettant en danger l'agent de la circulation est puni :","- d'une peine de prison","- d'une amende"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"013129_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013129_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013129_BT_R",
+		"position":18684,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"013129_BT_Q01","x":0,"y":0},
+			{"filename":"013129_BT_R02","x":60,"y":67},
+			{"filename":"013129_BT_R03","x":60,"y":67},
+			{"filename":"013129_BT_R04","x":59,"y":67}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":984,"effet":"C"},
+			{"image":3,"position":7785,"effet":"C"},
+			{"image":4,"position":8477,"effet":"B"}
+			]
+		}
+	]
+}

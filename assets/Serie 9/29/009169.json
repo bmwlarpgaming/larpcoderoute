@@ -1,0 +1,43 @@
+{"id":"009169",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je porte plus d'attention au piéton :","",""],
+ "proposition":["- A","- B","",""],
+ "sequence":[
+		{"son":"009169_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009169_BT_Q01","x":0,"y":0},
+			{"filename":"009169_BT_Q02","x":285,"y":460}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":562,"effet":"B"}
+			]
+		},
+		{"son":"009169_BT_R",
+		"position":37743,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009169_BT_Q01","x":0,"y":0},
+			{"filename":"009169_BT_R02","x":285,"y":460},
+			{"filename":"009169_BT_R03","x":467,"y":19},
+			{"filename":"009169_BT_R04","x":195,"y":203},
+			{"filename":"009169_BT_R05","x":195,"y":203}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":353,"effet":"B"},
+			{"image":3,"position":17310,"effet":"C"},
+			{"image":4,"position":27878,"effet":"C"},
+			{"image":5,"position":28510,"effet":"B"},
+			{"image":1,"position":31565,"effet":"C"},
+			{"image":2,"position":32131,"effet":"B"}
+			]
+		}
+	]
+}

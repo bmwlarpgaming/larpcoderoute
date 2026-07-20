@@ -1,0 +1,36 @@
+{"id":"010856",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Chaque verre d'alcool consommé fait monter l'alcoolémie en moyenne de :","",""],
+ "proposition":["- 0,05 g/l de sang","- 0,20 g/l de sang","- 0,50 g/l de sang",""],
+ "sequence":[
+		{"son":"010856_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010856_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010856_BT_R",
+		"position":18942,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010856_BT_Q01","x":0,"y":0},
+			{"filename":"010856_BT_R02","x":227,"y":67},
+			{"filename":"010856_BT_R03","x":227,"y":67}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1606,"effet":"C"},
+			{"image":3,"position":6150,"effet":"C"},
+			{"image":1,"position":15934,"effet":"C"}
+			]
+		}
+	]
+}

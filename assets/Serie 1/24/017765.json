@@ -1,0 +1,40 @@
+{"id":"017765",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["","",""],
+ "proposition":["Je dépasse le premier cycliste","Je dépasse les deux cyclistes","J'attends pour dépasser",""],
+ "sequence":[
+		{"son":"017765_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017765_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017765_BT_R",
+		"position":23383,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017765_BT_Q01","x":0,"y":0},
+			{"filename":"017765_BT_R03","x":27,"y":51},
+			{"filename":"017765_BT_R02","x":770,"y":292},
+			{"filename":"017765_BT_R04","x":692,"y":284},
+			{"filename":"017765_BT_R05","x":660,"y":437}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2670,"effet":"C"},
+			{"image":3,"position":9814,"effet":"C"},
+			{"image":4,"position":14290,"effet":"C"},
+			{"image":5,"position":21172,"effet":"C"},
+			{"image":1,"position":22815,"effet":"C"}
+			]
+		}
+	]
+}

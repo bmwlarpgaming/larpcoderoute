@@ -1,0 +1,41 @@
+{"id":"010641",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Les feux de croisement éclairent davantage à droite qu'à gauche :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010641_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010641_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010641_BT_R",
+		"position":31268,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010641_BT_Q01","x":0,"y":0},
+			{"filename":"010641_BT_R02","x":444,"y":332},
+			{"filename":"010641_BT_R03","x":795,"y":0},
+			{"filename":"010641_BT_R04","x":795,"y":0},
+			{"filename":"010641_BT_R05","x":795,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3758,"effet":"C"},
+			{"image":3,"position":6608,"effet":"C"},
+			{"image":4,"position":14336,"effet":"B"},
+			{"image":3,"position":18996,"effet":"C"},
+			{"image":5,"position":19389,"effet":"B"},
+			{"image":3,"position":26704,"effet":"C"}
+			]
+		}
+	]
+}

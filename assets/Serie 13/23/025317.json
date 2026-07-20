@@ -1,0 +1,38 @@
+{"id":"025317",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["L'autopartage, c'est :","- disposer d'une voiture à tout moment","- participer à une réduction du parc automobile"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025317_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025317_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025317_BT_R",
+		"position":31115,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025317_BT_Q01","x":0,"y":0},
+			{"filename":"025317_BT_R02","x":443,"y":27},
+			{"filename":"025317_BT_R03","x":443,"y":27},
+			{"filename":"025317_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3457,"effet":"C"},
+			{"image":3,"position":8874,"effet":"C"},
+			{"image":4,"position":19261,"effet":"C"},
+			{"image":1,"position":26051,"effet":"C"}
+			]
+		}
+	]
+}

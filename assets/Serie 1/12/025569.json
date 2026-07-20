@@ -1,0 +1,37 @@
+{"id":"025569",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Sont concernées par les règles du code de la route :","- les voies ouvertes à la circulation publique","- les parkings ouverts à la circulation publique"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025569_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025569_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025569_BT_R",
+		"position":22126,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025569_BT_Q01","x":0,"y":0},
+			{"filename":"025569_BT_R02","x":0,"y":0},
+			{"filename":"025569_BT_R03","x":0,"y":0},
+			{"filename":"025569_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2822,"effet":"C"},
+			{"image":3,"position":8344,"effet":"C"},
+			{"image":4,"position":14332,"effet":"C"}
+			]
+		}
+	]
+}

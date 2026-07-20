@@ -1,0 +1,42 @@
+{"id":"013912",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Klaxonner en ville est interdit :","","J'ai eu raison de le faire :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"013912_BT_Q",
+		"video":"013912",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013912_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013912_BT_R",
+		"video":"013912",
+		"position":32985,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"013912_BT_Q02","x":0,"y":0},
+			{"filename":"013912_BT_R03","x":0,"y":0},
+			{"filename":"013912_BT_R04","x":0,"y":0},
+			{"filename":"013912_BT_R05","x":0,"y":0},
+			{"filename":"013912_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4626,"effet":"C"},
+			{"image":3,"position":11638,"effet":"C"},
+			{"image":4,"position":17414,"effet":"C"},
+			{"image":5,"position":27037,"effet":"C"},
+			{"image":1,"position":32694,"effet":"C"}
+			]
+		}
+	]
+}

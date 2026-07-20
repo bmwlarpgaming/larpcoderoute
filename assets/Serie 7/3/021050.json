@@ -1,0 +1,38 @@
+{"id":"021050",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Lorsqu’il pleut :","",""],
+ "proposition":["- le temps de réaction est allongé","- la distance de freinage est allongée","- la distance d’arrêt est allongée",""],
+ "sequence":[
+		{"son":"021050_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021050_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021050_BT_R",
+		"position":27200,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"021050_BT_Q01","x":0,"y":0},
+			{"filename":"021050_BT_R02","x":0,"y":0},
+			{"filename":"021050_BT_R03","x":197,"y":235},
+			{"filename":"021050_BT_R04","x":197,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1001,"effet":"C"},
+			{"image":3,"position":8080,"effet":"C"},
+			{"image":4,"position":16629,"effet":"C"},
+			{"image":1,"position":26943,"effet":"C"}
+			]
+		}
+	]
+}

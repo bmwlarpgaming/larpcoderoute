@@ -1,0 +1,38 @@
+{"id":"001232",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Ce témoin vient de s’allumer :","",""],
+ "proposition":["- je continue","- je m’arrête sur les zébrures à droite","",""],
+ "sequence":[
+		{"son":"001232_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"001232_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"001232_BT_R",
+		"position":34936,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"001232_BT_Q01","x":0,"y":0},
+			{"filename":"001232_BT_R02","x":440,"y":363},
+			{"filename":"001232_BT_R03","x":440,"y":363},
+			{"filename":"001232_BT_R04","x":789,"y":52}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1264,"effet":"C"},
+			{"image":3,"position":7864,"effet":"B"},
+			{"image":4,"position":14256,"effet":"C"},
+			{"image":1,"position":28016,"effet":"C"}
+			]
+		}
+	]
+}

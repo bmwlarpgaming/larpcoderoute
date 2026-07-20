@@ -1,0 +1,39 @@
+{"id":"008876",
+ "reponse":"BD",
+ "sexe":"F",
+ "enonce":["Comme la voiture rouge, il est possible :","- de s'arrêter","- de stationner"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"008876_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008876_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008876_BT_R",
+		"position":30499,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"008876_BT_Q01","x":0,"y":0},
+			{"filename":"008876_BT_R02","x":452,"y":339},
+			{"filename":"008876_BT_R03","x":428,"y":339},
+			{"filename":"008876_BT_R04","x":483,"y":213},
+			{"filename":"008876_BT_R05","x":483,"y":195}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1184,"effet":"C"},
+			{"image":3,"position":6288,"effet":"C"},
+			{"image":4,"position":10358,"effet":"C"},
+			{"image":5,"position":20212,"effet":"C"}
+			]
+		}
+	]
+}

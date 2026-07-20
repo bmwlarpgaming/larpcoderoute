@@ -1,0 +1,37 @@
+{"id":"010241",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Cette victime qui ne répond pas mais réussit à effectuer des gestes simples est :","",""],
+ "proposition":["- consciente","- inconsciente","",""],
+ "sequence":[
+		{"son":"010241_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010241_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010241_BT_R",
+		"position":25865,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010241_BT_Q01","x":0,"y":0},
+			{"filename":"010241_BT_R02","x":273,"y":33},
+			{"filename":"010241_BT_R03","x":273,"y":33},
+			{"filename":"010241_BT_R04","x":115,"y":33}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6130,"effet":"C"},
+			{"image":3,"position":12482,"effet":"C"},
+			{"image":4,"position":18594,"effet":"C"}
+			]
+		}
+	]
+}

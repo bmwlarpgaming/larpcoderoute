@@ -1,0 +1,38 @@
+{"id":"002103",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Je surveille plus particulièrement l'indice :","",""],
+ "proposition":["- A","- B","- C","- D"],
+ "sequence":[
+		{"son":"002103_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002103_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002103_BT_R",
+		"position":31960,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002103_BT_Q01","x":0,"y":0},
+			{"filename":"002103_BT_R02","x":211,"y":35},
+			{"filename":"002103_BT_R03","x":211,"y":35},
+			{"filename":"002103_BT_R04","x":211,"y":35}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4940,"effet":"C"},
+			{"image":3,"position":14953,"effet":"C"},
+			{"image":4,"position":26497,"effet":"C"},
+			{"image":1,"position":31432,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{"id":"025414",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Les zones à faible émission mobilité permettent une amélioration de la qualité de l'air :","","Pour y circuler, il faut avoir le certificat Crit'Air adapté :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025414_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025414_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025414_BT_R",
+		"position":24029,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025414_BT_Q01","x":0,"y":0},
+			{"filename":"025414_BT_R02","x":0,"y":0},
+			{"filename":"025414_BT_R03","x":0,"y":0},
+			{"filename":"025414_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4758,"effet":"C"},
+			{"image":3,"position":11016,"effet":"C"},
+			{"image":4,"position":18146,"effet":"C"}
+			]
+		}
+	]
+}

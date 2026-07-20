@@ -1,0 +1,39 @@
+{"id":"023573",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Pour changer une roue, je trouve la procédure dans la notice d'utilisation du véhicule :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023573_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023573_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023573_BT_R",
+		"position":24917,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023573_BT_Q01","x":0,"y":0},
+			{"filename":"023573_BT_R02","x":84,"y":43},
+			{"filename":"023573_BT_R03","x":83,"y":43},
+			{"filename":"023573_BT_R04","x":83,"y":43},
+			{"filename":"023573_BT_R05","x":84,"y":43}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1680,"effet":"C"},
+			{"image":3,"position":13651,"effet":"C"},
+			{"image":4,"position":17715,"effet":"C"},
+			{"image":5,"position":20807,"effet":"C"}
+			]
+		}
+	]
+}

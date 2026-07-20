@@ -1,0 +1,44 @@
+{"id":"023408",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Lorsque je rencontre une situation de conduite pour la première fois, je mets plus de temps à réagir :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023408_BT_Q",
+		"video":"023408",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023408_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023408_BT_R",
+		"video":"023408",
+		"position":45003,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023408_BT_Q03","x":0,"y":0},
+			{"filename":"023408_BT_R04","x":0,"y":0},
+			{"filename":"023408_BT_R05","x":0,"y":0},
+			{"filename":"023408_BT_R06","x":0,"y":0},
+			{"filename":"023408_BT_R07","x":0,"y":0},
+			{"filename":"023408_BT_R08","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4382,"effet":"C"},
+			{"image":3,"position":11098,"effet":"C"},
+			{"image":4,"position":14729,"effet":"C"},
+			{"image":5,"position":26180,"effet":"C"},
+			{"image":6,"position":34113,"effet":"C"},
+			{"image":1,"position":44432,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{"id":"021102",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Pour emprunter cette sortie, l'observation du rétro intérieur est :","",""],
+ "proposition":["- inutile","- nécessaire","- suffisante",""],
+ "sequence":[
+		{"son":"021102_BT_Q",
+		"video":"021102",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021102_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021102_BT_R",
+		"video":"021102",
+		"position":43169,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"021102_BT_R01","x":0,"y":0},
+			{"filename":"021102_BT_R02","x":604,"y":407},
+			{"filename":"021102_BT_R04","x":0,"y":0},
+			{"filename":"021102_BT_R05","x":0,"y":0},
+			{"filename":"021102_BT_R03","x":0,"y":0},
+			{"filename":"021102_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":526,"effet":"B"},
+			{"image":3,"position":11785,"effet":"C"},
+			{"image":4,"position":23629,"effet":"C"},
+			{"image":5,"position":28512,"effet":"C"},
+			{"image":6,"position":37055,"effet":"C"}
+			]
+		}
+	]
+}

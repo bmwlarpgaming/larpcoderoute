@@ -1,0 +1,37 @@
+{"id":"011298",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Un point perdu est récupéré au bout d'un délai de :","",""],
+ "proposition":["- 1 mois","- 6 mois","- 12 mois",""],
+ "sequence":[
+		{"son":"011298_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011298_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011298_BT_R",
+		"position":27553,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011298_BT_Q01","x":0,"y":0},
+			{"filename":"011298_BT_R02","x":0,"y":0},
+			{"filename":"011298_BT_R03","x":0,"y":0},
+			{"filename":"011298_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":940,"effet":"C"},
+			{"image":3,"position":12310,"effet":"C"},
+			{"image":4,"position":17062,"effet":"C"}
+			]
+		}
+	]
+}

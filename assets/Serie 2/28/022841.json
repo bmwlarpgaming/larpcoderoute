@@ -1,0 +1,37 @@
+{"id":"022841",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je peux encore changer de voie pour passer au télépéage :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"022841_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"022841_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"022841_BT_R",
+		"position":17429,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"022841_BT_Q01","x":0,"y":0},
+			{"filename":"022841_BT_R02","x":715,"y":74},
+			{"filename":"022841_BT_R03","x":0,"y":0},
+			{"filename":"022841_BT_R04","x":13,"y":180}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3453,"effet":"C"},
+			{"image":3,"position":9493,"effet":"C"},
+			{"image":4,"position":14153,"effet":"C"}
+			]
+		}
+	]
+}

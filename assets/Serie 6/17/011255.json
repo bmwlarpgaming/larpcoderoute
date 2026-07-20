@@ -1,0 +1,36 @@
+{"id":"011255",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["La caméra de recul :","- limite le risque d'accrochage","- dispense de regarder en vision directe"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"011255_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011255_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011255_BT_R",
+		"position":24078,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"011255_BT_Q01","x":0,"y":0},
+			{"filename":"011255_BT_R02","x":0,"y":0},
+			{"filename":"011255_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2731,"effet":"C"},
+			{"image":3,"position":16015,"effet":"C"},
+			{"image":1,"position":23199,"effet":"C"}
+			]
+		}
+	]
+}

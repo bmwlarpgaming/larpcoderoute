@@ -1,0 +1,41 @@
+{"id":"013922",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je suis à la bonne allure pour franchir cette intersection :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"013922_BT_Q",
+		"video":"013922",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013922_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013922_BT_R",
+		"video":"013922",
+		"position":29567,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"013922_BT_Q02","x":0,"y":0},
+			{"filename":"013922_BT_R03","x":0,"y":0},
+			{"filename":"013922_BT_R04","x":0,"y":0},
+			{"filename":"013922_BT_R05","x":444,"y":100},
+			{"filename":"013922_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1059,"effet":"C"},
+			{"image":3,"position":3923,"effet":"C"},
+			{"image":4,"position":18355,"effet":"C"},
+			{"image":5,"position":26791,"effet":"C"}
+			]
+		}
+	]
+}

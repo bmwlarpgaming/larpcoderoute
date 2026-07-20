@@ -1,0 +1,39 @@
+{"id":"023586",
+ "reponse":"D",
+ "sexe":"F",
+ "enonce":["En appuyant sur ce bouton, j'allume :","",""],
+ "proposition":["- les feux de position","- les feux de croisement","- les feux de brouillard avant","- le(s) feu(x) de brouillard arrière"],
+ "sequence":[
+		{"son":"023586_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023586_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023586_BT_R",
+		"position":34963,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023586_BT_Q01","x":0,"y":0},
+			{"filename":"023586_BT_R02","x":0,"y":0},
+			{"filename":"023586_BT_R03","x":0,"y":0},
+			{"filename":"023586_BT_R04","x":0,"y":0},
+			{"filename":"023586_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8286,"effet":"C"},
+			{"image":3,"position":15686,"effet":"C"},
+			{"image":4,"position":20827,"effet":"C"},
+			{"image":5,"position":28087,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{"id":"009177",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Avec un véhicule équipé de pneus neige, le risque est toujours présent :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009177_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009177_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009177_BT_R",
+		"position":34264,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"009177_BT_Q01","x":0,"y":0},
+			{"filename":"009177_BT_R02","x":549,"y":77},
+			{"filename":"009177_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10771,"effet":"C"},
+			{"image":3,"position":15611,"effet":"C"},
+			{"image":1,"position":27396,"effet":"C"}
+			]
+		}
+	]
+}

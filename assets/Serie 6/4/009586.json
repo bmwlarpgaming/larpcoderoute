@@ -1,0 +1,40 @@
+{"id":"009586",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Il faut s'arrêter dès que s'allume un témoin :","",""],
+ "proposition":["- orange","- rouge","- bleu","- vert"],
+ "sequence":[
+		{"son":"009586_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009586_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009586_BT_R",
+		"position":55041,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009586_BT_Q01","x":0,"y":0},
+			{"filename":"009586_BT_R02","x":0,"y":0},
+			{"filename":"009586_BT_R03","x":0,"y":0},
+			{"filename":"009586_BT_R04","x":0,"y":0},
+			{"filename":"009586_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9668,"effet":"C"},
+			{"image":3,"position":14750,"effet":"C"},
+			{"image":4,"position":33267,"effet":"C"},
+			{"image":5,"position":50117,"effet":"B"},
+			{"image":1,"position":54654,"effet":"C"}
+			]
+		}
+	]
+}

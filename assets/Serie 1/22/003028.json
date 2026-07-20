@@ -1,0 +1,42 @@
+{"id":"003028",
+ "reponse":"CD",
+ "sexe":"F",
+ "enonce":["Je peux rouler à :","",""],
+ "proposition":["- 130 km/h","- 110 km/h","- 90 km/h","- 80 km/h"],
+ "sequence":[
+		{"son":"003028_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003028_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003028_BT_R",
+		"position":42256,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"003028_BT_Q01","x":0,"y":0},
+			{"filename":"003028_BT_R02","x":786,"y":101},
+			{"filename":"003028_BT_R03","x":472,"y":349},
+			{"filename":"003028_BT_R04","x":0,"y":0},
+			{"filename":"003028_BT_R05","x":0,"y":0},
+			{"filename":"003028_BT_R06","x":140,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2783,"effet":"C"},
+			{"image":3,"position":8839,"effet":"C"},
+			{"image":4,"position":19304,"effet":"C"},
+			{"image":5,"position":24632,"effet":"C"},
+			{"image":6,"position":30064,"effet":"C"},
+			{"image":1,"position":37048,"effet":"C"}
+			]
+		}
+	]
+}

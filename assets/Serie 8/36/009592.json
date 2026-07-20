@@ -1,0 +1,39 @@
+{"id":"009592",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Ce réservoir contient :","",""],
+ "proposition":["- du liquide pour la direction assistée","- du liquide de frein","- de l'huile moteur",""],
+ "sequence":[
+		{"son":"009592_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009592_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009592_BT_R",
+		"position":29329,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009592_BT_Q01","x":0,"y":0},
+			{"filename":"009592_BT_R02","x":325,"y":0},
+			{"filename":"009592_BT_R03","x":243,"y":0},
+			{"filename":"009592_BT_R04","x":243,"y":0},
+			{"filename":"009592_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1647,"effet":"C"},
+			{"image":3,"position":14385,"effet":"C"},
+			{"image":4,"position":19701,"effet":"C"},
+			{"image":5,"position":25986,"effet":"C"}
+			]
+		}
+	]
+}

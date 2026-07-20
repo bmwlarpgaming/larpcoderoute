@@ -1,0 +1,38 @@
+{"id":"011594",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Pour continuer, je me place :","",""],
+ "proposition":["- en A","- en B","",""],
+ "sequence":[
+		{"son":"011594_BT_Q",
+		"video":"011594",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011594_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011594_BT_R",
+		"video":"011594",
+		"position":16295,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"011594_BT_Q02","x":0,"y":0},
+			{"filename":"011594_BT_R03","x":515,"y":179},
+			{"filename":"011594_BT_R04","x":515,"y":43}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":738,"effet":"C"},
+			{"image":3,"position":6186,"effet":"C"},
+			{"image":1,"position":13291,"effet":"C"}
+			]
+		}
+	]
+}

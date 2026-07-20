@@ -1,0 +1,44 @@
+{"id":"017586",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["La vitesse est limitée à 90 km/h, si je continue tout droit :","","- si je prends la sortie :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017586_BT_Q",
+		"video":"017586",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017586_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017586_BT_R",
+		"video":"017586",
+		"position":30275,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017586_BT_Q03","x":0,"y":0},
+			{"filename":"017586_BT_R01","x":0,"y":0},
+			{"filename":"017586_BT_R03","x":0,"y":0},
+			{"filename":"017586_BT_R04","x":0,"y":0},
+			{"filename":"017586_BT_R05","x":0,"y":0},
+			{"filename":"017586_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1060,"effet":"C"},
+			{"image":3,"position":7167,"effet":"C"},
+			{"image":4,"position":11199,"effet":"C"},
+			{"image":5,"position":13525,"effet":"C"},
+			{"image":6,"position":18547,"effet":"C"},
+			{"image":1,"position":27803,"effet":"C"}
+			]
+		}
+	]
+}

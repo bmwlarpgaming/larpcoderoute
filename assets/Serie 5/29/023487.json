@@ -1,0 +1,38 @@
+{"id":"023487",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Lorsqu'il se déplace à allure normale, cet usager à trottinette électrique doit emprunter :","",""],
+ "proposition":["- les bandes cyclables","- les trottoirs","",""],
+ "sequence":[
+		{"son":"023487_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023487_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023487_BT_R",
+		"position":32928,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023487_BT_Q01","x":0,"y":0},
+			{"filename":"023487_BT_R02","x":163,"y":244},
+			{"filename":"023487_BT_R03","x":163,"y":195},
+			{"filename":"023487_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3853,"effet":"C"},
+			{"image":3,"position":15195,"effet":"C"},
+			{"image":4,"position":26215,"effet":"C"},
+			{"image":1,"position":32157,"effet":"C"}
+			]
+		}
+	]
+}

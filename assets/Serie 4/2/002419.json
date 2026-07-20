@@ -1,0 +1,38 @@
+{"id":"002419",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Au volant, il est préférable d’écouter de la musique :","",""],
+ "proposition":["- en utilisant l’autoradio","- avec des écouteurs","",""],
+ "sequence":[
+		{"son":"002419_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002419_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002419_BT_R",
+		"position":33052,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002419_BT_Q01","x":0,"y":0},
+			{"filename":"002419_BT_R02","x":0,"y":0},
+			{"filename":"002419_BT_R03","x":0,"y":0},
+			{"filename":"002419_BT_R04","x":52,"y":51}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4311,"effet":"C"},
+			{"image":3,"position":17412,"effet":"C"},
+			{"image":4,"position":28245,"effet":"C"},
+			{"image":1,"position":32227,"effet":"C"}
+			]
+		}
+	]
+}

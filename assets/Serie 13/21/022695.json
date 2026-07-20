@@ -1,0 +1,40 @@
+{"id":"022695",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Ce dispositif permet :","- de choisir le bon rapport de vitesse en fonction du régime moteur","- de faire des économies de carburant"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"022695_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"022695_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"022695_BT_R",
+		"position":29916,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"022695_BT_Q01","x":0,"y":0},
+			{"filename":"022695_BT_R02","x":0,"y":0},
+			{"filename":"022695_BT_R03","x":358,"y":323},
+			{"filename":"022695_BT_R04","x":358,"y":140},
+			{"filename":"022695_BT_R05","x":131,"y":283}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3273,"effet":"C"},
+			{"image":3,"position":14850,"effet":"C"},
+			{"image":4,"position":15133,"effet":"B"},
+			{"image":5,"position":22764,"effet":"C"},
+			{"image":1,"position":29627,"effet":"C"}
+			]
+		}
+	]
+}

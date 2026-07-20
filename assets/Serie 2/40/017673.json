@@ -1,0 +1,40 @@
+{"id":"017673",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["La vitesse est limitée à 30 km/h à partir :","",""],
+ "proposition":["- du panneau","- du passage piéton","",""],
+ "sequence":[
+		{"son":"017673_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017673_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017673_BT_R",
+		"position":36667,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017673_BT_Q01","x":0,"y":0},
+			{"filename":"017673_BT_R02","x":842,"y":42},
+			{"filename":"017673_BT_R03","x":707,"y":19},
+			{"filename":"017673_BT_R04","x":0,"y":0},
+			{"filename":"017673_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1310,"effet":"C"},
+			{"image":3,"position":7565,"effet":"C"},
+			{"image":4,"position":12695,"effet":"C"},
+			{"image":5,"position":26029,"effet":"C"},
+			{"image":1,"position":31714,"effet":"C"}
+			]
+		}
+	]
+}

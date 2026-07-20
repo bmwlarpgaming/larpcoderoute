@@ -1,0 +1,39 @@
+{"id":"023580",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["La fréquence de mon clignotant est plus rapide que la normale. Cela peut être dû :","- à une ampoule de clignotant défectueuse","- à une défaillance du système électrique"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023580_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023580_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023580_BT_R",
+		"position":26978,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023580_BT_Q01","x":0,"y":0},
+			{"filename":"023580_BT_R02","x":612,"y":68},
+			{"filename":"023580_BT_R03","x":612,"y":68},
+			{"filename":"023580_BT_R04","x":462,"y":68},
+			{"filename":"023580_BT_R05","x":302,"y":68}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3929,"effet":"C"},
+			{"image":3,"position":5102,"effet":"C"},
+			{"image":4,"position":16779,"effet":"C"},
+			{"image":5,"position":22927,"effet":"C"}
+			]
+		}
+	]
+}

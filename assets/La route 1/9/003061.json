@@ -1,0 +1,35 @@
+{"id":"003061",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["En plus des feux de route, je peux utiliser  les feux de brouillard avant :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"003061_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003061_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003061_BT_R",
+		"position":21142,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"003061_BT_Q01","x":0,"y":0},
+			{"filename":"003061_BT_R02","x":230,"y":104},
+			{"filename":"003061_BT_R03","x":230,"y":105}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4342,"effet":"C"},
+			{"image":3,"position":15170,"effet":"C"}
+			]
+		}
+	]
+}

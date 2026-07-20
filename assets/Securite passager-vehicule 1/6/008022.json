@@ -1,0 +1,38 @@
+{"id":"008022",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Ce bébé est installé correctement :","","L'airbag doit être désactivé :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"008022_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008022_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008022_BT_R",
+		"position":26781,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008022_BT_Q01","x":0,"y":0},
+			{"filename":"008022_BT_R02","x":0,"y":0},
+			{"filename":"008022_BT_R03","x":0,"y":0},
+			{"filename":"008022_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4021,"effet":"C"},
+			{"image":3,"position":9630,"effet":"C"},
+			{"image":4,"position":12063,"effet":"C"},
+			{"image":1,"position":16525,"effet":"C"}
+			]
+		}
+	]
+}

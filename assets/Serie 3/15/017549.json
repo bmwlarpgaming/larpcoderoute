@@ -1,0 +1,49 @@
+{"id":"017549",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Pour tourner à gauche :","",""],
+ "proposition":["- je cède le passage au bus","- le bus me cède le passage","",""],
+ "sequence":[
+		{"son":"017549_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"017549_BT_Q01","x":0,"y":0},
+			{"filename":"017549_BT_Q02","x":560,"y":254}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":972,"effet":"B"}
+			]
+		},
+		{"son":"017549_BT_R",
+		"position":21308,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"017549_BT_Q01","x":0,"y":0},
+			{"filename":"017549_BT_R02","x":560,"y":254},
+			{"filename":"017549_BT_R03","x":471,"y":23},
+			{"filename":"017549_BT_R04","x":471,"y":23},
+			{"filename":"017549_BT_R05","x":471,"y":23},
+			{"filename":"017549_BT_R06","x":471,"y":23},
+			{"filename":"017549_BT_R07","x":0,"y":0},
+			{"filename":"017549_BT_R08","x":0,"y":0}
+			],
+		"nbetapes":10,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":942,"effet":"B"},
+			{"image":3,"position":5671,"effet":"C"},
+			{"image":4,"position":5911,"effet":"B"},
+			{"image":5,"position":10843,"effet":"C"},
+			{"image":6,"position":11057,"effet":"B"},
+			{"image":7,"position":13885,"effet":"C"},
+			{"image":8,"position":14093,"effet":"B"},
+			{"image":1,"position":20273,"effet":"C"},
+			{"image":2,"position":20573,"effet":"B"}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{"id":"023342",
+ "reponse":"BCD",
+ "sexe":"F",
+ "enonce":["Dans ces conditions, j'utilise les feux de croisement principalement :","","J'utilise les feux de brouillard :"],
+ "proposition":["- pour voir","- pour être vu","- avant","- arriere"],
+ "sequence":[
+		{"son":"023342_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023342_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023342_BT_R",
+		"position":29803,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023342_BT_Q01","x":0,"y":0},
+			{"filename":"023342_BT_R02","x":803,"y":43},
+			{"filename":"023342_BT_R03","x":803,"y":43},
+			{"filename":"023342_BT_R04","x":803,"y":43}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1060,"effet":"C"},
+			{"image":3,"position":12132,"effet":"C"},
+			{"image":4,"position":20325,"effet":"C"}
+			]
+		}
+	]
+}

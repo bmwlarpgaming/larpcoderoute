@@ -1,0 +1,41 @@
+{"id":"011586",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["En laissant passer ce véhicule :","",""],
+ "proposition":["- j'applique la règle de priorité","- je suis courtois","",""],
+ "sequence":[
+		{"son":"011586_BT_Q",
+		"video":"011586",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011586_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011586_BT_R",
+		"video":"011586",
+		"position":25070,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011586_BT_Q02","x":0,"y":0},
+			{"filename":"011586_BT_R03","x":0,"y":0},
+			{"filename":"011586_BT_R04","x":0,"y":0},
+			{"filename":"011586_BT_R05","x":0,"y":0},
+			{"filename":"011586_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":818,"effet":"C"},
+			{"image":3,"position":5992,"effet":"C"},
+			{"image":4,"position":9272,"effet":"C"},
+			{"image":5,"position":12444,"effet":"C"}
+			]
+		}
+	]
+}

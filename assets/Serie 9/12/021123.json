@@ -1,0 +1,36 @@
+{"id":"021123",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Pour effectuer un court trajet, je peux transporter quatre personnes à l'arrière de mon véhicule :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"021123_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021123_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021123_BT_R",
+		"position":29672,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"021123_BT_Q01","x":0,"y":0},
+			{"filename":"021123_BT_R02","x":519,"y":0},
+			{"filename":"021123_BT_R03","x":516,"y":187}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1026,"effet":"C"},
+			{"image":3,"position":20281,"effet":"C"},
+			{"image":1,"position":29571,"effet":"C"}
+			]
+		}
+	]
+}

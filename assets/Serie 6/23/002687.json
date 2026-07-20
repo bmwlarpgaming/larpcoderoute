@@ -1,0 +1,37 @@
+{"id":"002687",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["L’autopartage permet de disposer d’une voiture même pour une heure :","","L’autopartage nécessite d’être abonné :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002687_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002687_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002687_BT_R",
+		"position":40337,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"002687_BT_Q01","x":0,"y":0},
+			{"filename":"002687_BT_R02","x":0,"y":0},
+			{"filename":"002687_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":910,"effet":"C"},
+			{"image":1,"position":8612,"effet":"C"},
+			{"image":3,"position":22390,"effet":"C"},
+			{"image":1,"position":39704,"effet":"C"}
+			]
+		}
+	]
+}

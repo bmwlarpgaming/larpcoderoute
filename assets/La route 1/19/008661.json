@@ -1,0 +1,41 @@
+{"id":"008661",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","",""],
+ "proposition":["Je reste dans cette voie","Je me replace dans la voie centrale","Je me replace dans la voie la plus à droite",""],
+ "sequence":[
+		{"son":"008661_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"008661_BT_Q01","x":0,"y":0},
+			{"filename":"008661_BT_Q02","x":568,"y":380}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":635,"effet":"B"}
+			]
+		},
+		{"son":"008661_BT_R",
+		"position":26779,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"008661_BT_Q01","x":0,"y":0},
+			{"filename":"008661_BT_R02","x":568,"y":380},
+			{"filename":"008661_BT_R03","x":418,"y":412},
+			{"filename":"008661_BT_R04","x":0,"y":0},
+			{"filename":"008661_BT_R05","x":408,"y":388}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":581,"effet":"B"},
+			{"image":3,"position":4625,"effet":"C"},
+			{"image":4,"position":14549,"effet":"C"},
+			{"image":5,"position":18052,"effet":"C"}
+			]
+		}
+	]
+}

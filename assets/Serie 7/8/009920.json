@@ -1,0 +1,41 @@
+{"id":"009920",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Une heure après avoir absorbé ces 2 bières, un conducteur novice sera en infraction lors d'un contrôle d'alcoolémie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009920_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009920_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009920_BT_R",
+		"position":63419,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009920_BT_Q01","x":0,"y":0},
+			{"filename":"009920_BT_R02","x":392,"y":92},
+			{"filename":"009920_BT_R03","x":300,"y":51},
+			{"filename":"009920_BT_R04","x":99,"y":51},
+			{"filename":"009920_BT_R05","x":454,"y":94}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7264,"effet":"C"},
+			{"image":1,"position":20008,"effet":"C"},
+			{"image":3,"position":26664,"effet":"C"},
+			{"image":4,"position":35836,"effet":"C"},
+			{"image":1,"position":51380,"effet":"C"},
+			{"image":5,"position":55749,"effet":"C"}
+			]
+		}
+	]
+}

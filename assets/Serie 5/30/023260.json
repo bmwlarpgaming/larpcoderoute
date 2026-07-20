@@ -1,0 +1,38 @@
+{"id":"023260",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Un conducteur novice a plus de difficultés qu'un conducteur confirmé à s'adapter à des situations de conduite imprévues :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023260_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023260_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023260_BT_R",
+		"position":43087,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023260_BT_Q01","x":0,"y":0},
+			{"filename":"023260_BT_R02","x":0,"y":0},
+			{"filename":"023260_BT_R03","x":0,"y":0},
+			{"filename":"023260_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":729,"effet":"C"},
+			{"image":3,"position":12360,"effet":"C"},
+			{"image":4,"position":32075,"effet":"C"},
+			{"image":1,"position":42783,"effet":"C"}
+			]
+		}
+	]
+}

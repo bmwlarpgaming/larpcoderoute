@@ -1,0 +1,41 @@
+{"id":"012775",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["J'ai encore le temps de passer :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"012775_BT_Q",
+		"video":"012775",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012775_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012775_BT_R",
+		"video":"012775",
+		"position":38070,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012775_BT_Q02","x":0,"y":0},
+			{"filename":"012775_BT_R03","x":0,"y":0},
+			{"filename":"012775_BT_R04","x":556,"y":219},
+			{"filename":"012775_BT_R05","x":0,"y":0},
+			{"filename":"012775_BT_R06","x":508,"y":379}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3029,"effet":"C"},
+			{"image":3,"position":17113,"effet":"C"},
+			{"image":4,"position":26010,"effet":"C"},
+			{"image":5,"position":35470,"effet":"C"}
+			]
+		}
+	]
+}

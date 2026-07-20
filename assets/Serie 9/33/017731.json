@@ -1,0 +1,45 @@
+{"id":"017731",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je vais pouvoir tourner à gauche sans m'arrêter :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017731_BT_Q",
+		"video":"017731",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"017731_BT_Q03","x":0,"y":0},
+			{"filename":"017731_BT_Q04","x":203,"y":156}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":583,"effet":"B"}
+			]
+		},
+		{"son":"017731_BT_R",
+		"video":"017731",
+		"position":29015,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017731_BT_R03","x":0,"y":0},
+			{"filename":"017731_BT_R04","x":0,"y":0},
+			{"filename":"017731_BT_R05","x":0,"y":0},
+			{"filename":"017731_BT_R06","x":0,"y":0},
+			{"filename":"017731_BT_R07","x":0,"y":0},
+			{"filename":"017731_BT_R08","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8251,"effet":"C"},
+			{"image":3,"position":15390,"effet":"C"},
+			{"image":4,"position":15773,"effet":"B"},
+			{"image":5,"position":22286,"effet":"C"},
+			{"image":6,"position":22702,"effet":"B"}
+			]
+		}
+	]
+}

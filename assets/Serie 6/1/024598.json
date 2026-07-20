@@ -1,0 +1,40 @@
+{"id":"024598",
+ "reponse":"BD",
+ "sexe":"F",
+ "enonce":["Le long de ces marquages au sol, je suis autorisé à :","- effectuer un arrêt","- stationner mon véhicule"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"024598_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024598_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024598_BT_R",
+		"position":30365,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024598_BT_Q01","x":0,"y":0},
+			{"filename":"024598_BT_R02","x":268,"y":283},
+			{"filename":"024598_BT_R03","x":323,"y":19},
+			{"filename":"024598_BT_R04","x":323,"y":19},
+			{"filename":"024598_BT_R05","x":323,"y":19}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":994,"effet":"C"},
+			{"image":3,"position":7671,"effet":"C"},
+			{"image":4,"position":13900,"effet":"C"},
+			{"image":5,"position":19646,"effet":"C"},
+			{"image":1,"position":26795,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"002163",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["","",""],
+ "proposition":["Je serre à droite","Je ralentis et je passe","Je m’arrête",""],
+ "sequence":[
+		{"son":"002163_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"002163_BT_Q01","x":0,"y":0},
+			{"filename":"002163_BT_Q02","x":948,"y":47}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":671,"effet":"B"}
+			]
+		},
+		{"son":"002163_BT_R",
+		"position":29732,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002163_BT_Q01","x":0,"y":0},
+			{"filename":"002163_BT_R02","x":948,"y":47},
+			{"filename":"002163_BT_R03","x":72,"y":234},
+			{"filename":"002163_BT_R04","x":71,"y":9},
+			{"filename":"002163_BT_R05","x":102,"y":9}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":630,"effet":"B"},
+			{"image":3,"position":16742,"effet":"C"},
+			{"image":4,"position":23945,"effet":"C"},
+			{"image":5,"position":27092,"effet":"C"}
+			]
+		}
+	]
+}

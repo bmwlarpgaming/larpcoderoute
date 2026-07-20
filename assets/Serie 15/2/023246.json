@@ -1,0 +1,47 @@
+{"id":"023246",
+ "reponse":"AB",
+ "sexe":"F",
+ "enonce":["Pour aborder cette intersection :","",""],
+ "proposition":["- je ralentis","- j'observe derrière moi avant de ralentir","- je maintiens l'allure",""],
+ "sequence":[
+		{"son":"023246_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023246_BT_Q01","x":0,"y":0},
+			{"filename":"023246_BT_Q02","x":874,"y":27}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":645,"effet":"C"},
+			{"image":1,"position":11623,"effet":"C"}
+			]
+		},
+		{"son":"023246_BT_R",
+		"position":34164,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023246_BT_Q01","x":0,"y":0},
+			{"filename":"023246_BT_R02","x":874,"y":27},
+			{"filename":"023246_BT_R03","x":0,"y":0},
+			{"filename":"023246_BT_R04","x":0,"y":0},
+			{"filename":"023246_BT_R05","x":0,"y":0},
+			{"filename":"023246_BT_R06","x":0,"y":0},
+			{"filename":"023246_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":583,"effet":"C"},
+			{"image":3,"position":4105,"effet":"C"},
+			{"image":4,"position":9330,"effet":"C"},
+			{"image":5,"position":15556,"effet":"C"},
+			{"image":6,"position":21267,"effet":"C"},
+			{"image":7,"position":26826,"effet":"C"},
+			{"image":1,"position":33194,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"017539",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je dois laisser un intervalle de sécurité avec ce piéton d'au minimum :","",""],
+ "proposition":["- 1 m","- 1,5 m","",""],
+ "sequence":[
+		{"son":"017539_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017539_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017539_BT_R",
+		"position":29524,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017539_BT_Q01","x":0,"y":0},
+			{"filename":"017539_BT_R02","x":0,"y":0},
+			{"filename":"017539_BT_R03","x":0,"y":0},
+			{"filename":"017539_BT_R04","x":783,"y":290}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9869,"effet":"C"},
+			{"image":3,"position":12109,"effet":"C"},
+			{"image":4,"position":24452,"effet":"C"},
+			{"image":1,"position":29268,"effet":"C"}
+			]
+		}
+	]
+}

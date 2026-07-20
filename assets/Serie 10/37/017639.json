@@ -1,0 +1,40 @@
+{"id":"017639",
+ "reponse":"ABC",
+ "sexe":"F",
+ "enonce":["J'arrive le premier sur les lieux d'un accident. Sans aucune formation aux gestes qui sauvent :","",""],
+ "proposition":["- j'enfile un gilet haute visibilité","- je balise les lieux","- j'appelle les secours","- je donne les premiers soins"],
+ "sequence":[
+		{"son":"017639_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017639_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017639_BT_R",
+		"position":47371,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017639_BT_Q01","x":0,"y":0},
+			{"filename":"017639_BT_R02","x":0,"y":0},
+			{"filename":"017639_BT_R03","x":0,"y":0},
+			{"filename":"017639_BT_R04","x":0,"y":0},
+			{"filename":"017639_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10286,"effet":"C"},
+			{"image":3,"position":19082,"effet":"C"},
+			{"image":4,"position":32636,"effet":"C"},
+			{"image":5,"position":38291,"effet":"C"},
+			{"image":1,"position":46323,"effet":"C"}
+			]
+		}
+	]
+}

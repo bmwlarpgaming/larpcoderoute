@@ -1,0 +1,40 @@
+{"id":"009557",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Si le permis est invalidé, le droit de conduire est retiré pendant 6 mois :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009557_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009557_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009557_BT_R",
+		"position":23453,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009557_BT_Q01","x":0,"y":0},
+			{"filename":"009557_BT_R02","x":396,"y":76},
+			{"filename":"009557_BT_R03","x":486,"y":173},
+			{"filename":"009557_BT_R04","x":486,"y":173},
+			{"filename":"009557_BT_R05","x":396,"y":76}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2383,"effet":"C"},
+			{"image":3,"position":7398,"effet":"C"},
+			{"image":4,"position":8957,"effet":"C"},
+			{"image":5,"position":17856,"effet":"C"},
+			{"image":1,"position":22781,"effet":"C"}
+			]
+		}
+	]
+}

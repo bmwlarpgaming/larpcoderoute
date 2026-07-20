@@ -1,0 +1,38 @@
+{"id":"017462",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["","La chaussée est  habituellement en sens unique :","Elle va être en double sens pendant 7 km :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017462_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017462_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017462_BT_R",
+		"position":24072,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017462_BT_Q01","x":0,"y":0},
+			{"filename":"017462_BT_R02","x":131,"y":115},
+			{"filename":"017462_BT_R03","x":876,"y":121},
+			{"filename":"017462_BT_R04","x":876,"y":121}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4048,"effet":"C"},
+			{"image":3,"position":8584,"effet":"C"},
+			{"image":4,"position":19114,"effet":"C"},
+			{"image":1,"position":23720,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"023193",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Ne pas respecter les distances de sécurité augmente le risque de collision lors d'un freinage :","","Cette distance doit être d'au moins 2 secondes :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023193_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023193_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023193_BT_R",
+		"position":39008,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023193_BT_Q01","x":0,"y":0},
+			{"filename":"023193_BT_R02","x":0,"y":0},
+			{"filename":"023193_BT_R03","x":0,"y":0},
+			{"filename":"023193_BT_R04","x":0,"y":0},
+			{"filename":"023193_BT_R05","x":692,"y":243},
+			{"filename":"023193_BT_R06","x":459,"y":243}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6733,"effet":"C"},
+			{"image":3,"position":8781,"effet":"C"},
+			{"image":4,"position":11697,"effet":"C"},
+			{"image":5,"position":22270,"effet":"C"},
+			{"image":6,"position":34886,"effet":"C"}
+			]
+		}
+	]
+}

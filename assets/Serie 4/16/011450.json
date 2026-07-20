@@ -1,0 +1,41 @@
+{"id":"011450",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je me suis trompé de direction, je reviens dans la voie de gauche :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011450_BT_Q",
+		"video":"011450",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011450_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011450_BT_R",
+		"video":"011450",
+		"position":24702,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011450_BT_Q02","x":0,"y":0},
+			{"filename":"011450_BT_R03","x":375,"y":239},
+			{"filename":"011450_BT_R04","x":375,"y":99},
+			{"filename":"011450_BT_R05","x":538,"y":227},
+			{"filename":"011450_BT_R06","x":633,"y":228}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3845,"effet":"C"},
+			{"image":3,"position":5909,"effet":"C"},
+			{"image":4,"position":13405,"effet":"C"},
+			{"image":5,"position":18449,"effet":"C"}
+			]
+		}
+	]
+}

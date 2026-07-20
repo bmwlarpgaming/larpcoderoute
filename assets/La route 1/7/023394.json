@@ -1,0 +1,40 @@
+{"id":"023394",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Lorsqu'on est ébloui, pour récupérer une vision optimale, il faut :","","Je me prépare en utilisant le pare-soleil :"],
+ "proposition":["- moins de 3 s","- plus de 3 s","OUI","NON"],
+ "sequence":[
+		{"son":"023394_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023394_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023394_BT_R",
+		"position":39540,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023394_BT_Q01","x":0,"y":0},
+			{"filename":"023394_BT_R02","x":0,"y":0},
+			{"filename":"023394_BT_R03","x":0,"y":0},
+			{"filename":"023394_BT_R04","x":0,"y":0},
+			{"filename":"023394_BT_R05","x":348,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11102,"effet":"C"},
+			{"image":3,"position":16271,"effet":"C"},
+			{"image":4,"position":22762,"effet":"C"},
+			{"image":1,"position":26601,"effet":"C"},
+			{"image":5,"position":31587,"effet":"C"}
+			]
+		}
+	]
+}

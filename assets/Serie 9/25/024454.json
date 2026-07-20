@@ -1,0 +1,42 @@
+{"id":"024454",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["La route conserve son caractère prioritaire durant toute la traversée de l'agglomération :","","J'ai la certitude de ne pas avoir à m'arrêter aux intersections :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"024454_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024454_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024454_BT_R",
+		"position":42285,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"024454_BT_Q01","x":0,"y":0},
+			{"filename":"024454_BT_R02","x":747,"y":27},
+			{"filename":"024454_BT_R03","x":0,"y":0},
+			{"filename":"024454_BT_R04","x":0,"y":0},
+			{"filename":"024454_BT_R05","x":0,"y":0},
+			{"filename":"024454_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7389,"effet":"C"},
+			{"image":3,"position":20227,"effet":"C"},
+			{"image":4,"position":23299,"effet":"C"},
+			{"image":5,"position":28116,"effet":"C"},
+			{"image":6,"position":32228,"effet":"C"},
+			{"image":1,"position":41121,"effet":"C"}
+			]
+		}
+	]
+}

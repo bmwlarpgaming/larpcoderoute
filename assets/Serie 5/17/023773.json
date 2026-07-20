@@ -1,0 +1,40 @@
+{"id":"023773",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["En utilisant le limiteur de vitesse, je peux en cas d'urgence, dépasser la vitesse programmée :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023773_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023773_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023773_BT_R",
+		"position":37908,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023773_BT_Q01","x":0,"y":0},
+			{"filename":"023773_BT_R02","x":707,"y":3},
+			{"filename":"023773_BT_R03","x":443,"y":83},
+			{"filename":"023773_BT_R04","x":0,"y":0},
+			{"filename":"023773_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1090,"effet":"C"},
+			{"image":3,"position":14130,"effet":"C"},
+			{"image":4,"position":20775,"effet":"C"},
+			{"image":5,"position":29694,"effet":"C"},
+			{"image":1,"position":37591,"effet":"C"}
+			]
+		}
+	]
+}

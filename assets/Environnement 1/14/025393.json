@@ -1,0 +1,41 @@
+{"id":"025393",
+ "reponse":"ABC",
+ "sexe":"F",
+ "enonce":["Pour adopter une conduite économique et écologique, j'anticipe le ralentissement en arrivant :","","Ce comportement est sécuritaire :"],
+ "proposition":["- à un feu rouge","- à un virage","OUI","NON"],
+ "sequence":[
+		{"son":"025393_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025393_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025393_BT_R",
+		"position":44848,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"025393_BT_Q01","x":0,"y":0},
+			{"filename":"025393_BT_R02","x":362,"y":27},
+			{"filename":"025393_BT_R03","x":362,"y":27},
+			{"filename":"025393_BT_R04","x":358,"y":27},
+			{"filename":"025393_BT_R05","x":358,"y":27},
+			{"filename":"025393_BT_R06","x":362,"y":27}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6970,"effet":"C"},
+			{"image":3,"position":9810,"effet":"C"},
+			{"image":4,"position":25214,"effet":"C"},
+			{"image":5,"position":35724,"effet":"C"},
+			{"image":6,"position":41529,"effet":"C"}
+			]
+		}
+	]
+}

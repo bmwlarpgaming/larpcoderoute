@@ -1,0 +1,41 @@
+{"id":"023313",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Les conducteurs risquent d'être moins attentifs à proximité :","- des lieux remarquables","- des affichages publicitaires"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023313_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023313_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023313_BT_R",
+		"position":28773,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023313_BT_Q01","x":0,"y":0},
+			{"filename":"023313_BT_R02","x":131,"y":0},
+			{"filename":"023313_BT_R03","x":860,"y":12},
+			{"filename":"023313_BT_R04","x":552,"y":12},
+			{"filename":"023313_BT_R05","x":555,"y":12},
+			{"filename":"023313_BT_R06","x":131,"y":51}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":816,"effet":"C"},
+			{"image":3,"position":11889,"effet":"C"},
+			{"image":4,"position":14458,"effet":"C"},
+			{"image":5,"position":16563,"effet":"B"},
+			{"image":6,"position":20839,"effet":"C"}
+			]
+		}
+	]
+}

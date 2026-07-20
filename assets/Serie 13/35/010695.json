@@ -1,0 +1,37 @@
+{"id":"010695",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["C'est à moi de passer :","","Je passe :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010695_BT_Q",
+		"video":"010695",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010695_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010695_BT_R",
+		"video":"010695",
+		"position":22540,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010695_BT_Q02","x":0,"y":0},
+			{"filename":"010695_BT_R03","x":0,"y":0},
+			{"filename":"010695_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7876,"effet":"C"},
+			{"image":3,"position":16452,"effet":"C"}
+			]
+		}
+	]
+}

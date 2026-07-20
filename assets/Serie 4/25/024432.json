@@ -1,0 +1,38 @@
+{"id":"024432",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Ce panneau signale que je circule sur une route à caractère prioritaire :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"024432_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024432_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024432_BT_R",
+		"position":19752,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"024432_BT_Q01","x":0,"y":0},
+			{"filename":"024432_BT_R02","x":843,"y":108},
+			{"filename":"024432_BT_R03","x":203,"y":102},
+			{"filename":"024432_BT_R04","x":843,"y":108}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1748,"effet":"C"},
+			{"image":3,"position":6802,"effet":"C"},
+			{"image":4,"position":13378,"effet":"C"},
+			{"image":1,"position":18627,"effet":"C"}
+			]
+		}
+	]
+}

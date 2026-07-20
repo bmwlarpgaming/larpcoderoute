@@ -1,0 +1,40 @@
+{"id":"008813",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Ce panneau annonce une intersection :","","Je céderai le passage :"],
+ "proposition":["OUI","NON","- à droite","- à gauche"],
+ "sequence":[
+		{"son":"008813_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008813_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008813_BT_R",
+		"position":22565,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"008813_BT_Q01","x":0,"y":0},
+			{"filename":"008813_BT_R02","x":197,"y":43},
+			{"filename":"008813_BT_R03","x":725,"y":0},
+			{"filename":"008813_BT_R04","x":0,"y":0},
+			{"filename":"008813_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1097,"effet":"C"},
+			{"image":3,"position":7279,"effet":"C"},
+			{"image":4,"position":16307,"effet":"C"},
+			{"image":5,"position":18147,"effet":"C"},
+			{"image":1,"position":22419,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{"id":"025504",
+ "reponse":"AB",
+ "sexe":"F",
+ "enonce":["Souhaitant ajuster le niveau de liquide de refroidissement :","",""],
+ "proposition":["- je stationne sur un terrain plat","- j'attends que le moteur soit froid","- je peux ouvrir le réservoir même si le moteur est encore chaud",""],
+ "sequence":[
+		{"son":"025504_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025504_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025504_BT_R",
+		"position":38338,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025504_BT_Q01","x":0,"y":0},
+			{"filename":"025504_BT_R02","x":435,"y":27},
+			{"filename":"025504_BT_R03","x":435,"y":27},
+			{"filename":"025504_BT_R04","x":197,"y":27},
+			{"filename":"025504_BT_R05","x":197,"y":27}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":14679,"effet":"C"},
+			{"image":3,"position":18554,"effet":"C"},
+			{"image":4,"position":22080,"effet":"C"},
+			{"image":5,"position":26131,"effet":"C"}
+			]
+		}
+	]
+}

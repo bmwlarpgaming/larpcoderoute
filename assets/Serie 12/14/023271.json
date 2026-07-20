@@ -1,0 +1,41 @@
+{"id":"023271",
+ "reponse":"AB",
+ "sexe":"F",
+ "enonce":["Une allure adaptée :","",""],
+ "proposition":["- facilite la détection des indices importants","- facilite l'analyse des situations","- réduit l'attention",""],
+ "sequence":[
+		{"son":"023271_BT_Q",
+		"video":"023271",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023271_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023271_BT_R",
+		"video":"023271",
+		"position":34316,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023271_BT_Q03","x":0,"y":0},
+			{"filename":"023271_BT_R04","x":318,"y":255},
+			{"filename":"023271_BT_R05","x":318,"y":255},
+			{"filename":"023271_BT_R06","x":392,"y":255},
+			{"filename":"023271_BT_R01","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":913,"effet":"C"},
+			{"image":3,"position":8220,"effet":"C"},
+			{"image":4,"position":15129,"effet":"C"},
+			{"image":5,"position":33295,"effet":"C"}
+			]
+		}
+	]
+}

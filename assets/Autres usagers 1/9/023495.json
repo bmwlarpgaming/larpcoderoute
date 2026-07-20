@@ -1,0 +1,38 @@
+{"id":"023495",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Par son bras tendu, cette cycliste :","",""],
+ "proposition":["- indique son intention de tourner à droite","- salue un piéton qu'elle a aperçu","- indique qu'elle a besoin d'aide",""],
+ "sequence":[
+		{"son":"023495_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023495_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023495_BT_R",
+		"position":24169,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023495_BT_Q01","x":0,"y":0},
+			{"filename":"023495_BT_R02","x":379,"y":67},
+			{"filename":"023495_BT_R03","x":379,"y":67},
+			{"filename":"023495_BT_R04","x":379,"y":67}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5812,"effet":"C"},
+			{"image":3,"position":9816,"effet":"C"},
+			{"image":4,"position":15963,"effet":"C"},
+			{"image":1,"position":23147,"effet":"C"}
+			]
+		}
+	]
+}

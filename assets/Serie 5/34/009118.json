@@ -1,0 +1,42 @@
+{"id":"009118",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["","J'allume le clignotant :","Je dépasse :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"009118_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009118_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009118_BT_R",
+		"position":37747,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"009118_BT_Q01","x":0,"y":0},
+			{"filename":"009118_BT_R02","x":587,"y":139},
+			{"filename":"009118_BT_R03","x":270,"y":180},
+			{"filename":"009118_BT_R04","x":277,"y":386},
+			{"filename":"009118_BT_R05","x":319,"y":237},
+			{"filename":"009118_BT_R06","x":382,"y":315}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2561,"effet":"C"},
+			{"image":3,"position":6500,"effet":"C"},
+			{"image":4,"position":20542,"effet":"C"},
+			{"image":5,"position":28115,"effet":"C"},
+			{"image":6,"position":34521,"effet":"C"},
+			{"image":1,"position":36729,"effet":"C"}
+			]
+		}
+	]
+}

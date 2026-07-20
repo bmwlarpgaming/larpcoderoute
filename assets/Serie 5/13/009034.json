@@ -1,0 +1,43 @@
+{"id":"009034",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["","","ou"],
+ "proposition":["Je m'arrête ici","j'avance jusqu'au feu","",""],
+ "sequence":[
+		{"son":"009034_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009034_BT_Q01","x":0,"y":0},
+			{"filename":"009034_BT_Q02","x":191,"y":345}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":376,"effet":"B"}
+			]
+		},
+		{"son":"009034_BT_R",
+		"position":30918,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009034_BT_Q01","x":0,"y":0},
+			{"filename":"009034_BT_R02","x":191,"y":345},
+			{"filename":"009034_BT_R03","x":191,"y":0},
+			{"filename":"009034_BT_R04","x":0,"y":238},
+			{"filename":"009034_BT_R05","x":15,"y":345}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":387,"effet":"B"},
+			{"image":3,"position":1925,"effet":"C"},
+			{"image":4,"position":11726,"effet":"C"},
+			{"image":5,"position":18565,"effet":"C"},
+			{"image":1,"position":26278,"effet":"C"},
+			{"image":2,"position":26670,"effet":"B"}
+			]
+		}
+	]
+}

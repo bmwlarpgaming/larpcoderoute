@@ -1,0 +1,40 @@
+{"id":"002892",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Stabiliser l’allure en retirant le pied de l’accélérateur est possible avec :","- le limiteur de vitesse","- le régulateur de vitesse"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002892_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002892_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002892_BT_R",
+		"position":39120,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002892_BT_Q01","x":0,"y":0},
+			{"filename":"002892_BT_R02","x":0,"y":0},
+			{"filename":"002892_BT_R03","x":0,"y":0},
+			{"filename":"002892_BT_R04","x":0,"y":0},
+			{"filename":"002892_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1168,"effet":"C"},
+			{"image":3,"position":12220,"effet":"C"},
+			{"image":4,"position":13488,"effet":"C"},
+			{"image":5,"position":21216,"effet":"C"},
+			{"image":1,"position":34560,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{"id":"013017",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Si le permis de conduire est invalidé, toutes les catégories sont concernées :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"013017_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013017_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013017_BT_R",
+		"position":30758,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"013017_BT_Q01","x":0,"y":0},
+			{"filename":"013017_BT_R02","x":0,"y":0},
+			{"filename":"013017_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3370,"effet":"C"},
+			{"image":3,"position":16655,"effet":"C"},
+			{"image":1,"position":30164,"effet":"C"}
+			]
+		}
+	]
+}

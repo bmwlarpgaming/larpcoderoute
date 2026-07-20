@@ -1,0 +1,43 @@
+{"id":"012476",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je roule à 20 km/h :","",""],
+ "proposition":["- je réduis l'allure","- je maintiens l'allure","- j'augmente l'allure",""],
+ "sequence":[
+		{"son":"012476_BT_Q",
+		"video":"012476",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012476_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012476_BT_R",
+		"video":"012476",
+		"position":38425,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012476_BT_Q02","x":0,"y":0},
+			{"filename":"012476_BT_R01","x":0,"y":0},
+			{"filename":"012476_BT_R03","x":0,"y":0},
+			{"filename":"012476_BT_R04","x":0,"y":0},
+			{"filename":"012476_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1261,"effet":"C"},
+			{"image":1,"position":15637,"effet":"C"},
+			{"image":3,"position":21049,"effet":"C"},
+			{"image":4,"position":25265,"effet":"C"},
+			{"image":5,"position":28769,"effet":"C"},
+			{"image":1,"position":32833,"effet":"C"}
+			]
+		}
+	]
+}

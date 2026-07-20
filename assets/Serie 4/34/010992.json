@@ -1,0 +1,40 @@
+{"id":"010992",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je risque de faire un écart de trajectoire :","","Je serre à droite :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"010992_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010992_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010992_BT_R",
+		"position":31625,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010992_BT_Q01","x":0,"y":0},
+			{"filename":"010992_BT_R02","x":0,"y":0},
+			{"filename":"010992_BT_R03","x":203,"y":147},
+			{"filename":"010992_BT_R04","x":69,"y":147},
+			{"filename":"010992_BT_R05","x":77,"y":147}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3297,"effet":"C"},
+			{"image":3,"position":11241,"effet":"C"},
+			{"image":4,"position":19053,"effet":"C"},
+			{"image":5,"position":25521,"effet":"C"},
+			{"image":1,"position":30843,"effet":"C"}
+			]
+		}
+	]
+}

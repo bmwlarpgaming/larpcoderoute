@@ -1,0 +1,39 @@
+{"id":"023548",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Il est préférable que le niveau de liquide de refroidissement se situe :","",""],
+ "proposition":["- légèrement en-dessous du repère maximum","- légèrement en-dessous du repère minimum","",""],
+ "sequence":[
+		{"son":"023548_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023548_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023548_BT_R",
+		"position":24648,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023548_BT_Q01","x":0,"y":0},
+			{"filename":"023548_BT_R02","x":0,"y":0},
+			{"filename":"023548_BT_R03","x":0,"y":0},
+			{"filename":"023548_BT_R04","x":0,"y":185},
+			{"filename":"023548_BT_R05","x":0,"y":79}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":966,"effet":"C"},
+			{"image":3,"position":4629,"effet":"C"},
+			{"image":4,"position":14635,"effet":"C"},
+			{"image":5,"position":20198,"effet":"C"}
+			]
+		}
+	]
+}

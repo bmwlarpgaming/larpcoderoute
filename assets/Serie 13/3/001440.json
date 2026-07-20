@@ -1,0 +1,38 @@
+{"id":"001440",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Je peux :","- revenir en feux de croisement","- conserver les feux de brouillard avant"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"001440_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"001440_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"001440_BT_R",
+		"position":25980,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"001440_BT_Q01","x":0,"y":0},
+			{"filename":"001440_BT_R02","x":310,"y":295},
+			{"filename":"001440_BT_R03","x":310,"y":295},
+			{"filename":"001440_BT_R04","x":548,"y":203}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3620,"effet":"C"},
+			{"image":3,"position":10040,"effet":"C"},
+			{"image":4,"position":14920,"effet":"C"},
+			{"image":1,"position":20450,"effet":"C"}
+			]
+		}
+	]
+}

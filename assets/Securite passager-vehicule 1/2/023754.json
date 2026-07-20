@@ -1,0 +1,42 @@
+{"id":"023754",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Le système eCall se déclenche automatiquement en cas d'accident grave :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023754_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023754_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023754_BT_R",
+		"position":37624,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023754_BT_Q01","x":0,"y":0},
+			{"filename":"023754_BT_R02","x":477,"y":97},
+			{"filename":"023754_BT_R03","x":0,"y":0},
+			{"filename":"023754_BT_R04","x":0,"y":0},
+			{"filename":"023754_BT_R05","x":496,"y":124},
+			{"filename":"023754_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":845,"effet":"C"},
+			{"image":3,"position":11660,"effet":"C"},
+			{"image":4,"position":17216,"effet":"C"},
+			{"image":5,"position":25632,"effet":"C"},
+			{"image":6,"position":30429,"effet":"C"},
+			{"image":1,"position":37277,"effet":"C"}
+			]
+		}
+	]
+}

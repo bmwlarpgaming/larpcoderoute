@@ -1,0 +1,36 @@
+{"id":"012067",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Lors d'un long trajet, sans ressentir les signes de la fatigue, une pause régulière est conseillée environ toutes les :","",""],
+ "proposition":["- 2 heures","- 4 heures","",""],
+ "sequence":[
+		{"son":"012067_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012067_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012067_BT_R",
+		"position":31158,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"012067_BT_Q01","x":0,"y":0},
+			{"filename":"012067_BT_R02","x":35,"y":20},
+			{"filename":"012067_BT_R03","x":43,"y":47}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3116,"effet":"C"},
+			{"image":3,"position":17856,"effet":"C"},
+			{"image":1,"position":30525,"effet":"C"}
+			]
+		}
+	]
+}

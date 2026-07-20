@@ -1,0 +1,38 @@
+{"id":"025235",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Pour effectuer un dépassement la nuit, ce conducteur allume les feux de route lorsqu'il se situe en :","",""],
+ "proposition":["A","B","C",""],
+ "sequence":[
+		{"son":"025235_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025235_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025235_BT_R",
+		"position":27852,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025235_BT_Q01","x":0,"y":0},
+			{"filename":"025235_BT_R02","x":0,"y":45},
+			{"filename":"025235_BT_R03","x":0,"y":19},
+			{"filename":"025235_BT_R04","x":0,"y":59}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7790,"effet":"C"},
+			{"image":3,"position":15178,"effet":"C"},
+			{"image":4,"position":19901,"effet":"C"},
+			{"image":1,"position":27397,"effet":"C"}
+			]
+		}
+	]
+}

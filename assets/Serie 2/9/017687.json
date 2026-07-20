@@ -1,0 +1,38 @@
+{"id":"017687",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La voie de gauche avance plus vite. Je change de voie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017687_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017687_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017687_BT_R",
+		"position":34554,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017687_BT_Q01","x":0,"y":0},
+			{"filename":"017687_BT_R03","x":475,"y":211},
+			{"filename":"017687_BT_R04","x":252,"y":371},
+			{"filename":"017687_BT_R02","x":200,"y":442}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2708,"effet":"C"},
+			{"image":3,"position":11421,"effet":"C"},
+			{"image":4,"position":21500,"effet":"C"},
+			{"image":1,"position":27127,"effet":"C"}
+			]
+		}
+	]
+}

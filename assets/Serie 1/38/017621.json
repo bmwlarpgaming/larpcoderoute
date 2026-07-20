@@ -1,0 +1,39 @@
+{"id":"017621",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Dans cette situation, je m'oblige à diriger le regard vers la zone :","",""],
+ "proposition":["A","B","",""],
+ "sequence":[
+		{"son":"017621_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017621_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017621_BT_R",
+		"position":37118,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017621_BT_Q01","x":0,"y":0},
+			{"filename":"017621_BT_R02","x":0,"y":0},
+			{"filename":"017621_BT_R03","x":0,"y":0},
+			{"filename":"017621_BT_R04","x":75,"y":333}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7684,"effet":"C"},
+			{"image":1,"position":15958,"effet":"C"},
+			{"image":3,"position":21413,"effet":"C"},
+			{"image":4,"position":29941,"effet":"C"},
+			{"image":1,"position":36374,"effet":"C"}
+			]
+		}
+	]
+}

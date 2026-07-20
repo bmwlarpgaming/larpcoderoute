@@ -1,0 +1,43 @@
+{"id":"023266",
+ "reponse":"AB",
+ "sexe":"F",
+ "enonce":["","",""],
+ "proposition":["Ce virage représente une zone de danger potentiel","Je réduis l'allure et l'aborde le pied face au frein","Je maintiens l'allure",""],
+ "sequence":[
+		{"son":"023266_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023266_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023266_BT_R",
+		"position":31599,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023266_BT_Q01","x":0,"y":0},
+			{"filename":"023266_BT_R02","x":139,"y":123},
+			{"filename":"023266_BT_R03","x":139,"y":123},
+			{"filename":"023266_BT_R04","x":643,"y":91},
+			{"filename":"023266_BT_R05","x":139,"y":123},
+			{"filename":"023266_BT_R06","x":387,"y":347}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":819,"effet":"C"},
+			{"image":3,"position":9790,"effet":"C"},
+			{"image":1,"position":16642,"effet":"C"},
+			{"image":4,"position":17622,"effet":"C"},
+			{"image":5,"position":23053,"effet":"C"},
+			{"image":6,"position":27750,"effet":"C"},
+			{"image":1,"position":30802,"effet":"C"}
+			]
+		}
+	]
+}

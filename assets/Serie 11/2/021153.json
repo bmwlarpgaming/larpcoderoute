@@ -1,0 +1,37 @@
+{"id":"021153",
+ "reponse":"ABC",
+ "sexe":"F",
+ "enonce":["Les capacités à conduire diminuent :","",""],
+ "proposition":["- avec l’âge","- avec la fatigue","- avec l’alcool","-  avec l’expérience"],
+ "sequence":[
+		{"son":"021153_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021153_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021153_BT_R",
+		"position":40598,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"021153_BT_Q01","x":0,"y":0},
+			{"filename":"021153_BT_R02","x":635,"y":14},
+			{"filename":"021153_BT_R03","x":635,"y":14},
+			{"filename":"021153_BT_R04","x":635,"y":14}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10731,"effet":"C"},
+			{"image":3,"position":20850,"effet":"C"},
+			{"image":4,"position":31700,"effet":"C"}
+			]
+		}
+	]
+}

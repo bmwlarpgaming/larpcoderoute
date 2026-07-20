@@ -1,0 +1,42 @@
+{"id":"008933",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je dépasse :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008933_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008933_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008933_BT_R",
+		"position":30798,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"008933_BT_Q01","x":0,"y":0},
+			{"filename":"008933_BT_R02","x":184,"y":256},
+			{"filename":"008933_BT_R03","x":188,"y":78},
+			{"filename":"008933_BT_R04","x":247,"y":138},
+			{"filename":"008933_BT_R05","x":247,"y":138},
+			{"filename":"008933_BT_R06","x":98,"y":138}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2172,"effet":"C"},
+			{"image":3,"position":6076,"effet":"C"},
+			{"image":4,"position":9406,"effet":"C"},
+			{"image":5,"position":12830,"effet":"C"},
+			{"image":1,"position":16104,"effet":"C"},
+			{"image":6,"position":21576,"effet":"C"}
+			]
+		}
+	]
+}

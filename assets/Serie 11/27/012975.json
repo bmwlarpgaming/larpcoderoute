@@ -1,0 +1,39 @@
+{"id":"012975",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Le régulateur de vitesse apporte confort et sécurité en toutes circonstances :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"012975_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012975_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012975_BT_R",
+		"position":36702,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012975_BT_Q01","x":0,"y":0},
+			{"filename":"012975_BT_R02","x":0,"y":0},
+			{"filename":"012975_BT_R03","x":0,"y":0},
+			{"filename":"012975_BT_R04","x":0,"y":0},
+			{"filename":"012975_BT_R05","x":93,"y":254}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10804,"effet":"C"},
+			{"image":3,"position":16404,"effet":"C"},
+			{"image":4,"position":18896,"effet":"C"},
+			{"image":5,"position":28474,"effet":"C"}
+			]
+		}
+	]
+}

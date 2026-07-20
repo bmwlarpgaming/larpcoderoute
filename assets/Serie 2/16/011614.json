@@ -1,0 +1,42 @@
+{"id":"011614",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je m'écarte et j'empiète sur la voie de tramway pour continuer :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011614_BT_Q",
+		"video":"011614",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011614_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011614_BT_R",
+		"video":"011614",
+		"position":28056,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011614_BT_Q02","x":0,"y":0},
+			{"filename":"011614_BT_R03","x":773,"y":157},
+			{"filename":"011614_BT_R04","x":0,"y":157},
+			{"filename":"011614_BT_R05","x":0,"y":157},
+			{"filename":"011614_BT_R06","x":0,"y":157}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7417,"effet":"C"},
+			{"image":3,"position":13487,"effet":"C"},
+			{"image":4,"position":22597,"effet":"C"},
+			{"image":5,"position":24657,"effet":"C"},
+			{"image":1,"position":27335,"effet":"C"}
+			]
+		}
+	]
+}

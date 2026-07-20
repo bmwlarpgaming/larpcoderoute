@@ -1,0 +1,35 @@
+{"id":"025412",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Conduire avec la musique réglée à un niveau sonore élevé :","- peut créer une gêne pour les riverains","- crée une pollution sonore"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025412_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025412_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025412_BT_R",
+		"position":24432,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"025412_BT_Q01","x":0,"y":0},
+			{"filename":"025412_BT_R02","x":771,"y":83},
+			{"filename":"025412_BT_R03","x":771,"y":83}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":13411,"effet":"C"},
+			{"image":3,"position":18896,"effet":"C"}
+			]
+		}
+	]
+}

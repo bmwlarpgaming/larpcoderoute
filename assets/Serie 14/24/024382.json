@@ -1,0 +1,40 @@
+{"id":"024382",
+ "reponse":"AB",
+ "sexe":"H",
+ "enonce":["Je circule sur une voie de circulation partagée :","",""],
+ "proposition":["- je peux continuer tout droit","- je peux tourner à gauche","- je peux tourner à droite",""],
+ "sequence":[
+		{"son":"024382_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024382_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024382_BT_R",
+		"position":20134,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024382_BT_Q01","x":0,"y":0},
+			{"filename":"024382_BT_R02","x":467,"y":36},
+			{"filename":"024382_BT_R03","x":371,"y":19},
+			{"filename":"024382_BT_R04","x":125,"y":252},
+			{"filename":"024382_BT_R05","x":125,"y":19}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3084,"effet":"C"},
+			{"image":3,"position":8430,"effet":"C"},
+			{"image":4,"position":12147,"effet":"C"},
+			{"image":5,"position":15777,"effet":"C"},
+			{"image":1,"position":19926,"effet":"C"}
+			]
+		}
+	]
+}

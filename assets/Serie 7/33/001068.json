@@ -1,0 +1,39 @@
+{"id":"001068",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je m’arrête ici pour déposer mon passager :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"001068_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"001068_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"001068_BT_R",
+		"position":30170,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"001068_BT_Q01","x":0,"y":0},
+			{"filename":"001068_BT_R02","x":115,"y":103},
+			{"filename":"001068_BT_R04","x":788,"y":0},
+			{"filename":"001068_BT_R05","x":268,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11680,"effet":"C"},
+			{"image":1,"position":19276,"effet":"C"},
+			{"image":3,"position":22210,"effet":"C"},
+			{"image":4,"position":23558,"effet":"C"},
+			{"image":1,"position":25680,"effet":"C"}
+			]
+		}
+	]
+}

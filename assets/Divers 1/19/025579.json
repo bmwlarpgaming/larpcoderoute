@@ -1,0 +1,38 @@
+{"id":"025579",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Les cases cochées sur le constat amiable permettent de déterminer les responsabilités :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"025579_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025579_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025579_BT_R",
+		"position":22505,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025579_BT_Q01","x":0,"y":0},
+			{"filename":"025579_BT_R02","x":123,"y":164},
+			{"filename":"025579_BT_R03","x":0,"y":0},
+			{"filename":"025579_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2834,"effet":"C"},
+			{"image":3,"position":13054,"effet":"C"},
+			{"image":4,"position":17635,"effet":"C"},
+			{"image":1,"position":21512,"effet":"C"}
+			]
+		}
+	]
+}

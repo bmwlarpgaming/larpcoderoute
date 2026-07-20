@@ -1,0 +1,46 @@
+{"id":"009985",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Ce pictogramme informe d'une interdiction de conduire :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009985_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009985_BT_Q01","x":0,"y":0},
+			{"filename":"009985_BT_Q02","x":587,"y":191}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1518,"effet":"C"},
+			{"image":1,"position":8045,"effet":"C"}
+			]
+		},
+		{"son":"009985_BT_R",
+		"position":43311,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"009985_BT_Q01","x":0,"y":0},
+			{"filename":"009985_BT_R02","x":587,"y":191},
+			{"filename":"009985_BT_R03","x":827,"y":26},
+			{"filename":"009985_BT_R04","x":827,"y":26},
+			{"filename":"009985_BT_R05","x":827,"y":26},
+			{"filename":"009985_BT_R06","x":827,"y":26},
+			{"filename":"009985_BT_R07","x":587,"y":191}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3124,"effet":"C"},
+			{"image":3,"position":8071,"effet":"C"},
+			{"image":4,"position":14823,"effet":"C"},
+			{"image":5,"position":18779,"effet":"C"},
+			{"image":6,"position":25019,"effet":"C"},
+			{"image":7,"position":34931,"effet":"C"}
+			]
+		}
+	]
+}

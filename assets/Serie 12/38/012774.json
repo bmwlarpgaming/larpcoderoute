@@ -1,0 +1,38 @@
+{"id":"012774",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je surveille en premier la zone :","",""],
+ "proposition":["- A","- B","",""],
+ "sequence":[
+		{"son":"012774_BT_Q",
+		"video":"012774",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012774_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012774_BT_R",
+		"video":"012774",
+		"position":22573,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"012774_BT_Q02","x":0,"y":0},
+			{"filename":"012774_BT_R03","x":0,"y":0},
+			{"filename":"012774_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10844,"effet":"C"},
+			{"image":3,"position":17260,"effet":"C"},
+			{"image":1,"position":22212,"effet":"C"}
+			]
+		}
+	]
+}

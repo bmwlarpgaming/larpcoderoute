@@ -1,0 +1,39 @@
+{"id":"011460",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["","","ou"],
+ "proposition":["Je dépasse","je m'arrête","",""],
+ "sequence":[
+		{"son":"011460_BT_Q",
+		"video":"011460",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011460_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011460_BT_R",
+		"video":"011460",
+		"position":19039,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011460_BT_Q02","x":0,"y":0},
+			{"filename":"011460_BT_R03","x":682,"y":156},
+			{"filename":"011460_BT_R04","x":469,"y":19},
+			{"filename":"011460_BT_R05","x":531,"y":291}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5167,"effet":"C"},
+			{"image":3,"position":11855,"effet":"C"},
+			{"image":4,"position":17375,"effet":"C"}
+			]
+		}
+	]
+}

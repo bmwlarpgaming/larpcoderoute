@@ -1,0 +1,40 @@
+{"id":"009574",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Vérifier régulièrement la pression des pneus, permet :","- de consommer moins","- de diminuer le risque d'éclatement"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"009574_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009574_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009574_BT_R",
+		"position":47070,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009574_BT_Q01","x":0,"y":0},
+			{"filename":"009574_BT_R02","x":37,"y":243},
+			{"filename":"009574_BT_R03","x":0,"y":0},
+			{"filename":"009574_BT_R04","x":0,"y":0},
+			{"filename":"009574_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1501,"effet":"C"},
+			{"image":3,"position":12410,"effet":"C"},
+			{"image":4,"position":27081,"effet":"C"},
+			{"image":5,"position":41730,"effet":"C"},
+			{"image":1,"position":46562,"effet":"C"}
+			]
+		}
+	]
+}

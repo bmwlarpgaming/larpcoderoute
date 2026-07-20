@@ -1,0 +1,41 @@
+{"id":"023588",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Lors d'un freinage d'urgence, l'allumage des feux de détresse est automatique :","",""],
+ "proposition":["- sur tous les véhicules récents","- sur certains véhicules récents","- sur aucun véhicule",""],
+ "sequence":[
+		{"son":"023588_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023588_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023588_BT_R",
+		"position":36665,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023588_BT_Q01","x":0,"y":0},
+			{"filename":"023588_BT_R02","x":0,"y":0},
+			{"filename":"023588_BT_R03","x":0,"y":0},
+			{"filename":"023588_BT_R04","x":0,"y":0},
+			{"filename":"023588_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6897,"effet":"C"},
+			{"image":1,"position":21225,"effet":"C"},
+			{"image":3,"position":26326,"effet":"C"},
+			{"image":4,"position":30164,"effet":"C"},
+			{"image":5,"position":31099,"effet":"B"},
+			{"image":1,"position":36323,"effet":"C"}
+			]
+		}
+	]
+}

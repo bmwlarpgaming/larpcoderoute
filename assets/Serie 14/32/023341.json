@@ -1,0 +1,43 @@
+{"id":"023341",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Les 2 périodes où le niveau de vigilance d'un conducteur baisse sont :","",""],
+ "proposition":["- le matin entre 2 h et 5 h","- le matin entre 8 h et 10 h","- l'après-midi entre 14 h et 16 h","- l'après-midi entre 17 h et 19 h"],
+ "sequence":[
+		{"son":"023341_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023341_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023341_BT_R",
+		"position":49871,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023341_BT_Q01","x":0,"y":0},
+			{"filename":"023341_BT_R02","x":0,"y":0},
+			{"filename":"023341_BT_R03","x":0,"y":0},
+			{"filename":"023341_BT_R05","x":0,"y":0},
+			{"filename":"023341_BT_R06","x":0,"y":0},
+			{"filename":"023341_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6585,"effet":"C"},
+			{"image":3,"position":23399,"effet":"C"},
+			{"image":1,"position":34620,"effet":"C"},
+			{"image":4,"position":39299,"effet":"C"},
+			{"image":5,"position":44260,"effet":"C"},
+			{"image":6,"position":45676,"effet":"B"},
+			{"image":1,"position":49506,"effet":"C"}
+			]
+		}
+	]
+}

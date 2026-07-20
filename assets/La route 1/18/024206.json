@@ -1,0 +1,39 @@
+{"id":"024206",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Pour être vu de loin lorsque la visibilité est réduite :","",""],
+ "proposition":["- je reste en feux diurnes","- j'allume les feux de croisement","- j'allume les feux de route",""],
+ "sequence":[
+		{"son":"024206_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024206_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024206_BT_R",
+		"position":26083,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024206_BT_Q01","x":0,"y":0},
+			{"filename":"024206_BT_R02","x":0,"y":0},
+			{"filename":"024206_BT_R04","x":0,"y":0},
+			{"filename":"024206_BT_R03","x":0,"y":0},
+			{"filename":"024206_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1024,"effet":"C"},
+			{"image":3,"position":9070,"effet":"C"},
+			{"image":4,"position":15802,"effet":"C"},
+			{"image":5,"position":21715,"effet":"C"}
+			]
+		}
+	]
+}

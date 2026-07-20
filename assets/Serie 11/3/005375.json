@@ -1,0 +1,43 @@
+{"id":"005375",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["Je suis en panne :","",""],
+ "proposition":["- je laisse les clefs sur le contact","- je rejoins l'issue de secours","- j'essaie de faire demi-tour","- je vais téléphoner"],
+ "sequence":[
+		{"son":"005375_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"005375_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"005375_BT_R",
+		"position":38938,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"005375_BT_Q01","x":0,"y":0},
+			{"filename":"005375_BT_R02","x":363,"y":299},
+			{"filename":"005375_BT_R03","x":379,"y":315},
+			{"filename":"005375_BT_R04","x":339,"y":283},
+			{"filename":"005375_BT_R05","x":339,"y":283},
+			{"filename":"005375_BT_R07","x":339,"y":283}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4130,"effet":"C"},
+			{"image":3,"position":5374,"effet":"B"},
+			{"image":4,"position":10315,"effet":"C"},
+			{"image":5,"position":11051,"effet":"B"},
+			{"image":1,"position":25062,"effet":"C"},
+			{"image":6,"position":26350,"effet":"C"},
+			{"image":1,"position":38322,"effet":"C"}
+			]
+		}
+	]
+}

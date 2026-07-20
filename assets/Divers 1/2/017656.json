@@ -1,0 +1,36 @@
+{"id":"017656",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La durée de validité du récépissé de la déclaration de perte ou de vol de mon permis de conduire est de :","",""],
+ "proposition":["- 15 jours","- 2 mois","- 6 mois",""],
+ "sequence":[
+		{"son":"017656_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017656_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017656_BT_R",
+		"position":23231,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017656_BT_Q01","x":0,"y":0},
+			{"filename":"017656_BT_R02","x":0,"y":0},
+			{"filename":"017656_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1918,"effet":"C"},
+			{"image":3,"position":15919,"effet":"C"},
+			{"image":1,"position":22831,"effet":"C"}
+			]
+		}
+	]
+}

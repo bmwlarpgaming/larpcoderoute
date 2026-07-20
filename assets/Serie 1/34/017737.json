@@ -1,0 +1,47 @@
+{"id":"017737",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je tourne à gauche. Je passe avant le piéton :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017737_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"017737_BT_Q01","x":0,"y":0},
+			{"filename":"017737_BT_Q02","x":623,"y":417}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":490,"effet":"B"}
+			]
+		},
+		{"son":"017737_BT_R",
+		"position":18681,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"017737_BT_Q01","x":0,"y":0},
+			{"filename":"017737_BT_R02","x":623,"y":417},
+			{"filename":"017737_BT_R03","x":1164,"y":195},
+			{"filename":"017737_BT_R04","x":623,"y":195},
+			{"filename":"017737_BT_R05","x":316,"y":43},
+			{"filename":"017737_BT_R06","x":316,"y":43},
+			{"filename":"017737_BT_R07","x":139,"y":219},
+			{"filename":"017737_BT_R08","x":139,"y":219}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":531,"effet":"B"},
+			{"image":3,"position":4199,"effet":"C"},
+			{"image":4,"position":4597,"effet":"B"},
+			{"image":5,"position":6445,"effet":"C"},
+			{"image":6,"position":6942,"effet":"B"},
+			{"image":7,"position":15758,"effet":"C"},
+			{"image":8,"position":16130,"effet":"B"}
+			]
+		}
+	]
+}

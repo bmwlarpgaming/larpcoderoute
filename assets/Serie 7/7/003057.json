@@ -1,0 +1,40 @@
+{"id":"003057",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Dans une zone de rencontre, la vitesse est limitée à :","","Les piétons ont la priorité :"],
+ "proposition":["- 20 km/h","- 30 km/h","OUI","NON"],
+ "sequence":[
+		{"son":"003057_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003057_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003057_BT_R",
+		"position":27168,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"003057_BT_Q01","x":0,"y":0},
+			{"filename":"003057_BT_R02","x":172,"y":75},
+			{"filename":"003057_BT_R03","x":147,"y":75},
+			{"filename":"003057_BT_R04","x":172,"y":75},
+			{"filename":"003057_BT_R05","x":172,"y":75}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7691,"effet":"C"},
+			{"image":3,"position":16185,"effet":"C"},
+			{"image":4,"position":19210,"effet":"C"},
+			{"image":5,"position":19744,"effet":"B"},
+			{"image":1,"position":26629,"effet":"C"}
+			]
+		}
+	]
+}

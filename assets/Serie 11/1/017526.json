@@ -1,0 +1,42 @@
+{"id":"017526",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["La distance de sécurité avec le poids lourd est suffisante :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017526_BT_Q",
+		"video":"017526",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017526_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017526_BT_R",
+		"video":"017526",
+		"position":42408,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017526_BT_Q03","x":0,"y":0},
+			{"filename":"017526_BT_R01","x":0,"y":27},
+			{"filename":"017526_BT_R03","x":156,"y":51},
+			{"filename":"017526_BT_R04","x":0,"y":27},
+			{"filename":"017526_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1016,"effet":"C"},
+			{"image":3,"position":7560,"effet":"C"},
+			{"image":4,"position":12144,"effet":"C"},
+			{"image":5,"position":20016,"effet":"C"},
+			{"image":1,"position":37920,"effet":"C"}
+			]
+		}
+	]
+}

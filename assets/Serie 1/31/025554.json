@@ -1,0 +1,38 @@
+{"id":"025554",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Suite à un accident sur un parking ouvert à la circulation publique, je remplis un constat amiable :","","Dans ce cas, les responsabilités sont toujours partagées à 50 % :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025554_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025554_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025554_BT_R",
+		"position":24193,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025554_BT_Q01","x":0,"y":0},
+			{"filename":"025554_BT_R02","x":59,"y":35},
+			{"filename":"025554_BT_R03","x":59,"y":35},
+			{"filename":"025554_BT_R04","x":59,"y":35}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6586,"effet":"C"},
+			{"image":3,"position":12003,"effet":"C"},
+			{"image":4,"position":18503,"effet":"C"},
+			{"image":1,"position":23403,"effet":"C"}
+			]
+		}
+	]
+}

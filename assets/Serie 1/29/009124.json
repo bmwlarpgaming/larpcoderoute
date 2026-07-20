@@ -1,0 +1,41 @@
+{"id":"009124",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Être courtois c'est :","",""],
+ "proposition":["- s'engager en roulant au pas","- klaxonner","- s'arrêter un instant",""],
+ "sequence":[
+		{"son":"009124_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009124_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009124_BT_R",
+		"position":32070,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"009124_BT_Q01","x":0,"y":0},
+			{"filename":"009124_BT_R02","x":227,"y":403},
+			{"filename":"009124_BT_R03","x":441,"y":185},
+			{"filename":"009124_BT_R04","x":317,"y":292},
+			{"filename":"009124_BT_R05","x":261,"y":403},
+			{"filename":"009124_BT_R06","x":629,"y":208}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1305,"effet":"C"},
+			{"image":3,"position":11365,"effet":"C"},
+			{"image":4,"position":20935,"effet":"C"},
+			{"image":5,"position":25450,"effet":"C"},
+			{"image":6,"position":27656,"effet":"C"}
+			]
+		}
+	]
+}

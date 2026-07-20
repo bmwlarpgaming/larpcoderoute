@@ -1,0 +1,42 @@
+{"id":"019373",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Surpris par ce ralentissement :","",""],
+ "proposition":["- je maintiens l'allure","- je mets les feux de détresse","- je change de voie",""],
+ "sequence":[
+		{"son":"019373_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"019373_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"019373_BT_R",
+		"position":38957,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"019373_BT_Q01","x":0,"y":0},
+			{"filename":"019373_BT_R02","x":0,"y":0},
+			{"filename":"019373_BT_R03","x":353,"y":387},
+			{"filename":"019373_BT_R04","x":353,"y":19},
+			{"filename":"019373_BT_R05","x":521,"y":384},
+			{"filename":"019373_BT_R06","x":531,"y":394}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7293,"effet":"C"},
+			{"image":3,"position":17677,"effet":"C"},
+			{"image":4,"position":23026,"effet":"C"},
+			{"image":5,"position":32550,"effet":"C"},
+			{"image":6,"position":32942,"effet":"B"},
+			{"image":1,"position":38894,"effet":"C"}
+			]
+		}
+	]
+}

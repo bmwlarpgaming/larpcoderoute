@@ -1,0 +1,39 @@
+{"id":"021470",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Le motard peut facilement rectifier sa trajectoire si un véhicule en face empiète dans sa voie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"021470_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021470_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021470_BT_R",
+		"position":32471,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"021470_BT_Q01","x":0,"y":0},
+			{"filename":"021470_BT_R02","x":220,"y":243},
+			{"filename":"021470_BT_R03","x":252,"y":275},
+			{"filename":"021470_BT_R04","x":107,"y":35},
+			{"filename":"021470_BT_R05","x":44,"y":35}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7390,"effet":"C"},
+			{"image":3,"position":15955,"effet":"C"},
+			{"image":4,"position":24198,"effet":"C"},
+			{"image":5,"position":28778,"effet":"C"}
+			]
+		}
+	]
+}

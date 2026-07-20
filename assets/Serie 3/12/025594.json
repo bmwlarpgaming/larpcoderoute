@@ -1,0 +1,43 @@
+{"id":"025594",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Le délit de fuite est le fait de ne pas s'arrêter :","","ou"],
+ "proposition":["- après un accrochage avec un autre véhicule","- lorsque les forces de l'ordre me font signe de m'arrêter","",""],
+ "sequence":[
+		{"son":"025594_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025594_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025594_BT_R",
+		"position":34147,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"025594_BT_Q01","x":0,"y":0},
+			{"filename":"025594_BT_R02","x":0,"y":0},
+			{"filename":"025594_BT_R03","x":0,"y":0},
+			{"filename":"025594_BT_R04","x":0,"y":0},
+			{"filename":"025594_BT_R05","x":0,"y":0},
+			{"filename":"025594_BT_R06","x":0,"y":0},
+			{"filename":"025594_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2661,"effet":"C"},
+			{"image":3,"position":6023,"effet":"C"},
+			{"image":4,"position":8648,"effet":"C"},
+			{"image":5,"position":15142,"effet":"C"},
+			{"image":6,"position":19222,"effet":"C"},
+			{"image":7,"position":26057,"effet":"C"}
+			]
+		}
+	]
+}

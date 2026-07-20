@@ -1,0 +1,42 @@
+{"id":"009091",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Les plus touchés par la mortalité routière, tous usagers confondus, sont :","",""],
+ "proposition":["- les hommes","- les femmes","",""],
+ "sequence":[
+		{"son":"009091_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009091_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009091_BT_R",
+		"position":46739,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"009091_BT_Q01","x":0,"y":0},
+			{"filename":"009091_BT_R02","x":124,"y":2},
+			{"filename":"009091_BT_R03","x":0,"y":0},
+			{"filename":"009091_BT_R04","x":0,"y":0},
+			{"filename":"009091_BT_R05","x":0,"y":0},
+			{"filename":"009091_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2305,"effet":"C"},
+			{"image":3,"position":15509,"effet":"C"},
+			{"image":4,"position":24810,"effet":"C"},
+			{"image":5,"position":29290,"effet":"C"},
+			{"image":6,"position":36075,"effet":"C"},
+			{"image":1,"position":45760,"effet":"C"}
+			]
+		}
+	]
+}

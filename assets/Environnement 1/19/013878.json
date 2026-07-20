@@ -1,0 +1,38 @@
+{"id":"013878",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["En ville, un trajet de 4 km est parcouru plus rapidement :","",""],
+ "proposition":["- à pied","- à  vélo","- en bus","- en voiture"],
+ "sequence":[
+		{"son":"013878_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013878_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013878_BT_R",
+		"position":34433,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"013878_BT_Q01","x":0,"y":0},
+			{"filename":"013878_BT_R02","x":572,"y":187},
+			{"filename":"013878_BT_R03","x":0,"y":0},
+			{"filename":"013878_BT_R04","x":107,"y":203}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":995,"effet":"C"},
+			{"image":3,"position":10768,"effet":"C"},
+			{"image":4,"position":26829,"effet":"C"},
+			{"image":1,"position":34000,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"018478",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","",""],
+ "proposition":["Je m'arrête","je ralentis et je passe","",""],
+ "sequence":[
+		{"son":"018478_BT_Q",
+		"video":"018478",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"018478_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"018478_BT_R",
+		"video":"018478",
+		"position":26848,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"018478_BT_Q03","x":0,"y":0},
+			{"filename":"018478_BT_R03","x":0,"y":0},
+			{"filename":"018478_BT_R04","x":0,"y":0},
+			{"filename":"018478_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8917,"effet":"C"},
+			{"image":3,"position":12909,"effet":"C"},
+			{"image":4,"position":20110,"effet":"C"},
+			{"image":1,"position":26392,"effet":"C"}
+			]
+		}
+	]
+}

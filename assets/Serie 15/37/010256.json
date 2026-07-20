@@ -1,0 +1,35 @@
+{"id":"010256",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Pour couper rapidement le moteur de cette moto, j'appuie sur le bouton :","",""],
+ "proposition":["- A","- B","",""],
+ "sequence":[
+		{"son":"010256_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010256_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010256_BT_R",
+		"position":30506,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010256_BT_Q01","x":0,"y":0},
+			{"filename":"010256_BT_R02","x":745,"y":443},
+			{"filename":"010256_BT_R03","x":92,"y":172}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11835,"effet":"C"},
+			{"image":3,"position":22731,"effet":"C"}
+			]
+		}
+	]
+}

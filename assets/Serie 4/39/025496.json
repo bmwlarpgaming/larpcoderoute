@@ -1,0 +1,35 @@
+{"id":"025496",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Empruntant un véhicule, je dois au préalable :","- m'assurer d'être couvert en cas d'accident","- vérifier les réglages pour être correctement installé"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025496_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025496_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025496_BT_R",
+		"position":30336,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"025496_BT_Q01","x":0,"y":0},
+			{"filename":"025496_BT_R02","x":0,"y":0},
+			{"filename":"025496_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11481,"effet":"C"},
+			{"image":3,"position":20267,"effet":"C"}
+			]
+		}
+	]
+}

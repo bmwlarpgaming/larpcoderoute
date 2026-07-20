@@ -1,0 +1,40 @@
+{"id":"021177",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Je risque d'être surpris par :","- l'ouverture d'une portière","- un piéton"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"021177_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021177_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021177_BT_R",
+		"position":30640,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"021177_BT_Q01","x":0,"y":0},
+			{"filename":"021177_BT_R02","x":576,"y":187},
+			{"filename":"021177_BT_R03","x":803,"y":117},
+			{"filename":"021177_BT_R04","x":803,"y":117},
+			{"filename":"021177_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11870,"effet":"C"},
+			{"image":3,"position":15335,"effet":"C"},
+			{"image":4,"position":21782,"effet":"C"},
+			{"image":5,"position":24099,"effet":"C"},
+			{"image":1,"position":30264,"effet":"C"}
+			]
+		}
+	]
+}

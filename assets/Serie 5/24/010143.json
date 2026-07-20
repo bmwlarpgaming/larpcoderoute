@@ -1,0 +1,43 @@
+{"id":"010143",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Ce conducteur routier qui conduit un poids lourd de 16 m de long, va devoir se déporter à gauche pour aborder ce virage :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010143_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010143_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010143_BT_R",
+		"position":33437,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"010143_BT_Q01","x":0,"y":0},
+			{"filename":"010143_BT_R02","x":211,"y":31},
+			{"filename":"010143_BT_R03","x":211,"y":31},
+			{"filename":"010143_BT_R04","x":211,"y":31},
+			{"filename":"010143_BT_R05","x":211,"y":31},
+			{"filename":"010143_BT_R06","x":211,"y":31},
+			{"filename":"010143_BT_R07","x":211,"y":31}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10528,"effet":"C"},
+			{"image":3,"position":14108,"effet":"C"},
+			{"image":4,"position":16156,"effet":"C"},
+			{"image":5,"position":19141,"effet":"C"},
+			{"image":6,"position":24854,"effet":"C"},
+			{"image":7,"position":28982,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"000544",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je m’arrête :","",""],
+ "proposition":["- à hauteur du panneau","- à hauteur de la chaussée abordée","",""],
+ "sequence":[
+		{"son":"000544_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000544_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000544_BT_R",
+		"position":41690,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"000544_BT_Q01","x":0,"y":0},
+			{"filename":"000544_BT_R02","x":0,"y":0},
+			{"filename":"000544_BT_R03","x":0,"y":0},
+			{"filename":"000544_BT_R04","x":0,"y":0},
+			{"filename":"000544_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5020,"effet":"C"},
+			{"image":3,"position":9700,"effet":"C"},
+			{"image":4,"position":17220,"effet":"C"},
+			{"image":3,"position":23540,"effet":"C"},
+			{"image":5,"position":27000,"effet":"C"},
+			{"image":1,"position":36120,"effet":"C"}
+			]
+		}
+	]
+}

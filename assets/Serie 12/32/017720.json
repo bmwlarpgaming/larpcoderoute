@@ -1,0 +1,42 @@
+{"id":"017720",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["Le camion qui me précède roule moins vite que moi :","","Je commence la manoeuvre de dépassement :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017720_BT_Q",
+		"video":"017720",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017720_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017720_BT_R",
+		"video":"017720",
+		"position":38861,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017720_BT_R01","x":0,"y":0},
+			{"filename":"017720_BT_R04","x":0,"y":0},
+			{"filename":"017720_BT_R05","x":0,"y":0},
+			{"filename":"017720_BT_R03","x":0,"y":0},
+			{"filename":"017720_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5995,"effet":"C"},
+			{"image":3,"position":14348,"effet":"C"},
+			{"image":4,"position":19282,"effet":"C"},
+			{"image":5,"position":25597,"effet":"C"},
+			{"image":4,"position":36194,"effet":"C"}
+			]
+		}
+	]
+}

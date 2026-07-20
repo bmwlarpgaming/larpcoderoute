@@ -1,0 +1,40 @@
+{"id":"023356",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["","",""],
+ "proposition":["Je m'insère immédiatement","J'utilise obligatoirement toute la longueur de la voie d'insertion","Je cherche à atteindre une vitesse suffisante avant de m'insérer",""],
+ "sequence":[
+		{"son":"023356_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023356_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023356_BT_R",
+		"position":43658,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023356_BT_Q01","x":0,"y":0},
+			{"filename":"023356_BT_R02","x":579,"y":188},
+			{"filename":"023356_BT_R03","x":404,"y":300},
+			{"filename":"023356_BT_R04","x":734,"y":164},
+			{"filename":"023356_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8412,"effet":"C"},
+			{"image":3,"position":21726,"effet":"C"},
+			{"image":4,"position":28580,"effet":"C"},
+			{"image":5,"position":37268,"effet":"C"},
+			{"image":1,"position":42758,"effet":"C"}
+			]
+		}
+	]
+}

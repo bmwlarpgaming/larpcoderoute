@@ -1,0 +1,41 @@
+{"id":"023359",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["La somnolence peut occasionner :","- des micro sommeils de plusieurs secondes","- des écarts de trajectoire"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023359_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023359_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023359_BT_R",
+		"position":40541,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023359_BT_Q01","x":0,"y":0},
+			{"filename":"023359_BT_R02","x":0,"y":0},
+			{"filename":"023359_BT_R03","x":0,"y":0},
+			{"filename":"023359_BT_R04","x":0,"y":0},
+			{"filename":"023359_BT_R05","x":0,"y":0},
+			{"filename":"023359_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2496,"effet":"C"},
+			{"image":3,"position":15406,"effet":"C"},
+			{"image":4,"position":22267,"effet":"C"},
+			{"image":5,"position":37364,"effet":"C"},
+			{"image":6,"position":38408,"effet":"C"}
+			]
+		}
+	]
+}

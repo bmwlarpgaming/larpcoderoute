@@ -1,0 +1,39 @@
+{"id":"023432",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Pour dépasser ce cycliste, je dois laisser un intervalle latéral de sécurité d'au moins :","",""],
+ "proposition":["- 1 m","- 1,50 m","",""],
+ "sequence":[
+		{"son":"023432_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023432_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023432_BT_R",
+		"position":28585,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023432_BT_Q01","x":0,"y":0},
+			{"filename":"023432_BT_R02","x":820,"y":212},
+			{"filename":"023432_BT_R03","x":704,"y":139},
+			{"filename":"023432_BT_R04","x":544,"y":355},
+			{"filename":"023432_BT_R05","x":507,"y":355}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1974,"effet":"C"},
+			{"image":3,"position":14422,"effet":"C"},
+			{"image":4,"position":20942,"effet":"C"},
+			{"image":5,"position":23475,"effet":"C"}
+			]
+		}
+	]
+}

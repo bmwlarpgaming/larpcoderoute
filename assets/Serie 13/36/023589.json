@@ -1,0 +1,41 @@
+{"id":"023589",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["J'utilise cette commande :","- lorsqu'il pleut","- en cas de bouchon dans un tunnel"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023589_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023589_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023589_BT_R",
+		"position":29434,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023589_BT_Q01","x":0,"y":0},
+			{"filename":"023589_BT_R02","x":92,"y":286},
+			{"filename":"023589_BT_R03","x":92,"y":286},
+			{"filename":"023589_BT_R04","x":0,"y":0},
+			{"filename":"023589_BT_R05","x":0,"y":0},
+			{"filename":"023589_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":869,"effet":"C"},
+			{"image":3,"position":7320,"effet":"C"},
+			{"image":4,"position":15113,"effet":"C"},
+			{"image":5,"position":19235,"effet":"C"},
+			{"image":6,"position":24250,"effet":"C"}
+			]
+		}
+	]
+}

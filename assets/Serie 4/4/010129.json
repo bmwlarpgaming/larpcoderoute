@@ -1,0 +1,39 @@
+{"id":"010129",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Dans les stations, les pistolets de distribution de carburant sont identifiables par un code couleur :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010129_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010129_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010129_BT_R",
+		"position":37732,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010129_BT_Q01","x":0,"y":0},
+			{"filename":"010129_BT_R02","x":0,"y":0},
+			{"filename":"010129_BT_R03","x":0,"y":0},
+			{"filename":"010129_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9385,"effet":"C"},
+			{"image":3,"position":16269,"effet":"C"},
+			{"image":1,"position":20826,"effet":"C"},
+			{"image":4,"position":33581,"effet":"C"},
+			{"image":1,"position":37420,"effet":"C"}
+			]
+		}
+	]
+}

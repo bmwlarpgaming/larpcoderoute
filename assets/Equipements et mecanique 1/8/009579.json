@@ -1,0 +1,43 @@
+{"id":"009579",
+ "reponse":"ABC",
+ "sexe":"H",
+ "enonce":["Des pneus sous-gonflés augmentent :","",""],
+ "proposition":["- le risque d'aquaplanage","- le risque d'éclatement","- la consommation","- la tenue de route"],
+ "sequence":[
+		{"son":"009579_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009579_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009579_BT_R",
+		"position":51179,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"009579_BT_Q01","x":0,"y":0},
+			{"filename":"009579_BT_R02","x":0,"y":0},
+			{"filename":"009579_BT_R03","x":0,"y":0},
+			{"filename":"009579_BT_R04","x":0,"y":0},
+			{"filename":"009579_BT_R05","x":0,"y":0},
+			{"filename":"009579_BT_R06","x":0,"y":0},
+			{"filename":"009579_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4322,"effet":"C"},
+			{"image":3,"position":6681,"effet":"C"},
+			{"image":4,"position":14674,"effet":"C"},
+			{"image":5,"position":18260,"effet":"C"},
+			{"image":6,"position":27266,"effet":"C"},
+			{"image":7,"position":39991,"effet":"C"}
+			]
+		}
+	]
+}

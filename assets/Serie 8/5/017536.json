@@ -1,0 +1,42 @@
+{"id":"017536",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Je vais pouvoir rencontrer :","- des piquets mobiles servant à alterner la circulation","- des feux temporaires"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017536_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017536_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017536_BT_R",
+		"position":33891,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017536_BT_Q01","x":0,"y":0},
+			{"filename":"017536_BT_R02","x":0,"y":0},
+			{"filename":"017536_BT_R03","x":0,"y":0},
+			{"filename":"017536_BT_R04","x":0,"y":0},
+			{"filename":"017536_BT_R05","x":0,"y":0},
+			{"filename":"017536_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5011,"effet":"C"},
+			{"image":3,"position":9031,"effet":"C"},
+			{"image":4,"position":16034,"effet":"C"},
+			{"image":5,"position":21677,"effet":"C"},
+			{"image":6,"position":21931,"effet":"B"},
+			{"image":1,"position":33281,"effet":"C"}
+			]
+		}
+	]
+}

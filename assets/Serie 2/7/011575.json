@@ -1,0 +1,36 @@
+{"id":"011575",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["La meilleure solution est de :","",""],
+ "proposition":["- faire un appel lumineux","- maintenir l'allure","- ralentir",""],
+ "sequence":[
+		{"son":"011575_BT_Q",
+		"video":"011575",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011575_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011575_BT_R",
+		"video":"011575",
+		"position":23892,
+		"temps":0,
+		"nbimages":2,
+		"image":[
+			{"filename":"011575_BT_Q02","x":0,"y":0},
+			{"filename":"011575_BT_R03","x":491,"y":43}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5170,"effet":"C"},
+			{"image":1,"position":23413,"effet":"C"}
+			]
+		}
+	]
+}

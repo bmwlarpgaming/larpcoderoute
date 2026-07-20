@@ -1,0 +1,46 @@
+{"id":"002905",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["L’intervalle de sécurité :","- peut être signalé par des lumières bleues","- évite la propagation d’un incendie"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002905_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002905_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002905_BT_R",
+		"position":43094,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"002905_BT_Q01","x":0,"y":0},
+			{"filename":"002905_BT_R02","x":0,"y":0},
+			{"filename":"002905_BT_R03","x":0,"y":0},
+			{"filename":"002905_BT_R04","x":0,"y":0},
+			{"filename":"002905_BT_R05","x":0,"y":0},
+			{"filename":"002905_BT_R06","x":0,"y":0},
+			{"filename":"002905_BT_R07","x":0,"y":0},
+			{"filename":"002905_BT_R08","x":0,"y":0}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1959,"effet":"C"},
+			{"image":3,"position":4014,"effet":"C"},
+			{"image":4,"position":5974,"effet":"C"},
+			{"image":5,"position":32958,"effet":"C"},
+			{"image":6,"position":34894,"effet":"C"},
+			{"image":7,"position":36874,"effet":"C"},
+			{"image":8,"position":38778,"effet":"C"},
+			{"image":1,"position":41894,"effet":"C"}
+			]
+		}
+	]
+}

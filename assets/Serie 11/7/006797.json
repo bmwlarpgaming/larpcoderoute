@@ -1,0 +1,43 @@
+{"id":"006797",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je m'arrête immédiatement à droite :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"006797_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"006797_BT_Q01","x":0,"y":0},
+			{"filename":"006797_BT_Q02","x":535,"y":26}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":512,"effet":"B"}
+			]
+		},
+		{"son":"006797_BT_R",
+		"position":18460,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"006797_BT_Q01","x":0,"y":0},
+			{"filename":"006797_BT_R02","x":535,"y":26},
+			{"filename":"006797_BT_R03","x":513,"y":0},
+			{"filename":"006797_BT_R04","x":513,"y":0},
+			{"filename":"006797_BT_R05","x":503,"y":200},
+			{"filename":"006797_BT_R06","x":503,"y":26}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":756,"effet":"B"},
+			{"image":3,"position":4032,"effet":"C"},
+			{"image":4,"position":4564,"effet":"B"},
+			{"image":5,"position":7948,"effet":"C"},
+			{"image":6,"position":8572,"effet":"B"}
+			]
+		}
+	]
+}

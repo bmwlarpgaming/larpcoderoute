@@ -1,0 +1,38 @@
+{"id":"017439",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La signalisation :","",""],
+ "proposition":["- autorise tous les dépassements","- autorise le dépassement  des véhicules lents","- interdit tous les dépassements",""],
+ "sequence":[
+		{"son":"017439_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017439_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017439_BT_R",
+		"position":31237,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017439_BT_Q01","x":0,"y":0},
+			{"filename":"017439_BT_R02","x":680,"y":225},
+			{"filename":"017439_BT_R03","x":675,"y":211},
+			{"filename":"017439_BT_R04","x":268,"y":160}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5074,"effet":"C"},
+			{"image":3,"position":12163,"effet":"C"},
+			{"image":4,"position":17915,"effet":"C"},
+			{"image":1,"position":30893,"effet":"C"}
+			]
+		}
+	]
+}

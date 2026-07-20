@@ -1,0 +1,44 @@
+{"id":"002707",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Que doit faire le conducteur de la voiture rouge ?","",""],
+ "proposition":["- klaxonner","- laisser passer le cycliste","- s’avancer dans le passage",""],
+ "sequence":[
+		{"son":"002707_BT_Q",
+		"temps":15,
+		"nbimages":3,
+		"image":[
+			{"filename":"002707_BT_Q01","x":0,"y":0},
+			{"filename":"002707_BT_Q02","x":444,"y":208},
+			{"filename":"002707_BT_Q03","x":442,"y":198}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2036,"effet":"C"},
+			{"image":3,"position":4231,"effet":"C"}
+			]
+		},
+		{"son":"002707_BT_R",
+		"position":40950,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002707_BT_Q01","x":0,"y":0},
+			{"filename":"002707_BT_R02","x":444,"y":208},
+			{"filename":"002707_BT_R03","x":442,"y":198},
+			{"filename":"002707_BT_R04","x":442,"y":119},
+			{"filename":"002707_BT_R05","x":442,"y":198}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1102,"effet":"C"},
+			{"image":3,"position":3012,"effet":"C"},
+			{"image":4,"position":6396,"effet":"C"},
+			{"image":5,"position":20910,"effet":"C"},
+			{"image":3,"position":26264,"effet":"C"}
+			]
+		}
+	]
+}

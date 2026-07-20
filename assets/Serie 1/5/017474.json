@@ -1,0 +1,34 @@
+{"id":"017474",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Dans les tunnels, les diodes bleues permettent :","",""],
+ "proposition":["- de localiser les niches de sécurité","- d'estimer les distances de sécurité","- d'éclairer la chaussée",""],
+ "sequence":[
+		{"son":"017474_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017474_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017474_BT_R",
+		"position":30532,
+		"temps":0,
+		"nbimages":2,
+		"image":[
+			{"filename":"017474_BT_Q01","x":0,"y":0},
+			{"filename":"017474_BT_R02","x":473,"y":284}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":23676,"effet":"C"},
+			{"image":1,"position":29990,"effet":"C"}
+			]
+		}
+	]
+}

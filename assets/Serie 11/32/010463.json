@@ -1,0 +1,40 @@
+{"id":"010463",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Un conducteur novice est en infraction dès que le taux d'alcool dans le sang atteint :","",""],
+ "proposition":["- 0,10 g/l","- 0,20 g/l","- 0,30 g/l","- 0,40 g/l"],
+ "sequence":[
+		{"son":"010463_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010463_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010463_BT_R",
+		"position":34155,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010463_BT_Q01","x":0,"y":0},
+			{"filename":"010463_BT_R02","x":151,"y":395},
+			{"filename":"010463_BT_R03","x":151,"y":59},
+			{"filename":"010463_BT_R04","x":151,"y":59},
+			{"filename":"010463_BT_R05","x":151,"y":395}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2067,"effet":"C"},
+			{"image":3,"position":13021,"effet":"C"},
+			{"image":4,"position":18301,"effet":"C"},
+			{"image":5,"position":23003,"effet":"C"},
+			{"image":1,"position":28114,"effet":"C"}
+			]
+		}
+	]
+}

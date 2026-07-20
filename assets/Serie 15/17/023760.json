@@ -1,0 +1,44 @@
+{"id":"023760",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Si je manipule le GPS en conduisant :","- je risque de dévier de ma trajectoire","- j'augmente mon temps de réaction"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023760_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023760_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023760_BT_R",
+		"position":52263,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023760_BT_Q01","x":0,"y":0},
+			{"filename":"023760_BT_R02","x":136,"y":235},
+			{"filename":"023760_BT_R03","x":773,"y":11},
+			{"filename":"023760_BT_R04","x":136,"y":177},
+			{"filename":"023760_BT_R05","x":136,"y":0},
+			{"filename":"023760_BT_R06","x":0,"y":0},
+			{"filename":"023760_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1300,"effet":"C"},
+			{"image":3,"position":5832,"effet":"C"},
+			{"image":4,"position":13143,"effet":"C"},
+			{"image":5,"position":21799,"effet":"C"},
+			{"image":6,"position":30180,"effet":"C"},
+			{"image":7,"position":40756,"effet":"C"},
+			{"image":1,"position":46064,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"003090",
+ "reponse":"ABD",
+ "sexe":"F",
+ "enonce":["Je tiens compte du panneau :","","Le danger est plus fréquent :"],
+ "proposition":["- le jour","- la nuit","- le jour","- la nuit"],
+ "sequence":[
+		{"son":"003090_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003090_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003090_BT_R",
+		"position":36771,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"003090_BT_Q01","x":0,"y":0},
+			{"filename":"003090_BT_R02","x":158,"y":239},
+			{"filename":"003090_BT_R03","x":136,"y":232},
+			{"filename":"003090_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3963,"effet":"C"},
+			{"image":3,"position":14890,"effet":"C"},
+			{"image":4,"position":24226,"effet":"C"},
+			{"image":1,"position":32823,"effet":"C"}
+			]
+		}
+	]
+}

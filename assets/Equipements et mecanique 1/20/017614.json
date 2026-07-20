@@ -1,0 +1,40 @@
+{"id":"017614",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Sur ce véhicule, la marche arrière correspond à la position :","",""],
+ "proposition":["- P","- R","- N","- D"],
+ "sequence":[
+		{"son":"017614_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017614_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017614_BT_R",
+		"position":41948,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017614_BT_Q01","x":0,"y":0},
+			{"filename":"017614_BT_R02","x":459,"y":276},
+			{"filename":"017614_BT_R03","x":507,"y":345},
+			{"filename":"017614_BT_R04","x":533,"y":380},
+			{"filename":"017614_BT_R05","x":560,"y":415}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":18651,"effet":"C"},
+			{"image":3,"position":22564,"effet":"C"},
+			{"image":4,"position":27037,"effet":"C"},
+			{"image":5,"position":30780,"effet":"C"},
+			{"image":1,"position":36676,"effet":"C"}
+			]
+		}
+	]
+}

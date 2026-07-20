@@ -1,0 +1,35 @@
+{"id":"017692",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Pour m'engager en face, je prends la voie :","",""],
+ "proposition":["- n° 1","- n° 2","",""],
+ "sequence":[
+		{"son":"017692_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017692_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017692_BT_R",
+		"position":19215,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017692_BT_Q01","x":0,"y":0},
+			{"filename":"017692_BT_R02","x":907,"y":99},
+			{"filename":"017692_BT_R03","x":708,"y":212}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3160,"effet":"C"},
+			{"image":3,"position":11790,"effet":"C"}
+			]
+		}
+	]
+}

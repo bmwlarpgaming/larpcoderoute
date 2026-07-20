@@ -1,0 +1,43 @@
+{"id":"010595",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["J'augmente la distance de sécurité :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010595_BT_Q",
+		"video":"010595",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010595_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010595_BT_R",
+		"video":"010595",
+		"position":54189,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"010595_BT_Q02","x":0,"y":0},
+			{"filename":"010595_BT_R03","x":0,"y":0},
+			{"filename":"010595_BT_R04","x":0,"y":0},
+			{"filename":"010595_BT_R05","x":0,"y":0},
+			{"filename":"010595_BT_R06","x":0,"y":0},
+			{"filename":"010595_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9935,"effet":"C"},
+			{"image":3,"position":25467,"effet":"C"},
+			{"image":4,"position":29660,"effet":"C"},
+			{"image":5,"position":42923,"effet":"C"},
+			{"image":6,"position":50211,"effet":"C"}
+			]
+		}
+	]
+}

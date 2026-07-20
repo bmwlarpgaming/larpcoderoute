@@ -1,0 +1,42 @@
+{"id":"011076",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Cet environnement favorise :","- la baisse de la vigilance","- la prise de vitesse"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"011076_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011076_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011076_BT_R",
+		"position":47974,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"011076_BT_Q01","x":0,"y":0},
+			{"filename":"011076_BT_R02","x":4,"y":71},
+			{"filename":"011076_BT_R03","x":0,"y":0},
+			{"filename":"011076_BT_R04","x":0,"y":0},
+			{"filename":"011076_BT_R05","x":4,"y":71},
+			{"filename":"011076_BT_R06","x":267,"y":163}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5550,"effet":"C"},
+			{"image":3,"position":11916,"effet":"C"},
+			{"image":4,"position":22929,"effet":"C"},
+			{"image":5,"position":28261,"effet":"C"},
+			{"image":6,"position":36315,"effet":"C"},
+			{"image":1,"position":47117,"effet":"C"}
+			]
+		}
+	]
+}

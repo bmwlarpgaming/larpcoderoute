@@ -1,0 +1,40 @@
+{"id":"017432",
+ "reponse":"AB",
+ "sexe":"H",
+ "enonce":["Ce panneau :","",""],
+ "proposition":["- prend effet immédiatement","- concerne uniquement le côté droit de la chaussée","- concerne les deux côtés de la chaussée",""],
+ "sequence":[
+		{"son":"017432_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017432_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017432_BT_R",
+		"position":23982,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017432_BT_Q01","x":0,"y":0},
+			{"filename":"017432_BT_R02","x":985,"y":19},
+			{"filename":"017432_BT_R03","x":497,"y":19},
+			{"filename":"017432_BT_R04","x":497,"y":19},
+			{"filename":"017432_BT_R05","x":497,"y":19}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2815,"effet":"C"},
+			{"image":3,"position":14133,"effet":"C"},
+			{"image":4,"position":18757,"effet":"C"},
+			{"image":5,"position":20941,"effet":"C"},
+			{"image":1,"position":23669,"effet":"C"}
+			]
+		}
+	]
+}

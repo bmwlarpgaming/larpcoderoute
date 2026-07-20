@@ -1,0 +1,42 @@
+{"id":"017429",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La signalisation annonce une succession de virages dont le premier sera environ à :","",""],
+ "proposition":["- 50 mètres","- 150 mètres","- 1500 mètres",""],
+ "sequence":[
+		{"son":"017429_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017429_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017429_BT_R",
+		"position":46012,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017429_BT_Q01","x":0,"y":0},
+			{"filename":"017429_BT_R02","x":795,"y":31},
+			{"filename":"017429_BT_R03","x":587,"y":35},
+			{"filename":"017429_BT_R04","x":587,"y":35},
+			{"filename":"017429_BT_R05","x":427,"y":139},
+			{"filename":"017429_BT_R06","x":427,"y":139}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7018,"effet":"C"},
+			{"image":3,"position":9074,"effet":"C"},
+			{"image":4,"position":11978,"effet":"C"},
+			{"image":5,"position":25988,"effet":"C"},
+			{"image":6,"position":29596,"effet":"C"},
+			{"image":1,"position":37229,"effet":"C"}
+			]
+		}
+	]
+}

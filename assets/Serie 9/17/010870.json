@@ -1,0 +1,38 @@
+{"id":"010870",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Par temps de forte pluie, il est déconseillé d'utiliser :","",""],
+ "proposition":["- le limiteur de vitesse","- le régulateur de vitesse","- le système de désembuage",""],
+ "sequence":[
+		{"son":"010870_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010870_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010870_BT_R",
+		"position":30175,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010870_BT_Q01","x":0,"y":0},
+			{"filename":"010870_BT_R02","x":0,"y":0},
+			{"filename":"010870_BT_R03","x":0,"y":0},
+			{"filename":"010870_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6071,"effet":"C"},
+			{"image":3,"position":13511,"effet":"C"},
+			{"image":4,"position":21455,"effet":"C"},
+			{"image":1,"position":29463,"effet":"C"}
+			]
+		}
+	]
+}

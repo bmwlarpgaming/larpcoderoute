@@ -1,0 +1,40 @@
+{"id":"009049",
+ "reponse":"ABC",
+ "sexe":"F",
+ "enonce":["Cet automobiliste aurait dû :","",""],
+ "proposition":["- vérifier les rétroviseurs","- vérifier l'angle mort","- renoncer à changer de voie","- klaxonner"],
+ "sequence":[
+		{"son":"009049_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009049_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009049_BT_R",
+		"position":42303,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009049_BT_Q01","x":0,"y":0},
+			{"filename":"009049_BT_R02","x":0,"y":0},
+			{"filename":"009049_BT_R03","x":0,"y":0},
+			{"filename":"009049_BT_R04","x":0,"y":0},
+			{"filename":"009049_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":999,"effet":"C"},
+			{"image":3,"position":12625,"effet":"C"},
+			{"image":1,"position":18187,"effet":"C"},
+			{"image":4,"position":28118,"effet":"C"},
+			{"image":5,"position":33382,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{"id":"009580",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Rouler avec des pneus en bon état et correctement gonflés, diminue :","",""],
+ "proposition":["- le risque d'éclatement","- la consommation","- le risque de perte d'adhérence",""],
+ "sequence":[
+		{"son":"009580_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009580_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009580_BT_R",
+		"position":50062,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"009580_BT_Q01","x":0,"y":0},
+			{"filename":"009580_BT_R02","x":115,"y":93},
+			{"filename":"009580_BT_R03","x":115,"y":93}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":16726,"effet":"C"},
+			{"image":3,"position":41870,"effet":"C"},
+			{"image":1,"position":49518,"effet":"C"}
+			]
+		}
+	]
+}

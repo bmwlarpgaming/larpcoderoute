@@ -1,0 +1,45 @@
+{"id":"024518",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Ce panneau annonce un créneau de dépassement :","","Sans autre signalisation, la vitesse maximale autorisée y sera de :"],
+ "proposition":["- à 300 m","- sur 300 m","- 80 km/h","- 90 km/h"],
+ "sequence":[
+		{"son":"024518_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"024518_BT_Q01","x":0,"y":0},
+			{"filename":"024518_BT_Q02","x":868,"y":67}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1048,"effet":"C"},
+			{"image":1,"position":22013,"effet":"C"}
+			]
+		},
+		{"son":"024518_BT_R",
+		"position":47261,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"024518_BT_Q01","x":0,"y":0},
+			{"filename":"024518_BT_R02","x":611,"y":19},
+			{"filename":"024518_BT_R03","x":251,"y":19},
+			{"filename":"024518_BT_R04","x":630,"y":237},
+			{"filename":"024518_BT_R05","x":630,"y":237},
+			{"filename":"024518_BT_R06","x":35,"y":3}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":951,"effet":"C"},
+			{"image":3,"position":3581,"effet":"C"},
+			{"image":4,"position":14873,"effet":"C"},
+			{"image":5,"position":25661,"effet":"C"},
+			{"image":6,"position":29776,"effet":"C"},
+			{"image":1,"position":45880,"effet":"C"}
+			]
+		}
+	]
+}

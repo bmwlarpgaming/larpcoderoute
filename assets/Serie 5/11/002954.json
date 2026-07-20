@@ -1,0 +1,38 @@
+{"id":"002954",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["La consommation de carburant dépend :","- du chargement","- de la pression des pneus"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002954_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002954_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002954_BT_R",
+		"position":26806,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002954_BT_Q01","x":0,"y":0},
+			{"filename":"002954_BT_R02","x":43,"y":308},
+			{"filename":"002954_BT_R03","x":0,"y":0},
+			{"filename":"002954_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6840,"effet":"C"},
+			{"image":3,"position":13092,"effet":"C"},
+			{"image":4,"position":20304,"effet":"C"},
+			{"image":1,"position":26590,"effet":"C"}
+			]
+		}
+	]
+}

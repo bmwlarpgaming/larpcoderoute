@@ -1,0 +1,38 @@
+{"id":"012786",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["A l’approche de cette intersection, si je mets le pied face au frein, je réduis :","- le temps de réaction","- la distance d'arrêt"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"012786_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012786_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012786_BT_R",
+		"position":34807,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"012786_BT_Q01","x":0,"y":0},
+			{"filename":"012786_BT_R02","x":715,"y":0},
+			{"filename":"012786_BT_R03","x":0,"y":0},
+			{"filename":"012786_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4835,"effet":"C"},
+			{"image":3,"position":18563,"effet":"C"},
+			{"image":4,"position":26922,"effet":"C"},
+			{"image":1,"position":34443,"effet":"C"}
+			]
+		}
+	]
+}

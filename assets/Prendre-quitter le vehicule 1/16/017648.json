@@ -1,0 +1,40 @@
+{"id":"017648",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["L'appuie-tête est bien réglé si le haut de mon crâne est au niveau du haut de l'appuie-tête :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017648_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017648_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017648_BT_R",
+		"position":26502,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017648_BT_Q01","x":0,"y":0},
+			{"filename":"017648_BT_R02","x":0,"y":0},
+			{"filename":"017648_BT_R03","x":0,"y":0},
+			{"filename":"017648_BT_R04","x":0,"y":0},
+			{"filename":"017648_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2556,"effet":"C"},
+			{"image":3,"position":8955,"effet":"C"},
+			{"image":4,"position":16287,"effet":"C"},
+			{"image":5,"position":22305,"effet":"C"},
+			{"image":1,"position":25917,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{"id":"007842",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Je dois m'arrêter si je vais :","- à droite","- à gauche"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"007842_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"007842_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"007842_BT_R",
+		"position":25189,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"007842_BT_Q01","x":0,"y":0},
+			{"filename":"007842_BT_R02","x":931,"y":183},
+			{"filename":"007842_BT_R03","x":331,"y":238}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11141,"effet":"C"},
+			{"image":1,"position":17485,"effet":"C"},
+			{"image":3,"position":19901,"effet":"C"},
+			{"image":1,"position":24237,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"025391",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Afin de limiter la consommation en carburant, il est préférable de passer les vitesses :","",""],
+ "proposition":["- le plus tôt possible","- le plus tard possible","",""],
+ "sequence":[
+		{"son":"025391_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025391_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025391_BT_R",
+		"position":31565,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025391_BT_Q01","x":0,"y":0},
+			{"filename":"025391_BT_R02","x":747,"y":99},
+			{"filename":"025391_BT_R03","x":747,"y":99},
+			{"filename":"025391_BT_R04","x":747,"y":99},
+			{"filename":"025391_BT_R05","x":747,"y":99}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7362,"effet":"C"},
+			{"image":3,"position":15442,"effet":"C"},
+			{"image":4,"position":19366,"effet":"C"},
+			{"image":5,"position":27500,"effet":"C"},
+			{"image":1,"position":30700,"effet":"C"}
+			]
+		}
+	]
+}

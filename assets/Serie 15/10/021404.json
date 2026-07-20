@@ -1,0 +1,47 @@
+{"id":"021404",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je tourne dès maintenant","j'attends que la voiture blanche passe","",""],
+ "sequence":[
+		{"son":"021404_BT_Q",
+		"video":"021404",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"021404_BT_Q03","x":0,"y":0},
+			{"filename":"021404_BT_Q04","x":399,"y":0}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":594,"effet":"B"}
+			]
+		},
+		{"son":"021404_BT_R",
+		"video":"021404",
+		"position":35812,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"021404_BT_R01","x":0,"y":0},
+			{"filename":"021404_BT_R02","x":704,"y":259},
+			{"filename":"021404_BT_R05","x":0,"y":0},
+			{"filename":"021404_BT_R03","x":0,"y":0},
+			{"filename":"021404_BT_R04","x":0,"y":0},
+			{"filename":"021404_BT_R08","x":0,"y":0},
+			{"filename":"021404_BT_R09","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":870,"effet":"C"},
+			{"image":3,"position":11582,"effet":"C"},
+			{"image":4,"position":17135,"effet":"C"},
+			{"image":5,"position":21712,"effet":"C"},
+			{"image":6,"position":26312,"effet":"C"},
+			{"image":7,"position":28082,"effet":"C"}
+			]
+		}
+	]
+}

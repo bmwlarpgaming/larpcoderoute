@@ -1,0 +1,42 @@
+{"id":"017528",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["Je peux m'arrêter le long du trottoir pour déposer un passager :","- à droite","- à gauche"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017528_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017528_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017528_BT_R",
+		"position":22957,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017528_BT_Q01","x":0,"y":0},
+			{"filename":"017528_BT_R02","x":598,"y":243},
+			{"filename":"017528_BT_R03","x":571,"y":107},
+			{"filename":"017528_BT_R04","x":571,"y":107},
+			{"filename":"017528_BT_R05","x":571,"y":107},
+			{"filename":"017528_BT_R06","x":571,"y":107}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5245,"effet":"C"},
+			{"image":3,"position":10141,"effet":"C"},
+			{"image":4,"position":12485,"effet":"C"},
+			{"image":5,"position":18061,"effet":"C"},
+			{"image":6,"position":20221,"effet":"C"},
+			{"image":1,"position":22557,"effet":"C"}
+			]
+		}
+	]
+}

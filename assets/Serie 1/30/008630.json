@@ -1,0 +1,35 @@
+{"id":"008630",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Dans cette rue, je stationne tous feux éteints :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008630_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008630_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008630_BT_R",
+		"position":28338,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"008630_BT_Q01","x":0,"y":0},
+			{"filename":"008630_BT_R02","x":661,"y":297},
+			{"filename":"008630_BT_R03","x":661,"y":297}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":16071,"effet":"C"},
+			{"image":3,"position":26028,"effet":"C"}
+			]
+		}
+	]
+}

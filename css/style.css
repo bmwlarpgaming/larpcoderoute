@@ -1,0 +1,761 @@
+/* ============================================================
+   Code de la Route — Shared design system and main styles
+   Dark theme
+   ============================================================ */
+
+/* ----------------------------------------------------------
+   1. DESIGN TOKENS
+   ---------------------------------------------------------- */
+:root {
+  --bg-primary: #121214;
+  --bg-card: #1E1E24;
+  --bg-header: #1A1A1E;
+  --bg-hover: #2D2D38;
+
+  --accent: #E52D27;
+  --accent-hover: #FF3E30;
+  --accent-gradient: linear-gradient(135deg, #E52D27 0%, #B31217 100%);
+  --accent-gradient-hover: linear-gradient(135deg, #FF3E30 0%, #D32F2F 100%);
+
+  --success: #2ECC71;
+  --success-hover: #27AE60;
+  --danger: #E74C3C;
+  --danger-hover: #C0392B;
+  --warning: #F1C40F;
+
+  --text-primary: #FFFFFF;
+  --text-secondary: #D0D0D5;
+  --text-muted: #9E9E9E;
+  --text-dim: #6E6E7A;
+
+  --border: #2D2D35;
+  --border-hover: #4E4E5A;
+
+  --disabled-bg: #26262B;
+  --disabled-text: #565660;
+
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.35);
+  --shadow-glow-accent: 0 0 20px rgba(229, 45, 39, 0.4);
+  --shadow-glow-success: 0 0 16px rgba(46, 204, 113, 0.25);
+  --shadow-glow-danger: 0 0 16px rgba(231, 76, 60, 0.25);
+
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.2s ease;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-pill: 999px;
+}
+
+/* ----------------------------------------------------------
+   2. RESET & BASE STYLES
+   ---------------------------------------------------------- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0; padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-family);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+  min-height: 100dvh;
+  overflow-x: hidden;
+}
+
+::selection {
+  background-color: var(--accent);
+  color: var(--text-primary);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px; height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: var(--radius-pill);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+a:hover {
+  color: var(--accent-hover);
+}
+
+/* ----------------------------------------------------------
+   3. APP LAYOUT & SCROLLABLE
+   ---------------------------------------------------------- */
+#app {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.screen {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.scrollable {
+  overflow-y: auto;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  flex: 1;
+}
+
+/* ----------------------------------------------------------
+   4. HEADER BAR
+   ---------------------------------------------------------- */
+.header-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  height: 68px;
+  min-height: 68px;
+  padding: 0 24px;
+  background-color: var(--bg-header);
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(to right, transparent 0%, var(--accent) 50%, transparent 100%) 1;
+  position: relative;
+  z-index: 100;
+  flex-shrink: 0;
+}
+
+.header-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+}
+
+.header-title {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  white-space: nowrap;
+}
+
+.header-tagline {
+  color: var(--accent);
+  font-style: italic;
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+.header-spacer {
+  flex: 1;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  color: var(--text-secondary);
+  font-size: 12px;
+  font-weight: 700;
+  transition: color var(--transition-fast),
+              background-color var(--transition-fast),
+              border-color var(--transition-fast);
+}
+
+.header-link:hover {
+  color: var(--text-primary);
+  background-color: var(--bg-hover);
+  border-color: var(--border-hover);
+}
+
+/* ----------------------------------------------------------
+   5. STATS DASHBOARD
+   ---------------------------------------------------------- */
+.stats-dashboard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  padding: 16px 24px;
+  background-color: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  position: relative;
+  flex-shrink: 0;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 12px 8px;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.015);
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.stat-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+}
+
+.stat-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.stat-value--accent { color: var(--accent); }
+.stat-value--success { color: var(--success); }
+
+/* ----------------------------------------------------------
+   6. SERIES LIST & SERIES CARD
+   ---------------------------------------------------------- */
+.series-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 24px 24px;
+}
+
+.series-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  transition: border-color var(--transition-base), transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.series-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.series-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.series-name {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.series-meta {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.series-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 0 20px;
+  min-width: 80px;
+}
+
+.series-score-label {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.series-score-value {
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+/* Score colors */
+.score-excellent { color: var(--success); }
+.score-good { color: #A8E6CF; }
+.score-average { color: var(--warning); }
+.score-poor { color: var(--danger); }
+.score-none { color: var(--text-dim); }
+
+.series-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.series-actions .pill-btn {
+  width: 136px;
+}
+
+.series-card-error {
+  min-height: 0;
+  margin-top: 4px;
+  color: var(--danger);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.series-card-error:empty {
+  display: none;
+}
+
+/* ----------------------------------------------------------
+   7. PILL BUTTON
+   ---------------------------------------------------------- */
+.pill-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 40px;
+  padding: 0 24px;
+  border: none;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-family);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+  transition: background-color var(--transition-fast),
+              border-color var(--transition-fast),
+              transform var(--transition-fast),
+              box-shadow var(--transition-fast);
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.pill-btn::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(120deg, transparent 30%, rgba(255, 255, 255, 0.06) 50%, transparent 70%);
+  opacity: 0;
+  transition: opacity var(--transition-fast);
+}
+
+.pill-btn:hover::after { opacity: 1; }
+.pill-btn:active { transform: scale(0.97); }
+
+.pill-btn:disabled {
+  background-color: var(--disabled-bg) !important;
+  color: var(--disabled-text) !important;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.pill-btn--accent { background: var(--accent-gradient); }
+.pill-btn--accent:hover {
+  background: var(--accent-gradient-hover);
+  transform: scale(1.03);
+  box-shadow: var(--shadow-glow-accent);
+}
+
+.pill-btn--dark {
+  background-color: var(--bg-primary);
+  border: 1px solid var(--border);
+}
+.pill-btn--dark:hover {
+  background-color: var(--bg-hover);
+  border-color: var(--border-hover);
+  transform: scale(1.03);
+}
+
+.pill-btn--ghost {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+}
+.pill-btn--ghost:hover {
+  background-color: var(--bg-hover);
+  border-color: var(--border-hover);
+  transform: scale(1.03);
+}
+
+.pill-btn--lg {
+  height: 46px; padding: 0 32px; font-size: 14px;
+}
+
+/* ----------------------------------------------------------
+   8. REVIEW SCREEN
+   ---------------------------------------------------------- */
+.review-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 24px;
+  gap: 24px;
+  overflow-y: auto;
+  flex: 1;
+  width: 100%;
+}
+
+.review-container > * {
+  flex-shrink: 0;
+}
+
+.review-title {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.score-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 30px 40px;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xl);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.score-badge::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; height: 3px;
+  background: linear-gradient(to right, var(--accent), var(--success));
+  opacity: 0.6;
+}
+
+.score-badge-value {
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.score-badge-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.score-badge-status {
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 4px;
+}
+.score-badge-status--pass { color: var(--success); }
+.score-badge-status--fail { color: var(--danger); }
+
+.review-instruction {
+  font-size: 12px;
+  font-style: italic;
+  color: var(--text-muted);
+  text-align: center;
+  max-width: 400px;
+}
+
+.review-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 12px;
+  width: 100%;
+  max-width: 560px;
+}
+
+.review-grid-wrapper {
+  width: 100%;
+  max-width: 560px;
+}
+
+.review-grid-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 44px;
+  height: 40px;
+  border: none;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-family);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+  cursor: pointer;
+  user-select: none;
+  transition: background-color var(--transition-fast), transform var(--transition-fast);
+}
+
+.review-grid-btn--correct { background-color: var(--success); }
+.review-grid-btn--correct:hover {
+  background-color: var(--success-hover);
+  transform: scale(1.05);
+}
+
+.review-grid-btn--incorrect { background-color: var(--danger); }
+.review-grid-btn--incorrect:hover {
+  background-color: var(--danger-hover);
+  transform: scale(1.05);
+}
+
+.review-grid-btn--unanswered {
+  background-color: var(--bg-hover);
+  color: var(--text-muted);
+}
+.review-grid-btn--unanswered:hover {
+  background-color: var(--border-hover);
+  transform: scale(1.05);
+}
+
+.review-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 24px;
+  width: 100%;
+  max-width: 560px;
+}
+
+/* ----------------------------------------------------------
+   9. UTILITIES & LOADING
+   ---------------------------------------------------------- */
+.text-danger  { color: var(--danger) !important; }
+.text-muted   { color: var(--text-muted) !important; }
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding: 40px;
+  text-align: center;
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid rgba(255, 255, 255, 0.08);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+.loading-label {
+  margin-top: 16px;
+}
+
+.empty-message {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 40px;
+  font-size: 15px;
+}
+
+/* ----------------------------------------------------------
+   10. KEYFRAMES & ANIMATIONS
+   ---------------------------------------------------------- */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+:where(a, button):focus-visible {
+  outline: 3px solid var(--accent-hover);
+  outline-offset: 3px;
+}
+
+/* ----------------------------------------------------------
+   11. RESPONSIVE MEDIA QUERIES
+   ---------------------------------------------------------- */
+@media (max-width: 900px) {
+  .stats-dashboard {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 14px 20px;
+    gap: 10px;
+  }
+
+  .series-card {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    padding: 14px 16px;
+  }
+
+  .series-score {
+    flex-direction: row;
+    gap: 8px;
+    padding: 8px 0;
+    min-width: unset;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    justify-content: center;
+  }
+
+  .series-actions {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .series-actions .pill-btn {
+    width: min(136px, calc((100% - 8px) / 2));
+  }
+
+  .review-grid {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-bar {
+    height: 56px;
+    min-height: 56px;
+    padding: 0 16px;
+    gap: 10px;
+  }
+
+  .header-title { font-size: 18px; }
+  .header-tagline { display: none; }
+
+  .stats-dashboard {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 12px 16px;
+    gap: 8px;
+  }
+
+  .stat-value { font-size: 17px; }
+  .stat-label { font-size: 10px; }
+
+  .series-list {
+    padding: 12px 16px 20px;
+    gap: 8px;
+  }
+
+  .series-name { text-align: center; }
+  .series-meta { justify-content: center; }
+  .series-actions { justify-content: center; }
+
+  .review-container {
+    padding: 24px 16px;
+    gap: 20px;
+  }
+
+  .review-title { font-size: 18px; }
+  .review-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+
+  .review-footer {
+    flex-direction: column;
+    gap: 10px;
+    padding: 12px 16px;
+  }
+
+  .review-footer .pill-btn { width: 100%; }
+
+  .pill-btn { min-height: 44px; }
+  .review-grid-btn { min-height: 44px; }
+}
+
+@media (max-width: 480px) {
+  .header-bar {
+    height: 50px; min-height: 50px; padding: 0 12px;
+  }
+  .header-title { font-size: 16px; }
+
+  .stats-dashboard {
+    padding: 10px 12px; gap: 6px;
+  }
+  .stat-item { padding: 8px 4px; }
+  .stat-value { font-size: 15px; }
+  .stat-label { font-size: 9px; }
+
+  .series-list { padding: 10px 12px 16px; }
+  .series-card { padding: 10px 12px; }
+  .series-name { font-size: 14px; }
+
+  .pill-btn {
+    height: 44px; padding: 0 18px; font-size: 12px;
+  }
+
+  .score-badge { padding: 24px 28px; }
+  .score-badge-value { font-size: 30px; }
+
+  .review-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 6px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,39 @@
+{"id":"002987",
+ "reponse":"AB",
+ "sexe":"H",
+ "enonce":["Je peux circuler :","",""],
+ "proposition":["- en feux de position seuls","- en feux de croisement","- en feux de route",""],
+ "sequence":[
+		{"son":"002987_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002987_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002987_BT_R",
+		"position":17522,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002987_BT_Q01","x":0,"y":0},
+			{"filename":"002987_BT_R02","x":251,"y":380},
+			{"filename":"002987_BT_R03","x":242,"y":380},
+			{"filename":"002987_BT_R04","x":242,"y":371},
+			{"filename":"002987_BT_R05","x":242,"y":371}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6427,"effet":"C"},
+			{"image":3,"position":7762,"effet":"C"},
+			{"image":4,"position":10642,"effet":"C"},
+			{"image":5,"position":15306,"effet":"C"}
+			]
+		}
+	]
+}

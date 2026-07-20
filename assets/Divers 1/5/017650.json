@@ -1,0 +1,40 @@
+{"id":"017650",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Transporter mon chien dans cette position est dangereux :","- pour lui","- pour moi"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017650_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017650_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017650_BT_R",
+		"position":36776,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017650_BT_Q01","x":0,"y":0},
+			{"filename":"017650_BT_R02","x":0,"y":0},
+			{"filename":"017650_BT_R03","x":0,"y":0},
+			{"filename":"017650_BT_R04","x":134,"y":171},
+			{"filename":"017650_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2408,"effet":"C"},
+			{"image":3,"position":6771,"effet":"C"},
+			{"image":4,"position":11642,"effet":"C"},
+			{"image":5,"position":17515,"effet":"C"},
+			{"image":1,"position":30072,"effet":"C"}
+			]
+		}
+	]
+}

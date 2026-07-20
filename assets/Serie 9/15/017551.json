@@ -1,0 +1,38 @@
+{"id":"017551",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["À la prochaine intersection, je devrai céder le passage :","- à droite","- à gauche"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017551_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017551_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017551_BT_R",
+		"position":19035,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017551_BT_Q01","x":0,"y":0},
+			{"filename":"017551_BT_R02","x":614,"y":68},
+			{"filename":"017551_BT_R03","x":507,"y":68},
+			{"filename":"017551_BT_R04","x":726,"y":22}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1080,"effet":"C"},
+			{"image":3,"position":5023,"effet":"C"},
+			{"image":4,"position":9736,"effet":"C"},
+			{"image":1,"position":15744,"effet":"C"}
+			]
+		}
+	]
+}

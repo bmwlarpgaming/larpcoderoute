@@ -1,0 +1,35 @@
+{"id":"024676",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["L'utilisation d'un casque audio pour écouter de la musique en conduisant est autorisée :","- si l'autoradio ne fonctionne pas","- si l'autoradio fonctionne"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"024676_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024676_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024676_BT_R",
+		"position":19834,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"024676_BT_Q01","x":0,"y":0},
+			{"filename":"024676_BT_R02","x":467,"y":275},
+			{"filename":"024676_BT_R03","x":147,"y":76}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":914,"effet":"C"},
+			{"image":3,"position":11350,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{"id":"008870",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["En plus des feux de croisement, j'allume :","- les feux de brouillard avant :","- les feux de brouillard arrière :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"008870_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008870_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008870_BT_R",
+		"position":30397,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"008870_BT_Q01","x":0,"y":0},
+			{"filename":"008870_BT_R02","x":344,"y":332},
+			{"filename":"008870_BT_R03","x":344,"y":330}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":19828,"effet":"C"},
+			{"image":3,"position":26296,"effet":"C"},
+			{"image":1,"position":29912,"effet":"C"}
+			]
+		}
+	]
+}

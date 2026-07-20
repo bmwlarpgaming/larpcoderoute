@@ -1,0 +1,38 @@
+{"id":"002916",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Suite à un incident mécanique, je circule à 40 km/h. Je peux circuler dans cette voie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"002916_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002916_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002916_BT_R",
+		"position":22016,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002916_BT_Q01","x":0,"y":0},
+			{"filename":"002916_BT_R02","x":975,"y":172},
+			{"filename":"002916_BT_R03","x":619,"y":147},
+			{"filename":"002916_BT_R04","x":480,"y":147}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5704,"effet":"B"},
+			{"image":3,"position":9191,"effet":"C"},
+			{"image":4,"position":17555,"effet":"C"},
+			{"image":1,"position":20880,"effet":"C"}
+			]
+		}
+	]
+}

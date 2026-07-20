@@ -1,0 +1,37 @@
+{"id":"023549",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Le réservoir du liquide de refroidissement est le :","","Le niveau se vérifie sur un sol :"],
+ "proposition":["A","B","- plat","- en pente"],
+ "sequence":[
+		{"son":"023549_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023549_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023549_BT_R",
+		"position":18632,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023549_BT_Q01","x":0,"y":0},
+			{"filename":"023549_BT_R02","x":67,"y":313},
+			{"filename":"023549_BT_R03","x":67,"y":107},
+			{"filename":"023549_BT_R04","x":67,"y":107}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":854,"effet":"C"},
+			{"image":3,"position":4150,"effet":"C"},
+			{"image":4,"position":9296,"effet":"C"}
+			]
+		}
+	]
+}

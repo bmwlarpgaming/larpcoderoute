@@ -1,0 +1,38 @@
+{"id":"024527",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Étant en délai probatoire, je circule à la vitesse maximale autorisée :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"024527_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024527_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024527_BT_R",
+		"position":31758,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"024527_BT_Q01","x":0,"y":0},
+			{"filename":"024527_BT_R02","x":739,"y":35},
+			{"filename":"024527_BT_R03","x":371,"y":35},
+			{"filename":"024527_BT_R04","x":371,"y":35}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1047,"effet":"C"},
+			{"image":3,"position":12782,"effet":"C"},
+			{"image":4,"position":19610,"effet":"C"},
+			{"image":1,"position":30994,"effet":"C"}
+			]
+		}
+	]
+}

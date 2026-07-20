@@ -1,0 +1,37 @@
+{"id":"007866",
+ "reponse":"BD",
+ "sexe":"F",
+ "enonce":["Je dépasse :","- par la droite","- par la gauche"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"007866_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"007866_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"007866_BT_R",
+		"position":19423,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"007866_BT_Q01","x":0,"y":0},
+			{"filename":"007866_BT_R02","x":436,"y":324},
+			{"filename":"007866_BT_R03","x":762,"y":8},
+			{"filename":"007866_BT_R04","x":310,"y":378}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9271,"effet":"C"},
+			{"image":3,"position":12655,"effet":"C"},
+			{"image":4,"position":17871,"effet":"C"}
+			]
+		}
+	]
+}

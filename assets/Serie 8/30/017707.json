@@ -1,0 +1,45 @@
+{"id":"017707",
+ "reponse":"BCD",
+ "sexe":"F",
+ "enonce":["Je circule sur une autoroute :","","À la prochaine aire de repos, je trouverai :"],
+ "proposition":["OUI","NON","- une station-service","- une cafétéria"],
+ "sequence":[
+		{"son":"017707_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017707_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017707_BT_R",
+		"position":33418,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"017707_BT_Q01","x":0,"y":0},
+			{"filename":"017707_BT_R02","x":923,"y":43},
+			{"filename":"017707_BT_R03","x":709,"y":28},
+			{"filename":"017707_BT_R04","x":555,"y":49},
+			{"filename":"017707_BT_R05","x":555,"y":49},
+			{"filename":"017707_BT_R06","x":555,"y":49},
+			{"filename":"017707_BT_R07","x":555,"y":49}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3649,"effet":"C"},
+			{"image":3,"position":6784,"effet":"C"},
+			{"image":1,"position":10464,"effet":"C"},
+			{"image":4,"position":19209,"effet":"C"},
+			{"image":5,"position":20834,"effet":"C"},
+			{"image":6,"position":22849,"effet":"C"},
+			{"image":7,"position":25225,"effet":"C"},
+			{"image":1,"position":27193,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"017426",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["À la prochaine intersection, je pourrai :","",""],
+ "proposition":["- tourner à gauche","- tourner à droite","- continuer tout droit","- faire demi-tour"],
+ "sequence":[
+		{"son":"017426_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017426_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017426_BT_R",
+		"position":17593,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017426_BT_Q01","x":0,"y":0},
+			{"filename":"017426_BT_R02","x":167,"y":56},
+			{"filename":"017426_BT_R03","x":167,"y":56},
+			{"filename":"017426_BT_R04","x":167,"y":56}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2703,"effet":"C"},
+			{"image":3,"position":5774,"effet":"C"},
+			{"image":4,"position":9630,"effet":"C"},
+			{"image":1,"position":12771,"effet":"C"}
+			]
+		}
+	]
+}

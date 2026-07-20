@@ -1,0 +1,42 @@
+{"id":"017714",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["Le panneau signale une voie pour les véhicules circulant  à une vitesse inférieure ou égale à :","","Je me placerai dans la voie la plus à droite :"],
+ "proposition":["- 80 km/h","- 60 km/h","OUI","NON"],
+ "sequence":[
+		{"son":"017714_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017714_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017714_BT_R",
+		"position":33883,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017714_BT_Q01","x":0,"y":0},
+			{"filename":"017714_BT_R02","x":716,"y":39},
+			{"filename":"017714_BT_R03","x":716,"y":39},
+			{"filename":"017714_BT_R04","x":0,"y":0},
+			{"filename":"017714_BT_R05","x":0,"y":0},
+			{"filename":"017714_BT_R06","x":628,"y":92}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1081,"effet":"C"},
+			{"image":3,"position":6855,"effet":"C"},
+			{"image":4,"position":9373,"effet":"C"},
+			{"image":5,"position":20274,"effet":"C"},
+			{"image":6,"position":27972,"effet":"C"},
+			{"image":1,"position":33356,"effet":"C"}
+			]
+		}
+	]
+}

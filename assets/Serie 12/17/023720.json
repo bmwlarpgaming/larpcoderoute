@@ -1,0 +1,44 @@
+{"id":"023720",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Il est préférable d'enlever le blouson de cet enfant  :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023720_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023720_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023720_BT_R",
+		"position":46127,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023720_BT_Q01","x":0,"y":0},
+			{"filename":"023720_BT_R02","x":27,"y":37},
+			{"filename":"023720_BT_R03","x":27,"y":37},
+			{"filename":"023720_BT_R04","x":27,"y":37},
+			{"filename":"023720_BT_R05","x":261,"y":154},
+			{"filename":"023720_BT_R06","x":261,"y":0},
+			{"filename":"023720_BT_R07","x":258,"y":149}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5275,"effet":"C"},
+			{"image":3,"position":13115,"effet":"C"},
+			{"image":4,"position":19067,"effet":"C"},
+			{"image":5,"position":24571,"effet":"C"},
+			{"image":6,"position":34131,"effet":"C"},
+			{"image":7,"position":40014,"effet":"C"},
+			{"image":1,"position":45775,"effet":"C"}
+			]
+		}
+	]
+}

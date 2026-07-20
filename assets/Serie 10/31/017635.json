@@ -1,0 +1,40 @@
+{"id":"017635",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["En cas de contrôle :","- mon passager risque une amende","- je risque un retrait de points"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017635_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017635_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017635_BT_R",
+		"position":36364,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017635_BT_Q01","x":0,"y":0},
+			{"filename":"017635_BT_R02","x":43,"y":230},
+			{"filename":"017635_BT_R03","x":687,"y":19},
+			{"filename":"017635_BT_R04","x":687,"y":19},
+			{"filename":"017635_BT_R05","x":795,"y":6}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1650,"effet":"C"},
+			{"image":3,"position":10833,"effet":"C"},
+			{"image":4,"position":17897,"effet":"C"},
+			{"image":5,"position":23613,"effet":"C"},
+			{"image":1,"position":30240,"effet":"C"}
+			]
+		}
+	]
+}

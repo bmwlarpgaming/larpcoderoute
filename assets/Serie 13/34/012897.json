@@ -1,0 +1,39 @@
+{"id":"012897",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["","",""],
+ "proposition":["Je passe","Je ralentis, je serre à gauche et je passe","J'attends",""],
+ "sequence":[
+		{"son":"012897_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012897_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012897_BT_R",
+		"position":33005,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012897_BT_Q01","x":0,"y":0},
+			{"filename":"012897_BT_R02","x":619,"y":236},
+			{"filename":"012897_BT_R03","x":379,"y":222},
+			{"filename":"012897_BT_R04","x":379,"y":222},
+			{"filename":"012897_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9821,"effet":"C"},
+			{"image":3,"position":16244,"effet":"C"},
+			{"image":4,"position":25644,"effet":"C"},
+			{"image":5,"position":29772,"effet":"C"}
+			]
+		}
+	]
+}

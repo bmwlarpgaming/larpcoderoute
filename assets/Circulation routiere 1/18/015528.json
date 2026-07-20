@@ -1,0 +1,36 @@
+{"id":"015528",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","Je laisse le poids lourd s'engager en premier :",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"015528_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"015528_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"015528_BT_R",
+		"position":23740,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"015528_BT_Q01","x":0,"y":0},
+			{"filename":"015528_BT_R02","x":0,"y":0},
+			{"filename":"015528_BT_R03","x":379,"y":30}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5681,"effet":"C"},
+			{"image":3,"position":18500,"effet":"C"},
+			{"image":1,"position":23202,"effet":"C"}
+			]
+		}
+	]
+}

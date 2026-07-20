@@ -1,0 +1,40 @@
+{"id":"023743",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Le programme électronique de stabilité (ESP) aide le conducteur :","- à maintenir la trajectoire souhaitée en cas d'évitement d'obstacle","- à éviter tout accident"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023743_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023743_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023743_BT_R",
+		"position":27951,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023743_BT_Q01","x":0,"y":0},
+			{"filename":"023743_BT_R02","x":0,"y":0},
+			{"filename":"023743_BT_R03","x":0,"y":0},
+			{"filename":"023743_BT_R04","x":0,"y":0},
+			{"filename":"023743_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":968,"effet":"C"},
+			{"image":3,"position":5580,"effet":"C"},
+			{"image":4,"position":14303,"effet":"C"},
+			{"image":5,"position":23602,"effet":"C"},
+			{"image":1,"position":27614,"effet":"C"}
+			]
+		}
+	]
+}

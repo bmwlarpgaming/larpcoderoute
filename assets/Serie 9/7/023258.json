@@ -1,0 +1,38 @@
+{"id":"023258",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["L'arrêt est obligatoire avant de m'engager sur un giratoire :","","Je dois céder le passage au piéton :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023258_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023258_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023258_BT_R",
+		"position":29531,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023258_BT_Q01","x":0,"y":0},
+			{"filename":"023258_BT_R02","x":0,"y":26},
+			{"filename":"023258_BT_R03","x":0,"y":26},
+			{"filename":"023258_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1050,"effet":"C"},
+			{"image":3,"position":7742,"effet":"C"},
+			{"image":4,"position":19811,"effet":"C"},
+			{"image":1,"position":29290,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{"id":"023666",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je dois utiliser :","",""],
+ "proposition":["- les feux de position seuls","- les feux de croisement","- les feux de route",""],
+ "sequence":[
+		{"son":"023666_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023666_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023666_BT_R",
+		"position":15689,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023666_BT_Q01","x":0,"y":0},
+			{"filename":"023666_BT_R02","x":140,"y":307},
+			{"filename":"023666_BT_R03","x":140,"y":307},
+			{"filename":"023666_BT_R04","x":140,"y":307}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4079,"effet":"C"},
+			{"image":3,"position":7595,"effet":"C"},
+			{"image":4,"position":12263,"effet":"C"}
+			]
+		}
+	]
+}

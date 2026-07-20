@@ -1,0 +1,36 @@
+{"id":"000471",
+ "reponse":"ACD",
+ "sexe":"F",
+ "enonce":["Si je refuse de m'arrêter je commets un délit :","","Je risque :"],
+ "proposition":["OUI","NON","- une suspension de mon permis","- une peine de prison"],
+ "sequence":[
+		{"son":"000471_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000471_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000471_BT_R",
+		"position":17390,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"000471_BT_R01","x":0,"y":0},
+			{"filename":"000471_BT_R02","x":0,"y":9},
+			{"filename":"000471_BT_R03","x":0,"y":9}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8040,"effet":"C"},
+			{"image":3,"position":12140,"effet":"C"},
+			{"image":1,"position":16420,"effet":"C"}
+			]
+		}
+	]
+}

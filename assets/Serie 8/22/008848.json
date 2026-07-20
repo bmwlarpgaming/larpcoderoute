@@ -1,0 +1,38 @@
+{"id":"008848",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je ralentis :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008848_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008848_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008848_BT_R",
+		"position":19662,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008848_BT_Q01","x":0,"y":0},
+			{"filename":"008848_BT_R02","x":30,"y":60},
+			{"filename":"008848_BT_R03","x":30,"y":60},
+			{"filename":"008848_BT_R04","x":292,"y":255}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1818,"effet":"C"},
+			{"image":3,"position":2914,"effet":"C"},
+			{"image":1,"position":14626,"effet":"C"},
+			{"image":4,"position":15746,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{"id":"023620",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Pour augmenter mes chances d'être vu par les autres usagers, j'utilise :","",""],
+ "proposition":["- les feux diurnes","- les  feux de croisement","- les feux de route",""],
+ "sequence":[
+		{"son":"023620_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023620_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023620_BT_R",
+		"position":34641,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023620_BT_Q01","x":0,"y":0},
+			{"filename":"023620_BT_R02","x":235,"y":123},
+			{"filename":"023620_BT_R03","x":235,"y":123},
+			{"filename":"023620_BT_R04","x":235,"y":123},
+			{"filename":"023620_BT_R05","x":235,"y":123}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1560,"effet":"C"},
+			{"image":3,"position":6904,"effet":"C"},
+			{"image":4,"position":20142,"effet":"C"},
+			{"image":5,"position":27892,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{"id":"022621",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Le risque principal est en :","",""],
+ "proposition":["A","B","C",""],
+ "sequence":[
+		{"son":"022621_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"022621_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"022621_BT_R",
+		"position":34065,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"022621_BT_Q01","x":0,"y":0},
+			{"filename":"022621_BT_R02","x":456,"y":172},
+			{"filename":"022621_BT_R03","x":0,"y":0},
+			{"filename":"022621_BT_R04","x":4,"y":4},
+			{"filename":"022621_BT_R05","x":4,"y":4},
+			{"filename":"022621_BT_R06","x":444,"y":339}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":924,"effet":"C"},
+			{"image":3,"position":10277,"effet":"C"},
+			{"image":4,"position":18212,"effet":"C"},
+			{"image":5,"position":24724,"effet":"C"},
+			{"image":6,"position":29969,"effet":"C"},
+			{"image":1,"position":33679,"effet":"C"}
+			]
+		}
+	]
+}

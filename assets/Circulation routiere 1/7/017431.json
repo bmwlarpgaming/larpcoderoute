@@ -1,0 +1,38 @@
+{"id":"017431",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["","La vitesse est limitée à 30 km/h :",""],
+ "proposition":["- à partir du giratoire","- à partir du panneau","- jusqu'au panneau de fin de zone",""],
+ "sequence":[
+		{"son":"017431_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017431_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017431_BT_R",
+		"position":23241,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017431_BT_Q01","x":0,"y":0},
+			{"filename":"017431_BT_R02","x":784,"y":99},
+			{"filename":"017431_BT_R03","x":539,"y":144},
+			{"filename":"017431_BT_R04","x":803,"y":131}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1283,"effet":"C"},
+			{"image":3,"position":4991,"effet":"C"},
+			{"image":4,"position":19558,"effet":"C"},
+			{"image":1,"position":22489,"effet":"C"}
+			]
+		}
+	]
+}

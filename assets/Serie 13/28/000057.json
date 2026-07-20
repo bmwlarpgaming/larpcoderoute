@@ -1,0 +1,44 @@
+{"id":"000057",
+ "reponse":"ABD",
+ "sexe":"F",
+ "enonce":["Il y a un risque :","","Pour limiter les risques, je peux choisir de m'arrêter :"],
+ "proposition":["- de perte d’adhérence","- de collision en chaîne","- du côté droit","- sur la prochaine aire de repos"],
+ "sequence":[
+		{"son":"000057_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000057_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000057_BT_R",
+		"position":64700,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"000057_BT_Q01","x":0,"y":0},
+			{"filename":"000057_BT_R02","x":0,"y":0},
+			{"filename":"000057_BT_R03","x":0,"y":0},
+			{"filename":"000057_BT_R04","x":0,"y":0},
+			{"filename":"000057_BT_R05","x":285,"y":292},
+			{"filename":"000057_BT_R06","x":285,"y":292},
+			{"filename":"000057_BT_R07","x":285,"y":70}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4020,"effet":"C"},
+			{"image":3,"position":11070,"effet":"C"},
+			{"image":4,"position":19220,"effet":"C"},
+			{"image":5,"position":37580,"effet":"C"},
+			{"image":6,"position":41260,"effet":"C"},
+			{"image":7,"position":50000,"effet":"C"},
+			{"image":1,"position":62810,"effet":"C"}
+			]
+		}
+	]
+}

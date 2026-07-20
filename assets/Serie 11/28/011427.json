@@ -1,0 +1,38 @@
+{"id":"011427",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Lors d'un aquaplanage :","",""],
+ "proposition":["- le pneu perd totalement l'adhérence","- le pneu perd partiellement l'adhérence","",""],
+ "sequence":[
+		{"son":"011427_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011427_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011427_BT_R",
+		"position":23337,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"011427_BT_Q01","x":0,"y":0},
+			{"filename":"011427_BT_R02","x":707,"y":27},
+			{"filename":"011427_BT_R03","x":155,"y":11},
+			{"filename":"011427_BT_R04","x":155,"y":11}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3505,"effet":"C"},
+			{"image":3,"position":10985,"effet":"C"},
+			{"image":4,"position":17241,"effet":"C"},
+			{"image":1,"position":22753,"effet":"C"}
+			]
+		}
+	]
+}

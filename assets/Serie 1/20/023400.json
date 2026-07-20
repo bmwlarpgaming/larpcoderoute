@@ -1,0 +1,45 @@
+{"id":"023400",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Augmenter ma vitesse réduit ma vision latérale :","","Une vitesse excessive entraîne des risques d'accident :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023400_BT_Q",
+		"video":"023400",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023400_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023400_BT_R",
+		"video":"023400",
+		"position":47174,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023400_BT_Q03","x":0,"y":0},
+			{"filename":"023400_BT_R04","x":0,"y":0},
+			{"filename":"023400_BT_R05","x":0,"y":0},
+			{"filename":"023400_BT_R06","x":0,"y":0},
+			{"filename":"023400_BT_R07","x":0,"y":0},
+			{"filename":"023400_BT_R08","x":0,"y":0},
+			{"filename":"023400_BT_R01","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":15075,"effet":"C"},
+			{"image":3,"position":17055,"effet":"C"},
+			{"image":4,"position":19048,"effet":"C"},
+			{"image":5,"position":23601,"effet":"C"},
+			{"image":6,"position":32307,"effet":"C"},
+			{"image":7,"position":42031,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{"id":"009356",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je continue le dépassement :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009356_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009356_BT_Q01","x":0,"y":0},
+			{"filename":"009356_BT_Q02","x":522,"y":276}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":557,"effet":"B"}
+			]
+		},
+		{"son":"009356_BT_R",
+		"position":22885,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"009356_BT_Q01","x":0,"y":0},
+			{"filename":"009356_BT_R02","x":522,"y":276},
+			{"filename":"009356_BT_R03","x":350,"y":283},
+			{"filename":"009356_BT_R04","x":350,"y":276},
+			{"filename":"009356_BT_R05","x":326,"y":283},
+			{"filename":"009356_BT_R06","x":326,"y":276}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":334,"effet":"B"},
+			{"image":3,"position":2882,"effet":"C"},
+			{"image":4,"position":3219,"effet":"B"},
+			{"image":5,"position":20071,"effet":"C"},
+			{"image":6,"position":20403,"effet":"B"}
+			]
+		}
+	]
+}

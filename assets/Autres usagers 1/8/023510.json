@@ -1,0 +1,39 @@
+{"id":"023510",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je viens de m'engager au feu vert. Je m'arrête pour laisser passer ces piétons :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023510_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023510_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023510_BT_R",
+		"position":23344,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023510_BT_Q01","x":0,"y":0},
+			{"filename":"023510_BT_R02","x":253,"y":163},
+			{"filename":"023510_BT_R03","x":555,"y":75},
+			{"filename":"023510_BT_R04","x":555,"y":75},
+			{"filename":"023510_BT_R05","x":387,"y":75}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3298,"effet":"C"},
+			{"image":3,"position":10207,"effet":"C"},
+			{"image":4,"position":12172,"effet":"C"},
+			{"image":5,"position":19578,"effet":"C"}
+			]
+		}
+	]
+}

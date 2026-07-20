@@ -1,0 +1,38 @@
+{"id":"008992",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je passe :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008992_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008992_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008992_BT_R",
+		"position":19808,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008992_BT_Q01","x":0,"y":0},
+			{"filename":"008992_BT_R04","x":144,"y":137},
+			{"filename":"008992_BT_R02","x":115,"y":6},
+			{"filename":"008992_BT_R03","x":236,"y":125}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1281,"effet":"C"},
+			{"image":3,"position":8308,"effet":"C"},
+			{"image":4,"position":17044,"effet":"C"},
+			{"image":1,"position":18740,"effet":"C"}
+			]
+		}
+	]
+}

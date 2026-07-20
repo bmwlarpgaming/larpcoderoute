@@ -1,0 +1,36 @@
+{"id":"001841",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Je peux circuler :","- en feux de croisement","- en feux de route"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"001841_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"001841_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"001841_BT_R",
+		"position":16830,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"001841_BT_Q01","x":0,"y":0},
+			{"filename":"001841_BT_R02","x":498,"y":97},
+			{"filename":"001841_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5090,"effet":"C"},
+			{"image":3,"position":10580,"effet":"C"},
+			{"image":1,"position":16040,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"010836",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je démarre :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010836_BT_Q",
+		"video":"010836",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010836_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010836_BT_R",
+		"video":"010836",
+		"position":33442,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"010836_BT_Q02","x":0,"y":0},
+			{"filename":"010836_BT_R03","x":0,"y":0},
+			{"filename":"010836_BT_R04","x":0,"y":0},
+			{"filename":"010836_BT_R05","x":0,"y":0},
+			{"filename":"010836_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5197,"effet":"C"},
+			{"image":3,"position":11061,"effet":"C"},
+			{"image":4,"position":23567,"effet":"C"},
+			{"image":5,"position":29711,"effet":"C"}
+			]
+		}
+	]
+}

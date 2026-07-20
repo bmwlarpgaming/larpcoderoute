@@ -1,0 +1,42 @@
+{"id":"013910",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Je roule à la bonne allure :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"013910_BT_Q",
+		"video":"013910",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"013910_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"013910_BT_R",
+		"video":"013910",
+		"position":30940,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"013910_BT_Q02","x":0,"y":0},
+			{"filename":"013910_BT_R03","x":0,"y":0},
+			{"filename":"013910_BT_R04","x":0,"y":0},
+			{"filename":"013910_BT_R05","x":0,"y":0},
+			{"filename":"013910_BT_R06","x":364,"y":259}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1748,"effet":"C"},
+			{"image":3,"position":6512,"effet":"C"},
+			{"image":4,"position":12364,"effet":"C"},
+			{"image":5,"position":25648,"effet":"C"},
+			{"image":1,"position":30296,"effet":"C"}
+			]
+		}
+	]
+}

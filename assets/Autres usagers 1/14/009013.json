@@ -1,0 +1,40 @@
+{"id":"009013",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["J'ai le temps de passer. Je passe :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009013_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009013_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009013_BT_R",
+		"position":38847,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009013_BT_Q01","x":0,"y":0},
+			{"filename":"009013_BT_R02","x":0,"y":315},
+			{"filename":"009013_BT_R03","x":47,"y":147},
+			{"filename":"009013_BT_R04","x":496,"y":363},
+			{"filename":"009013_BT_R05","x":496,"y":348}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8400,"effet":"C"},
+			{"image":3,"position":13254,"effet":"C"},
+			{"image":1,"position":16434,"effet":"C"},
+			{"image":4,"position":21990,"effet":"C"},
+			{"image":5,"position":34932,"effet":"C"}
+			]
+		}
+	]
+}

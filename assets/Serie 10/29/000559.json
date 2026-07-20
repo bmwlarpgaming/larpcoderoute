@@ -1,0 +1,38 @@
+{"id":"000559",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Je peux dépasser ce cycliste :","- en chevauchant la ligne","- sans chevaucher la ligne"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"000559_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000559_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000559_BT_R",
+		"position":26486,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"000559_BT_Q01","x":0,"y":0},
+			{"filename":"000559_BT_R02","x":421,"y":107},
+			{"filename":"000559_BT_R03","x":269,"y":282},
+			{"filename":"000559_BT_R04","x":269,"y":107}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6300,"effet":"C"},
+			{"image":3,"position":16780,"effet":"C"},
+			{"image":4,"position":20090,"effet":"C"},
+			{"image":1,"position":25580,"effet":"C"}
+			]
+		}
+	]
+}

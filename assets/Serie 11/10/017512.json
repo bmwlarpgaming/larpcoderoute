@@ -1,0 +1,36 @@
+{"id":"017512",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Ce marquage au sol autorise le dépassement :","- des deux-roues uniquement","- des véhicules lents"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017512_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017512_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017512_BT_R",
+		"position":27602,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017512_BT_Q01","x":0,"y":0},
+			{"filename":"017512_BT_R02","x":579,"y":145},
+			{"filename":"017512_BT_R03","x":579,"y":145}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1929,"effet":"C"},
+			{"image":3,"position":18082,"effet":"C"},
+			{"image":1,"position":22875,"effet":"C"}
+			]
+		}
+	]
+}

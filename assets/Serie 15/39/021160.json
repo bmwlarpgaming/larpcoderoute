@@ -1,0 +1,35 @@
+{"id":"021160",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Les rétroviseurs se règlent :","",""],
+ "proposition":["- avant le réglage du siège et du dossier","- après le réglage du siège et du dossier","",""],
+ "sequence":[
+		{"son":"021160_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021160_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021160_BT_R",
+		"position":18195,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"021160_BT_Q01","x":0,"y":0},
+			{"filename":"021160_BT_R02","x":0,"y":0},
+			{"filename":"021160_BT_R03","x":467,"y":205}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10645,"effet":"C"},
+			{"image":3,"position":15845,"effet":"C"}
+			]
+		}
+	]
+}

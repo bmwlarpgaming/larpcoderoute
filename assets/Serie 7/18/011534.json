@@ -1,0 +1,41 @@
+{"id":"011534",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["","",""],
+ "proposition":["Je klaxonne","Je ralentis","Je maintiens l'allure",""],
+ "sequence":[
+		{"son":"011534_BT_Q",
+		"video":"011534",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011534_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011534_BT_R",
+		"video":"011534",
+		"position":32881,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011534_BT_Q02","x":0,"y":0},
+			{"filename":"011534_BT_R03","x":0,"y":0},
+			{"filename":"011534_BT_R04","x":716,"y":219},
+			{"filename":"011534_BT_R05","x":0,"y":0},
+			{"filename":"011534_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5530,"effet":"C"},
+			{"image":3,"position":12660,"effet":"C"},
+			{"image":4,"position":16795,"effet":"C"},
+			{"image":5,"position":28010,"effet":"C"}
+			]
+		}
+	]
+}

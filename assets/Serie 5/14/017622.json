@@ -1,0 +1,40 @@
+{"id":"017622",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Pour conduire, il faut avoir une acuité visuelle minimale de :","",""],
+ "proposition":["- 1/10e","- 5/10e","- 7/10e","- 10/10e"],
+ "sequence":[
+		{"son":"017622_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017622_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017622_BT_R",
+		"position":33281,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017622_BT_Q01","x":0,"y":0},
+			{"filename":"017622_BT_R02","x":353,"y":164},
+			{"filename":"017622_BT_R03","x":61,"y":51},
+			{"filename":"017622_BT_R04","x":0,"y":0},
+			{"filename":"017622_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1485,"effet":"C"},
+			{"image":3,"position":14461,"effet":"C"},
+			{"image":4,"position":23118,"effet":"C"},
+			{"image":5,"position":29535,"effet":"C"},
+			{"image":1,"position":32783,"effet":"C"}
+			]
+		}
+	]
+}

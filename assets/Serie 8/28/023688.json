@@ -1,0 +1,40 @@
+{"id":"023688",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Cette balise signale :","",""],
+ "proposition":["- un virage","- un virage sur route fréquemment enneigée","- un obstacle proche de la chaussée","- un passage à niveau à 150 m"],
+ "sequence":[
+		{"son":"023688_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023688_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023688_BT_R",
+		"position":28815,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023688_BT_Q01","x":0,"y":0},
+			{"filename":"023688_BT_R02","x":0,"y":0},
+			{"filename":"023688_BT_R03","x":0,"y":0},
+			{"filename":"023688_BT_R04","x":0,"y":0},
+			{"filename":"023688_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5390,"effet":"C"},
+			{"image":3,"position":11065,"effet":"C"},
+			{"image":4,"position":17182,"effet":"C"},
+			{"image":5,"position":24507,"effet":"C"},
+			{"image":1,"position":28620,"effet":"C"}
+			]
+		}
+	]
+}

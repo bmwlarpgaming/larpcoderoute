@@ -1,0 +1,47 @@
+{"id":"009035",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Si la voiture avance jusqu'à la ligne de céder le passage, le poids lourd :","",""],
+ "proposition":["- pourra tourner","- ne pourra pas tourner","",""],
+ "sequence":[
+		{"son":"009035_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"009035_BT_Q01","x":0,"y":0},
+			{"filename":"009035_BT_Q02","x":585,"y":139}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":177,"effet":"B"}
+			]
+		},
+		{"son":"009035_BT_R",
+		"position":36978,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"009035_BT_Q01","x":0,"y":0},
+			{"filename":"009035_BT_R02","x":585,"y":139},
+			{"filename":"009035_BT_R03","x":204,"y":0},
+			{"filename":"009035_BT_R04","x":0,"y":0},
+			{"filename":"009035_BT_R05","x":120,"y":0},
+			{"filename":"009035_BT_R06","x":0,"y":0},
+			{"filename":"009035_BT_R07","x":0,"y":0},
+			{"filename":"009035_BT_R08","x":0,"y":0}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1159,"effet":"B"},
+			{"image":3,"position":1661,"effet":"C"},
+			{"image":4,"position":6213,"effet":"C"},
+			{"image":5,"position":11938,"effet":"C"},
+			{"image":6,"position":16269,"effet":"C"},
+			{"image":7,"position":24051,"effet":"C"},
+			{"image":8,"position":32118,"effet":"B"}
+			]
+		}
+	]
+}

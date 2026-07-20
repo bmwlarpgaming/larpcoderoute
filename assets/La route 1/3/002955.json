@@ -1,0 +1,39 @@
+{"id":"002955",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["La signalisation annonce une bifurcation d’autoroutes :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"002955_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002955_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002955_BT_R",
+		"position":44713,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002955_BT_Q01","x":0,"y":0},
+			{"filename":"002955_BT_R02","x":0,"y":0},
+			{"filename":"002955_BT_R03","x":0,"y":0},
+			{"filename":"002955_BT_R05","x":822,"y":259}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11777,"effet":"C"},
+			{"image":3,"position":25673,"effet":"C"},
+			{"image":1,"position":32433,"effet":"C"},
+			{"image":4,"position":32865,"effet":"B"},
+			{"image":1,"position":41405,"effet":"C"}
+			]
+		}
+	]
+}

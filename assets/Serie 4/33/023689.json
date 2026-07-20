@@ -1,0 +1,41 @@
+{"id":"023689",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Ces balises signalent :","","Je bénéficie de la priorité de passage sur les usagers venant de droite :"],
+ "proposition":["- une intersection","- le régime de priorité","OUI","NON"],
+ "sequence":[
+		{"son":"023689_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023689_BT_Q01","x":0,"y":0},
+			{"filename":"023689_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":511,"effet":"C"},
+			{"image":1,"position":20281,"effet":"C"}
+			]
+		},
+		{"son":"023689_BT_R",
+		"position":38915,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023689_BT_Q01","x":0,"y":0},
+			{"filename":"023689_BT_R03","x":0,"y":0},
+			{"filename":"023689_BT_R04","x":59,"y":11},
+			{"filename":"023689_BT_R05","x":59,"y":11}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7083,"effet":"C"},
+			{"image":3,"position":22121,"effet":"C"},
+			{"image":4,"position":34929,"effet":"C"},
+			{"image":1,"position":38165,"effet":"C"}
+			]
+		}
+	]
+}

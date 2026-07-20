@@ -1,0 +1,42 @@
+{"id":"019360",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je diminue les effets de l'alcool si je bois un café après avoir bu deux verres de bière :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"019360_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"019360_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"019360_BT_R",
+		"position":55874,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"019360_BT_Q01","x":0,"y":0},
+			{"filename":"019360_BT_R02","x":0,"y":0},
+			{"filename":"019360_BT_R03","x":0,"y":0},
+			{"filename":"019360_BT_R04","x":0,"y":0},
+			{"filename":"019360_BT_R05","x":0,"y":0},
+			{"filename":"019360_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1101,"effet":"C"},
+			{"image":3,"position":11243,"effet":"C"},
+			{"image":4,"position":18203,"effet":"C"},
+			{"image":5,"position":29996,"effet":"C"},
+			{"image":6,"position":43276,"effet":"C"},
+			{"image":1,"position":50464,"effet":"C"}
+			]
+		}
+	]
+}

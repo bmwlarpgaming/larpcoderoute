@@ -1,0 +1,36 @@
+{"id":"012099",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Je risque de faire un écart en croisant ces poids lourds :","","Je tiens fermement mon volant :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"012099_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012099_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012099_BT_R",
+		"position":24244,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"012099_BT_Q01","x":0,"y":0},
+			{"filename":"012099_BT_R02","x":782,"y":0},
+			{"filename":"012099_BT_R03","x":349,"y":156}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6564,"effet":"C"},
+			{"image":3,"position":19315,"effet":"C"},
+			{"image":1,"position":23908,"effet":"C"}
+			]
+		}
+	]
+}

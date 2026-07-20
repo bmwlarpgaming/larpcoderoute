@@ -1,0 +1,38 @@
+{"id":"025256",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Le chargement du véhicule ne doit pas dépasser :","",""],
+ "proposition":["- de + de 1 mètre à l'avant","- de + de 2 mètres à l’arrière","- de + de 3 mètres à l’arrière",""],
+ "sequence":[
+		{"son":"025256_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025256_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025256_BT_R",
+		"position":26926,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025256_BT_Q01","x":0,"y":0},
+			{"filename":"025256_BT_R02","x":664,"y":51},
+			{"filename":"025256_BT_R03","x":51,"y":51},
+			{"filename":"025256_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":10349,"effet":"C"},
+			{"image":3,"position":13881,"effet":"C"},
+			{"image":4,"position":20219,"effet":"C"},
+			{"image":1,"position":26500,"effet":"C"}
+			]
+		}
+	]
+}

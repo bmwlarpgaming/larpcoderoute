@@ -1,0 +1,41 @@
+{"id":"011511",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je suis bien stationné :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011511_BT_Q",
+		"video":"011511",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011511_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011511_BT_R",
+		"video":"011511",
+		"position":24616,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011511_BT_Q02","x":0,"y":0},
+			{"filename":"011511_BT_R03","x":708,"y":260},
+			{"filename":"011511_BT_R04","x":528,"y":403},
+			{"filename":"011511_BT_R05","x":821,"y":220},
+			{"filename":"011511_BT_R01","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4365,"effet":"C"},
+			{"image":3,"position":8197,"effet":"C"},
+			{"image":4,"position":21052,"effet":"C"},
+			{"image":5,"position":23579,"effet":"C"}
+			]
+		}
+	]
+}

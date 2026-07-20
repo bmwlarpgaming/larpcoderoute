@@ -1,0 +1,42 @@
+{"id":"017514",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["Je peux dépasser le cycliste :","- en chevauchant la ligne","- sans chevaucher la ligne"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017514_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017514_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017514_BT_R",
+		"position":38994,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017514_BT_Q01","x":0,"y":0},
+			{"filename":"017514_BT_R02","x":491,"y":163},
+			{"filename":"017514_BT_R03","x":459,"y":43},
+			{"filename":"017514_BT_R04","x":0,"y":27},
+			{"filename":"017514_BT_R05","x":0,"y":0},
+			{"filename":"017514_BT_R06","x":603,"y":196}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3493,"effet":"C"},
+			{"image":3,"position":17041,"effet":"C"},
+			{"image":4,"position":21509,"effet":"C"},
+			{"image":5,"position":24172,"effet":"C"},
+			{"image":6,"position":25645,"effet":"C"},
+			{"image":1,"position":35162,"effet":"C"}
+			]
+		}
+	]
+}

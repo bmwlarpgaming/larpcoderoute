@@ -1,0 +1,40 @@
+{"id":"024517",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La vitesse maximale autorisée est de :","",""],
+ "proposition":["- 70 km/h","- 80 km/h","- 90 km/h",""],
+ "sequence":[
+		{"son":"024517_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024517_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024517_BT_R",
+		"position":33611,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024517_BT_Q01","x":0,"y":0},
+			{"filename":"024517_BT_R02","x":131,"y":51},
+			{"filename":"024517_BT_R03","x":131,"y":51},
+			{"filename":"024517_BT_R04","x":131,"y":51},
+			{"filename":"024517_BT_R05","x":131,"y":51}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3699,"effet":"C"},
+			{"image":3,"position":8215,"effet":"C"},
+			{"image":4,"position":18277,"effet":"C"},
+			{"image":5,"position":23929,"effet":"C"},
+			{"image":1,"position":32173,"effet":"C"}
+			]
+		}
+	]
+}

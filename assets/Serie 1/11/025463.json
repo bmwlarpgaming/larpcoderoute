@@ -1,0 +1,38 @@
+{"id":"025463",
+ "reponse":"AB",
+ "sexe":"F",
+ "enonce":["En cas d'erreur de carburant à la station essence :","",""],
+ "proposition":["- je ne dois pas démarrer le moteur","- je fais appel à un garagiste","- je me rends chez un garagiste en roulant doucement",""],
+ "sequence":[
+		{"son":"025463_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025463_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025463_BT_R",
+		"position":31789,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025463_BT_Q01","x":0,"y":0},
+			{"filename":"025463_BT_R02","x":0,"y":0},
+			{"filename":"025463_BT_R03","x":891,"y":67},
+			{"filename":"025463_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8658,"effet":"C"},
+			{"image":3,"position":17277,"effet":"C"},
+			{"image":4,"position":24807,"effet":"C"},
+			{"image":1,"position":31339,"effet":"C"}
+			]
+		}
+	]
+}

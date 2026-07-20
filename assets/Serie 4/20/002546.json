@@ -1,0 +1,40 @@
+{"id":"002546",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["J’allume les feux de détresse :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"002546_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002546_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002546_BT_R",
+		"position":23305,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002546_BT_Q01","x":0,"y":0},
+			{"filename":"002546_BT_R02","x":152,"y":59},
+			{"filename":"002546_BT_R03","x":666,"y":0},
+			{"filename":"002546_BT_R04","x":376,"y":368},
+			{"filename":"002546_BT_R05","x":376,"y":368}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":950,"effet":"C"},
+			{"image":3,"position":7278,"effet":"C"},
+			{"image":4,"position":14142,"effet":"C"},
+			{"image":5,"position":14752,"effet":"B"},
+			{"image":1,"position":22999,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{"id":"002318",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Un véhicule brûle au loin :","",""],
+ "proposition":["- je reste dans le véhicule, j’attends les secours","- je fais demi-tour","- je me dirige à pied vers une issue de secours",""],
+ "sequence":[
+		{"son":"002318_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"002318_BT_Q01","x":0,"y":0},
+			{"filename":"002318_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":510,"effet":"B"}
+			]
+		},
+		{"son":"002318_BT_R",
+		"position":45600,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"002318_BT_Q01","x":0,"y":0},
+			{"filename":"002318_BT_R02","x":0,"y":0},
+			{"filename":"002318_BT_R03","x":300,"y":342},
+			{"filename":"002318_BT_R04","x":300,"y":57},
+			{"filename":"002318_BT_R05","x":292,"y":0},
+			{"filename":"002318_BT_R06","x":292,"y":0},
+			{"filename":"002318_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":520,"effet":"B"},
+			{"image":3,"position":7740,"effet":"C"},
+			{"image":4,"position":8410,"effet":"B"},
+			{"image":5,"position":20750,"effet":"C"},
+			{"image":6,"position":21200,"effet":"B"},
+			{"image":7,"position":30050,"effet":"C"},
+			{"image":1,"position":40750,"effet":"C"},
+			{"image":2,"position":41390,"effet":"B"}
+			]
+		}
+	]
+}

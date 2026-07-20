@@ -1,0 +1,40 @@
+{"id":"017761",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je dépasse","j'attends pour dépasser","",""],
+ "sequence":[
+		{"son":"017761_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017761_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017761_BT_R",
+		"position":37725,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017761_BT_Q01","x":0,"y":0},
+			{"filename":"017761_BT_R02","x":638,"y":233},
+			{"filename":"017761_BT_R03","x":739,"y":124},
+			{"filename":"017761_BT_R04","x":83,"y":163},
+			{"filename":"017761_BT_R05","x":673,"y":203}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1932,"effet":"C"},
+			{"image":3,"position":10645,"effet":"C"},
+			{"image":4,"position":17716,"effet":"C"},
+			{"image":5,"position":24589,"effet":"C"},
+			{"image":1,"position":30084,"effet":"C"}
+			]
+		}
+	]
+}

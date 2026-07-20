@@ -1,0 +1,39 @@
+{"id":"003009",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Je suis bien placé :","- pour m’arrêter","- pour stationner"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"003009_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003009_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003009_BT_R",
+		"position":23937,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"003009_BT_Q01","x":0,"y":0},
+			{"filename":"003009_BT_R02","x":0,"y":0},
+			{"filename":"003009_BT_R03","x":460,"y":300},
+			{"filename":"003009_BT_R04","x":529,"y":377},
+			{"filename":"003009_BT_R05","x":400,"y":297}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2060,"effet":"C"},
+			{"image":3,"position":6873,"effet":"B"},
+			{"image":4,"position":11855,"effet":"C"},
+			{"image":5,"position":18545,"effet":"C"}
+			]
+		}
+	]
+}

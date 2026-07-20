@@ -1,0 +1,41 @@
+{"id":"025501",
+ "reponse":"ABC",
+ "sexe":"F",
+ "enonce":["J'effectue périodiquement le contrôle :","",""],
+ "proposition":["- du niveau d'huile moteur","- du niveau du liquide de frein","- du niveau de liquide de refroidissement","- de la propreté des pneumatiques"],
+ "sequence":[
+		{"son":"025501_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025501_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025501_BT_R",
+		"position":29584,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"025501_BT_Q01","x":0,"y":0},
+			{"filename":"025501_BT_R02","x":0,"y":0},
+			{"filename":"025501_BT_R03","x":0,"y":0},
+			{"filename":"025501_BT_R04","x":0,"y":0},
+			{"filename":"025501_BT_R05","x":0,"y":0},
+			{"filename":"025501_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2727,"effet":"C"},
+			{"image":3,"position":8258,"effet":"C"},
+			{"image":4,"position":12082,"effet":"C"},
+			{"image":5,"position":17290,"effet":"C"},
+			{"image":6,"position":21291,"effet":"C"}
+			]
+		}
+	]
+}

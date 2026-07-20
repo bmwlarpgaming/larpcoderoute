@@ -1,0 +1,36 @@
+{"id":"009611",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Le rôle du limiteur de vitesse est :","",""],
+ "proposition":["- de ne pas dépasser une vitesse définie","- de maintenir une allure programmée","",""],
+ "sequence":[
+		{"son":"009611_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009611_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009611_BT_R",
+		"position":37763,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"009611_BT_Q01","x":0,"y":0},
+			{"filename":"009611_BT_R02","x":254,"y":0},
+			{"filename":"009611_BT_R03","x":254,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":12895,"effet":"C"},
+			{"image":3,"position":20092,"effet":"C"},
+			{"image":1,"position":37439,"effet":"C"}
+			]
+		}
+	]
+}

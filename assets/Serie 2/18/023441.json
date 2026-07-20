@@ -1,0 +1,37 @@
+{"id":"023441",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Ce conducteur doit s'arrêter à hauteur de la ligne discontinue :","",""],
+ "proposition":["- lorsqu'un piéton souhaite s'engager sur le passage pour piétons","- même si aucun piéton n'est présent","",""],
+ "sequence":[
+		{"son":"023441_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023441_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023441_BT_R",
+		"position":26440,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023441_BT_Q01","x":0,"y":0},
+			{"filename":"023441_BT_R02","x":467,"y":0},
+			{"filename":"023441_BT_R03","x":388,"y":11},
+			{"filename":"023441_BT_R04","x":308,"y":13}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2229,"effet":"B"},
+			{"image":3,"position":9061,"effet":"C"},
+			{"image":4,"position":17528,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"025200",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["En cas d'arrêt cardiaque, 1 minute perdue, c'est 10% de chance de survie en moins. Pour aider ce piéton, j'utilise un défibrillateur automatisé :","- seulement si j'ai suivi une formation","- dès que possible"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025200_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025200_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025200_BT_R",
+		"position":28350,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025200_BT_Q01","x":0,"y":0},
+			{"filename":"025200_BT_R02","x":0,"y":0},
+			{"filename":"025200_BT_R03","x":0,"y":0},
+			{"filename":"025200_BT_R04","x":0,"y":0},
+			{"filename":"025200_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2333,"effet":"C"},
+			{"image":3,"position":9940,"effet":"C"},
+			{"image":4,"position":17568,"effet":"C"},
+			{"image":5,"position":23983,"effet":"C"},
+			{"image":1,"position":28079,"effet":"C"}
+			]
+		}
+	]
+}

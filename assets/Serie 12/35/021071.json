@@ -1,0 +1,40 @@
+{"id":"021071",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Avant de tourner à gauche, il est préférable de s'arrêter :","",""],
+ "proposition":["- roues droites","- roues tournées","",""],
+ "sequence":[
+		{"son":"021071_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"021071_BT_Q01","x":0,"y":0},
+			{"filename":"021071_BT_Q02","x":549,"y":366}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":450,"effet":"B"}
+			]
+		},
+		{"son":"021071_BT_R",
+		"position":29000,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"021071_BT_Q01","x":0,"y":0},
+			{"filename":"021071_BT_R02","x":425,"y":84},
+			{"filename":"021071_BT_R03","x":227,"y":147},
+			{"filename":"021071_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3920,"effet":"C"},
+			{"image":3,"position":12975,"effet":"C"},
+			{"image":4,"position":18483,"effet":"C"},
+			{"image":1,"position":28760,"effet":"C"}
+			]
+		}
+	]
+}

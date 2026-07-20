@@ -1,0 +1,41 @@
+{"id":"008989",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["La vitesse est limitée à :","",""],
+ "proposition":["- 90 km/h","- 110 km/h","- 130 km/h",""],
+ "sequence":[
+		{"son":"008989_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008989_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008989_BT_R",
+		"position":43485,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"008989_BT_Q01","x":0,"y":0},
+			{"filename":"008989_BT_R02","x":115,"y":308},
+			{"filename":"008989_BT_R03","x":115,"y":135},
+			{"filename":"008989_BT_R04","x":115,"y":135},
+			{"filename":"008989_BT_R05","x":115,"y":15},
+			{"filename":"008989_BT_R06","x":115,"y":15}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7608,"effet":"C"},
+			{"image":3,"position":11658,"effet":"C"},
+			{"image":4,"position":18899,"effet":"C"},
+			{"image":5,"position":33999,"effet":"C"},
+			{"image":6,"position":40438,"effet":"C"}
+			]
+		}
+	]
+}

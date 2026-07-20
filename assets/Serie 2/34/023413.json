@@ -1,0 +1,38 @@
+{"id":"023413",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Ces cyclistes risquent de faire un écart :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023413_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023413_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023413_BT_R",
+		"position":31497,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023413_BT_Q01","x":0,"y":0},
+			{"filename":"023413_BT_R02","x":717,"y":331},
+			{"filename":"023413_BT_R03","x":627,"y":339},
+			{"filename":"023413_BT_R04","x":460,"y":412}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3123,"effet":"C"},
+			{"image":3,"position":7810,"effet":"C"},
+			{"image":4,"position":21322,"effet":"C"},
+			{"image":1,"position":31290,"effet":"C"}
+			]
+		}
+	]
+}

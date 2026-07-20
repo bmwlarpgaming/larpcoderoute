@@ -1,0 +1,37 @@
+{"id":"010097",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["En attendant l'arrivée des secours :","",""],
+ "proposition":["- je réconforte ce blessé","- je lui montre ses blessures","- je le couvre","- je l'aide à sortir du véhicule"],
+ "sequence":[
+		{"son":"010097_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010097_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010097_BT_R",
+		"position":29667,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"010097_BT_R01","x":0,"y":0},
+			{"filename":"010097_BT_R02","x":0,"y":0},
+			{"filename":"010097_BT_R03","x":29,"y":0},
+			{"filename":"010097_BT_R04","x":29,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":12493,"effet":"C"},
+			{"image":3,"position":15802,"effet":"C"},
+			{"image":4,"position":18846,"effet":"C"}
+			]
+		}
+	]
+}

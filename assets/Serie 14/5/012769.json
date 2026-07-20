@@ -1,0 +1,42 @@
+{"id":"012769",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je respecte la limitation de vitesse","je commets une infraction","",""],
+ "sequence":[
+		{"son":"012769_BT_Q",
+		"video":"012769",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012769_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012769_BT_R",
+		"video":"012769",
+		"position":29575,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012769_BT_Q02","x":0,"y":0},
+			{"filename":"012769_BT_R03","x":0,"y":0},
+			{"filename":"012769_BT_R04","x":0,"y":0},
+			{"filename":"012769_BT_R05","x":0,"y":0},
+			{"filename":"012769_BT_R06","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":960,"effet":"C"},
+			{"image":3,"position":4768,"effet":"C"},
+			{"image":4,"position":7711,"effet":"C"},
+			{"image":5,"position":16521,"effet":"C"},
+			{"image":1,"position":22472,"effet":"C"}
+			]
+		}
+	]
+}

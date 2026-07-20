@@ -1,0 +1,41 @@
+{"id":"001667",
+ "reponse":"AB",
+ "sexe":"H",
+ "enonce":["Dans cette situation, j'ai le droit de rouler à :","",""],
+ "proposition":["- 80 km/h","- 90 km/h","- 110 km/h","- 120 km/h"],
+ "sequence":[
+		{"son":"001667_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"001667_BT_Q01","x":0,"y":0},
+			{"filename":"001667_BT_Q02","x":268,"y":75}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":559,"effet":"B"}
+			]
+		},
+		{"son":"001667_BT_R",
+		"position":28117,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"001667_BT_Q01","x":0,"y":0},
+			{"filename":"001667_BT_R02","x":268,"y":75},
+			{"filename":"001667_BT_R03","x":75,"y":51},
+			{"filename":"001667_BT_R04","x":75,"y":51}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":516,"effet":"B"},
+			{"image":3,"position":3444,"effet":"C"},
+			{"image":4,"position":9228,"effet":"B"},
+			{"image":1,"position":13212,"effet":"C"},
+			{"image":2,"position":13925,"effet":"B"}
+			]
+		}
+	]
+}

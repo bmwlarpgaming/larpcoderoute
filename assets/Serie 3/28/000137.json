@@ -1,0 +1,45 @@
+{"id":"000137",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Le train est passé mais les barrières ne se relèvent pas :","",""],
+ "proposition":["- je contourne la barrière pour passer","- je patiente jusqu'à la levée des barrières","",""],
+ "sequence":[
+		{"son":"000137_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"000137_BT_Q01","x":0,"y":0},
+			{"filename":"000137_BT_Q02","x":49,"y":138}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":540,"effet":"B"}
+			]
+		},
+		{"son":"000137_BT_R",
+		"position":38856,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"000137_BT_Q01","x":0,"y":0},
+			{"filename":"000137_BT_R02","x":49,"y":138},
+			{"filename":"000137_BT_R03","x":483,"y":394},
+			{"filename":"000137_BT_R04","x":49,"y":138},
+			{"filename":"000137_BT_R05","x":483,"y":118},
+			{"filename":"000137_BT_R06","x":49,"y":118}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":612,"effet":"B"},
+			{"image":3,"position":15728,"effet":"C"},
+			{"image":4,"position":16112,"effet":"B"},
+			{"image":5,"position":26384,"effet":"C"},
+			{"image":6,"position":27104,"effet":"B"},
+			{"image":1,"position":35840,"effet":"C"},
+			{"image":2,"position":36410,"effet":"B"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"003091",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Il est préférable d’utiliser le régulateur de vitesse :","",""],
+ "proposition":["- sur un parcours vallonné","- sur un parcours plat","- dans un trafic faible","- dans un trafic dense"],
+ "sequence":[
+		{"son":"003091_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003091_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003091_BT_R",
+		"position":35508,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"003091_BT_Q01","x":0,"y":0},
+			{"filename":"003091_BT_R02","x":123,"y":19},
+			{"filename":"003091_BT_R03","x":139,"y":35},
+			{"filename":"003091_BT_R04","x":139,"y":35}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1160,"effet":"C"},
+			{"image":3,"position":17785,"effet":"C"},
+			{"image":4,"position":23303,"effet":"C"},
+			{"image":1,"position":28988,"effet":"C"}
+			]
+		}
+	]
+}

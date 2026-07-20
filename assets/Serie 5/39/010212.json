@@ -1,0 +1,36 @@
+{"id":"010212",
+ "reponse":"BC",
+ "sexe":"H",
+ "enonce":["Cette conductrice fait le tour de son véhicule avant de partir :","",""],
+ "proposition":["- elle perd son temps","- elle prend soin de son véhicule","- elle peut détecter des anomalies",""],
+ "sequence":[
+		{"son":"010212_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010212_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010212_BT_R",
+		"position":32134,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010212_BT_Q01","x":0,"y":0},
+			{"filename":"010212_BT_R02","x":421,"y":101},
+			{"filename":"010212_BT_R03","x":421,"y":56}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":14240,"effet":"C"},
+			{"image":3,"position":19263,"effet":"C"},
+			{"image":1,"position":31733,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{"id":"024636",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Ce panneau indique :","","ou"],
+ "proposition":["- un emplacement d'arrêt d'urgence","- un emplacement de stationnement","",""],
+ "sequence":[
+		{"son":"024636_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024636_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024636_BT_R",
+		"position":20414,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"024636_BT_Q01","x":0,"y":0},
+			{"filename":"024636_BT_R02","x":977,"y":285},
+			{"filename":"024636_BT_R03","x":0,"y":0},
+			{"filename":"024636_BT_R04","x":755,"y":155}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2370,"effet":"C"},
+			{"image":3,"position":5310,"effet":"C"},
+			{"image":4,"position":11342,"effet":"C"}
+			]
+		}
+	]
+}

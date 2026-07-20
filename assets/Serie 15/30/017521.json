@@ -1,0 +1,40 @@
+{"id":"017521",
+ "reponse":"BD",
+ "sexe":"F",
+ "enonce":["À droite, le long du trottoir :","- je peux m'arrêter","- je peux stationner"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017521_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017521_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017521_BT_R",
+		"position":22310,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017521_BT_Q01","x":0,"y":0},
+			{"filename":"017521_BT_R02","x":723,"y":0},
+			{"filename":"017521_BT_R03","x":723,"y":0},
+			{"filename":"017521_BT_R04","x":723,"y":0},
+			{"filename":"017521_BT_R05","x":723,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4885,"effet":"C"},
+			{"image":3,"position":6387,"effet":"C"},
+			{"image":4,"position":12414,"effet":"C"},
+			{"image":5,"position":15322,"effet":"C"},
+			{"image":1,"position":21302,"effet":"C"}
+			]
+		}
+	]
+}

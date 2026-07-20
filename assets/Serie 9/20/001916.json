@@ -1,0 +1,36 @@
+{"id":"001916",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Je commence à fatiguer :","- lorsque je change souvent de position","- si je ressens de la raideur dans la nuque"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"001916_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"001916_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"001916_BT_R",
+		"position":28690,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"001916_BT_Q01","x":0,"y":0},
+			{"filename":"001916_BT_R02","x":621,"y":362},
+			{"filename":"001916_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11970,"effet":"C"},
+			{"image":3,"position":20520,"effet":"C"},
+			{"image":1,"position":26050,"effet":"C"}
+			]
+		}
+	]
+}

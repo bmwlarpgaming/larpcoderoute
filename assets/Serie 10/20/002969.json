@@ -1,0 +1,41 @@
+{"id":"002969",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Pour me ranger en créneau entre les deux véhicules blancs :","- j’allume le clignotant droit","- je m’arrête sur la bande cyclable pour reculer"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002969_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002969_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002969_BT_R",
+		"position":30625,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"002969_BT_Q01","x":0,"y":0},
+			{"filename":"002969_BT_R02","x":495,"y":268},
+			{"filename":"002969_BT_R04","x":1009,"y":89},
+			{"filename":"002969_BT_R06","x":360,"y":339},
+			{"filename":"002969_BT_R07","x":450,"y":283}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4812,"effet":"B"},
+			{"image":1,"position":8771,"effet":"C"},
+			{"image":3,"position":18562,"effet":"B"},
+			{"image":1,"position":22800,"effet":"C"},
+			{"image":4,"position":23444,"effet":"B"},
+			{"image":5,"position":26075,"effet":"C"}
+			]
+		}
+	]
+}

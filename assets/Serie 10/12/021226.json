@@ -1,0 +1,36 @@
+{"id":"021226",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["En cas de vente de ma voiture de plus de 4 ans, le contrôle technique doit avoir moins de :","",""],
+ "proposition":["- 2 mois","- 6 mois","- 1 an","- 2 ans"],
+ "sequence":[
+		{"son":"021226_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021226_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021226_BT_R",
+		"position":25583,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"021226_BT_Q01","x":0,"y":0},
+			{"filename":"021226_BT_R02","x":843,"y":115},
+			{"filename":"021226_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3355,"effet":"C"},
+			{"image":3,"position":11064,"effet":"C"},
+			{"image":1,"position":25132,"effet":"C"}
+			]
+		}
+	]
+}

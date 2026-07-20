@@ -1,0 +1,38 @@
+{"id":"017688",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Cette commande permet d'ajuster :","",""],
+ "proposition":["- la hauteur des feux en fonction du chargement","- la luminosité du tableau de bord","",""],
+ "sequence":[
+		{"son":"017688_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017688_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017688_BT_R",
+		"position":32231,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017688_BT_Q01","x":0,"y":0},
+			{"filename":"017688_BT_R02","x":227,"y":6},
+			{"filename":"017688_BT_R03","x":227,"y":6},
+			{"filename":"017688_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2633,"effet":"C"},
+			{"image":3,"position":14617,"effet":"C"},
+			{"image":4,"position":27291,"effet":"C"},
+			{"image":1,"position":31680,"effet":"C"}
+			]
+		}
+	]
+}

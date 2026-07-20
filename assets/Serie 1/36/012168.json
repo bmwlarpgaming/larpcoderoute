@@ -1,0 +1,37 @@
+{"id":"012168",
+ "reponse":"ABC",
+ "sexe":"F",
+ "enonce":["Les éléments qui évitent la surchauffe du moteur sont :","",""],
+ "proposition":["- le liquide de refroidissement","- l'huile moteur","- le radiateur","- le circuit de lave-glace"],
+ "sequence":[
+		{"son":"012168_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012168_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012168_BT_R",
+		"position":30851,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"012168_BT_Q01","x":0,"y":0},
+			{"filename":"012168_BT_R02","x":684,"y":0},
+			{"filename":"012168_BT_R03","x":684,"y":0},
+			{"filename":"012168_BT_R05","x":685,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2300,"effet":"C"},
+			{"image":3,"position":14022,"effet":"C"},
+			{"image":4,"position":20550,"effet":"C"}
+			]
+		}
+	]
+}

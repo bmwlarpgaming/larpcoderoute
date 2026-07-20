@@ -1,0 +1,36 @@
+{"id":"009724",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Lorsque ce voyant est allumé, il est possible d'installer un enfant sur le siège avant dos à la route :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009724_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009724_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009724_BT_R",
+		"position":17301,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"009724_BT_Q01","x":0,"y":0},
+			{"filename":"009724_BT_R02","x":0,"y":0},
+			{"filename":"009724_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8569,"effet":"C"},
+			{"image":3,"position":11937,"effet":"C"},
+			{"image":1,"position":16992,"effet":"C"}
+			]
+		}
+	]
+}

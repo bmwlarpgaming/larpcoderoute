@@ -1,0 +1,37 @@
+{"id":"019678",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["La voiture devant moi s'engage.","","ou"],
+ "proposition":["Je me prépare à m'arrêter","j'accélère pour m'engager","",""],
+ "sequence":[
+		{"son":"019678_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"019678_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"019678_BT_R",
+		"position":29897,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"019678_BT_Q01","x":0,"y":0},
+			{"filename":"019678_BT_R02","x":31,"y":36},
+			{"filename":"019678_BT_R03","x":188,"y":127},
+			{"filename":"019678_BT_R04","x":380,"y":235}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11293,"effet":"C"},
+			{"image":3,"position":16553,"effet":"C"},
+			{"image":4,"position":20768,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{"id":"010744",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["La boîte de vitesse automatique comporte :","",""],
+ "proposition":["- 2 positions","- 3 positions","- 4 positions",""],
+ "sequence":[
+		{"son":"010744_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010744_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010744_BT_R",
+		"position":17486,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010744_BT_Q01","x":0,"y":0},
+			{"filename":"010744_BT_R02","x":0,"y":0},
+			{"filename":"010744_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1362,"effet":"C"},
+			{"image":3,"position":3745,"effet":"C"},
+			{"image":1,"position":17161,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"009697",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Pour dépasser ces cyclistes :","","ou"],
+ "proposition":["- je m'écarte","- je reste où je suis","",""],
+ "sequence":[
+		{"son":"009697_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009697_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009697_BT_R",
+		"position":60318,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"009697_BT_Q01","x":0,"y":0},
+			{"filename":"009697_BT_R02","x":194,"y":0},
+			{"filename":"009697_BT_R03","x":237,"y":232},
+			{"filename":"009697_BT_R04","x":503,"y":0},
+			{"filename":"009697_BT_R05","x":377,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":19875,"effet":"C"},
+			{"image":1,"position":27915,"effet":"C"},
+			{"image":3,"position":47828,"effet":"C"},
+			{"image":4,"position":49854,"effet":"C"},
+			{"image":5,"position":52708,"effet":"C"}
+			]
+		}
+	]
+}

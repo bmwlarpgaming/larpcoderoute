@@ -1,0 +1,42 @@
+{"id":"015518",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La distance de sécurité est suffisante avec les différents piétons rencontrés :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"015518_BT_Q",
+		"video":"015518",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"015518_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"015518_BT_R",
+		"video":"015518",
+		"position":39465,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"015518_BT_Q03","x":0,"y":0},
+			{"filename":"015518_BT_R03","x":0,"y":27},
+			{"filename":"015518_BT_R04","x":0,"y":27},
+			{"filename":"015518_BT_R05","x":0,"y":27},
+			{"filename":"015518_BT_R06","x":0,"y":27}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4937,"effet":"C"},
+			{"image":3,"position":16697,"effet":"C"},
+			{"image":4,"position":20986,"effet":"C"},
+			{"image":5,"position":26410,"effet":"C"},
+			{"image":1,"position":38225,"effet":"C"}
+			]
+		}
+	]
+}

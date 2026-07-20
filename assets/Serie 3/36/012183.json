@@ -1,0 +1,39 @@
+{"id":"012183",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Se tromper de carburant risque d'endommager le moteur :","","Cela peut provoquer l'explosion du véhicule :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"012183_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012183_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012183_BT_R",
+		"position":38616,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"012183_BT_Q01","x":0,"y":0},
+			{"filename":"012183_BT_R02","x":695,"y":206},
+			{"filename":"012183_BT_R03","x":215,"y":106},
+			{"filename":"012183_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2523,"effet":"C"},
+			{"image":3,"position":4254,"effet":"C"},
+			{"image":2,"position":9565,"effet":"C"},
+			{"image":4,"position":18397,"effet":"C"},
+			{"image":1,"position":38073,"effet":"C"}
+			]
+		}
+	]
+}

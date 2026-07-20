@@ -1,0 +1,36 @@
+{"id":"009596",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Ce pneu présente une coupure sur le flanc, mais la bande de roulement est intacte. Le risque d'éclatement est :","",""],
+ "proposition":["- inexistant","- réel","",""],
+ "sequence":[
+		{"son":"009596_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009596_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009596_BT_R",
+		"position":33441,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"009596_BT_Q01","x":0,"y":0},
+			{"filename":"009596_BT_R02","x":107,"y":67},
+			{"filename":"009596_BT_R03","x":101,"y":68}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":16502,"effet":"C"},
+			{"image":3,"position":22404,"effet":"C"},
+			{"image":1,"position":33122,"effet":"C"}
+			]
+		}
+	]
+}

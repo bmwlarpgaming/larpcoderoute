@@ -1,0 +1,40 @@
+{"id":"011636",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je laisse cet enfant dans le véhicule le temps de faire quelques courses :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011636_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011636_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011636_BT_R",
+		"position":23486,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011636_BT_Q01","x":0,"y":0},
+			{"filename":"011636_BT_R02","x":0,"y":0},
+			{"filename":"011636_BT_R03","x":0,"y":0},
+			{"filename":"011636_BT_R04","x":0,"y":0},
+			{"filename":"011636_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4800,"effet":"C"},
+			{"image":3,"position":7556,"effet":"C"},
+			{"image":4,"position":14724,"effet":"C"},
+			{"image":5,"position":16299,"effet":"C"},
+			{"image":1,"position":22985,"effet":"C"}
+			]
+		}
+	]
+}

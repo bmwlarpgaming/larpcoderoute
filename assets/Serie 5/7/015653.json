@@ -1,0 +1,41 @@
+{"id":"015653",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Cet automobiliste risque de s'engager :","","Il a forcément vu le cycliste :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"015653_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"015653_BT_Q01","x":0,"y":0},
+			{"filename":"015653_BT_Q02","x":384,"y":172}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":583,"effet":"B"}
+			]
+		},
+		{"son":"015653_BT_R",
+		"position":11831,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"015653_BT_Q01","x":0,"y":0},
+			{"filename":"015653_BT_R02","x":355,"y":105},
+			{"filename":"015653_BT_R03","x":355,"y":105},
+			{"filename":"015653_BT_R04","x":843,"y":0},
+			{"filename":"015653_BT_R05","x":384,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":542,"effet":"C"},
+			{"image":3,"position":904,"effet":"B"},
+			{"image":4,"position":5168,"effet":"C"},
+			{"image":5,"position":5503,"effet":"B"}
+			]
+		}
+	]
+}

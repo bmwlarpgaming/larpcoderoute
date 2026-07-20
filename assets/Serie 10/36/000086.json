@@ -1,0 +1,38 @@
+{"id":"000086",
+ "reponse":"D",
+ "sexe":"H",
+ "enonce":["Pour vendre une voiture âgée de 5 ans, le dernier contrôle technique date de moins de :","",""],
+ "proposition":["- 4 ans","- 2 ans","- 1 an","- 6 mois"],
+ "sequence":[
+		{"son":"000086_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000086_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000086_BT_R",
+		"position":27714,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"000086_BT_Q01","x":0,"y":0},
+			{"filename":"000086_BT_R02","x":0,"y":0},
+			{"filename":"000086_BT_R03","x":0,"y":0},
+			{"filename":"000086_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8228,"effet":"C"},
+			{"image":3,"position":13181,"effet":"C"},
+			{"image":4,"position":17110,"effet":"C"},
+			{"image":1,"position":27210,"effet":"C"}
+			]
+		}
+	]
+}

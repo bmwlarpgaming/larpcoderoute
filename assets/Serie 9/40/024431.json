@@ -1,0 +1,40 @@
+{"id":"024431",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Ce panneau annonce :","",""],
+ "proposition":["- un passage piétons","- un endroit fréquenté par les enfants","",""],
+ "sequence":[
+		{"son":"024431_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024431_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024431_BT_R",
+		"position":22453,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024431_BT_Q01","x":0,"y":0},
+			{"filename":"024431_BT_R02","x":163,"y":43},
+			{"filename":"024431_BT_R03","x":163,"y":43},
+			{"filename":"024431_BT_R04","x":436,"y":19},
+			{"filename":"024431_BT_R05","x":91,"y":131}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1302,"effet":"C"},
+			{"image":3,"position":7199,"effet":"C"},
+			{"image":4,"position":13802,"effet":"C"},
+			{"image":5,"position":16780,"effet":"C"},
+			{"image":1,"position":21695,"effet":"C"}
+			]
+		}
+	]
+}

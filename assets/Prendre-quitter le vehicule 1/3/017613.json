@@ -1,0 +1,40 @@
+{"id":"017613",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Parmi ces propositions, choisissez un ordre correct d'installation :","",""],
+ "proposition":["- Rétroviseurs / Siège / Ceinture","- Siège / Rétroviseurs / Ceinture","",""],
+ "sequence":[
+		{"son":"017613_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017613_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017613_BT_R",
+		"position":32049,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"017613_BT_Q01","x":0,"y":0},
+			{"filename":"017613_BT_R02","x":0,"y":0},
+			{"filename":"017613_BT_R03","x":0,"y":0},
+			{"filename":"017613_BT_R04","x":0,"y":0},
+			{"filename":"017613_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8681,"effet":"C"},
+			{"image":3,"position":15381,"effet":"C"},
+			{"image":4,"position":19493,"effet":"C"},
+			{"image":5,"position":22997,"effet":"C"},
+			{"image":1,"position":27094,"effet":"C"}
+			]
+		}
+	]
+}

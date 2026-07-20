@@ -1,0 +1,40 @@
+{"id":"023594",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["L'indicateur de vitesse est en panne. Je suis en infraction :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023594_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023594_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023594_BT_R",
+		"position":24212,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023594_BT_Q01","x":0,"y":0},
+			{"filename":"023594_BT_R02","x":0,"y":0},
+			{"filename":"023594_BT_R03","x":0,"y":0},
+			{"filename":"023594_BT_R04","x":0,"y":0},
+			{"filename":"023594_BT_R05","x":0,"y":242}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1085,"effet":"C"},
+			{"image":3,"position":6505,"effet":"C"},
+			{"image":4,"position":13105,"effet":"C"},
+			{"image":5,"position":17553,"effet":"C"},
+			{"image":1,"position":23968,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"009774",
+ "reponse":"AB",
+ "sexe":"H",
+ "enonce":["En ligne droite, le véhicule dévie. Cela peut être dû :","",""],
+ "proposition":["- à une pression inégale des pneus avant","- au parallélisme","- aux amortisseurs",""],
+ "sequence":[
+		{"son":"009774_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009774_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009774_BT_R",
+		"position":42505,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009774_BT_Q01","x":0,"y":0},
+			{"filename":"009774_BT_R02","x":0,"y":0},
+			{"filename":"009774_BT_R03","x":0,"y":0},
+			{"filename":"009774_BT_R04","x":47,"y":12}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6805,"effet":"C"},
+			{"image":3,"position":26346,"effet":"C"},
+			{"image":4,"position":34705,"effet":"C"},
+			{"image":1,"position":41750,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{"id":"010807",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Certains médicaments allongent le temps de réaction :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010807_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010807_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010807_BT_R",
+		"position":20892,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"010807_BT_Q01","x":0,"y":0},
+			{"filename":"010807_BT_R02","x":811,"y":66},
+			{"filename":"010807_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4150,"effet":"C"},
+			{"image":3,"position":13680,"effet":"C"},
+			{"image":1,"position":20222,"effet":"C"}
+			]
+		}
+	]
+}

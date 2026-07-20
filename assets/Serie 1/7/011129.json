@@ -1,0 +1,36 @@
+{"id":"011129",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["","",""],
+ "proposition":["Je klaxonne et je dépasse","Je dépasse avec prudence","Je reste derrière ce piéton",""],
+ "sequence":[
+		{"son":"011129_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011129_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011129_BT_R",
+		"position":13794,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"011129_BT_Q01","x":0,"y":0},
+			{"filename":"011129_BT_R02","x":30,"y":403},
+			{"filename":"011129_BT_R03","x":619,"y":211}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1552,"effet":"C"},
+			{"image":3,"position":7850,"effet":"C"},
+			{"image":1,"position":13468,"effet":"C"}
+			]
+		}
+	]
+}

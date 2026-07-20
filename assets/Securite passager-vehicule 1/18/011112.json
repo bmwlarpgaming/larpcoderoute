@@ -1,0 +1,39 @@
+{"id":"011112",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Se détacher avant l'arrêt est sans risque si la vitesse est inférieure à 10 km/h :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"011112_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011112_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011112_BT_R",
+		"position":28198,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011112_BT_Q01","x":0,"y":0},
+			{"filename":"011112_BT_R02","x":707,"y":454},
+			{"filename":"011112_BT_R03","x":0,"y":0},
+			{"filename":"011112_BT_R04","x":0,"y":0},
+			{"filename":"011112_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2068,"effet":"C"},
+			{"image":3,"position":7680,"effet":"C"},
+			{"image":4,"position":13118,"effet":"C"},
+			{"image":5,"position":19494,"effet":"C"}
+			]
+		}
+	]
+}

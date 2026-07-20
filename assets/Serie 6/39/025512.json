@@ -1,0 +1,40 @@
+{"id":"025512",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Il est préférable de régler le siège :","",""],
+ "proposition":["- avant les rétroviseurs","- après les rétroviseurs","",""],
+ "sequence":[
+		{"son":"025512_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025512_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025512_BT_R",
+		"position":28739,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025512_BT_Q01","x":0,"y":0},
+			{"filename":"025512_BT_R02","x":0,"y":0},
+			{"filename":"025512_BT_R03","x":0,"y":0},
+			{"filename":"025512_BT_R04","x":0,"y":0},
+			{"filename":"025512_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4358,"effet":"C"},
+			{"image":3,"position":7648,"effet":"C"},
+			{"image":4,"position":14209,"effet":"C"},
+			{"image":5,"position":17648,"effet":"C"},
+			{"image":1,"position":23581,"effet":"C"}
+			]
+		}
+	]
+}

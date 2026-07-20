@@ -1,0 +1,39 @@
+{"id":"012072",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Pour aller sur l'aire de St Léger, je freine maintenant :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"012072_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012072_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012072_BT_R",
+		"position":24675,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"012072_BT_Q01","x":0,"y":0},
+			{"filename":"012072_BT_R02","x":532,"y":203},
+			{"filename":"012072_BT_R03","x":0,"y":0},
+			{"filename":"012072_BT_R04","x":740,"y":20},
+			{"filename":"012072_BT_R05","x":91,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7932,"effet":"C"},
+			{"image":3,"position":8023,"effet":"B"},
+			{"image":4,"position":15059,"effet":"C"},
+			{"image":5,"position":21795,"effet":"C"}
+			]
+		}
+	]
+}

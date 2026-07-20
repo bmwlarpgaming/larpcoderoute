@@ -1,0 +1,43 @@
+{"id":"023301",
+ "reponse":"C",
+ "sexe":"F",
+ "enonce":["Une défaillance humaine ou un refus du respect des règles sont à l'origine de :","",""],
+ "proposition":["- 20 % des accidents de la route","- 50 % des accidents de la route","- 90 % des accidents de la route",""],
+ "sequence":[
+		{"son":"023301_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023301_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023301_BT_R",
+		"position":40609,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023301_BT_Q01","x":0,"y":0},
+			{"filename":"023301_BT_R02","x":58,"y":16},
+			{"filename":"023301_BT_R03","x":58,"y":16},
+			{"filename":"023301_BT_R04","x":58,"y":16},
+			{"filename":"023301_BT_R05","x":58,"y":16},
+			{"filename":"023301_BT_R06","x":58,"y":16},
+			{"filename":"023301_BT_R07","x":58,"y":16}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3809,"effet":"C"},
+			{"image":3,"position":7228,"effet":"C"},
+			{"image":4,"position":10083,"effet":"C"},
+			{"image":5,"position":16230,"effet":"C"},
+			{"image":6,"position":20597,"effet":"C"},
+			{"image":7,"position":32719,"effet":"C"}
+			]
+		}
+	]
+}

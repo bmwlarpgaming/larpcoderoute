@@ -1,0 +1,42 @@
+{"id":"000937",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Téléphoner en conduisant :","",""],
+ "proposition":["- renforce l’attention visuelle","- gêne le maniement des commandes","- améliore la perception d’indices sonores",""],
+ "sequence":[
+		{"son":"000937_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000937_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000937_BT_R",
+		"position":32108,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"000937_BT_Q01","x":0,"y":0},
+			{"filename":"000937_BT_R02","x":581,"y":144},
+			{"filename":"000937_BT_R03","x":581,"y":144},
+			{"filename":"000937_BT_R04","x":0,"y":0},
+			{"filename":"000937_BT_R05","x":0,"y":0},
+			{"filename":"000937_BT_R06","x":211,"y":91}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1030,"effet":"C"},
+			{"image":3,"position":4625,"effet":"B"},
+			{"image":4,"position":9970,"effet":"C"},
+			{"image":5,"position":16702,"effet":"C"},
+			{"image":6,"position":25549,"effet":"C"},
+			{"image":1,"position":31305,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{"id":"025836",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Pour un conducteur en période probatoire, il est interdit de circuler avec un taux d'alcool à partir de :","",""],
+ "proposition":["- 0,20 g/l de sang","- 0,50 g/l de sang","",""],
+ "sequence":[
+		{"son":"025836_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025836_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025836_BT_R",
+		"position":23139,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"025836_BT_Q01","x":0,"y":0},
+			{"filename":"025836_BT_R02","x":611,"y":59},
+			{"filename":"025836_BT_R03","x":43,"y":11},
+			{"filename":"025836_BT_R04","x":475,"y":35},
+			{"filename":"025836_BT_R05","x":475,"y":35}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6370,"effet":"C"},
+			{"image":3,"position":10017,"effet":"C"},
+			{"image":4,"position":13820,"effet":"C"},
+			{"image":5,"position":19234,"effet":"C"},
+			{"image":1,"position":22795,"effet":"C"}
+			]
+		}
+	]
+}

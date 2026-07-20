@@ -1,0 +1,41 @@
+{"id":"023467",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["En agglomération, pour aborder un passage pour piéton sans visibilité :","",""],
+ "proposition":["- j'avertis avec un bref coup de klaxon","- je place mon pied devant la pédale de frein","",""],
+ "sequence":[
+		{"son":"023467_BT_Q",
+		"video":"023467",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023467_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023467_BT_R",
+		"video":"023467",
+		"position":25377,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023467_BT_Q03","x":0,"y":0},
+			{"filename":"023467_BT_R04","x":480,"y":266},
+			{"filename":"023467_BT_R05","x":67,"y":75},
+			{"filename":"023467_BT_R06","x":21,"y":27},
+			{"filename":"023467_BT_R07","x":21,"y":27}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1913,"effet":"C"},
+			{"image":3,"position":6172,"effet":"C"},
+			{"image":4,"position":13612,"effet":"C"},
+			{"image":5,"position":19530,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{"id":"023615",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["La plupart des accidents aux passages à niveau ont lieu :","",""],
+ "proposition":["- sur un trajet quotidien","- sur un nouveau trajet","",""],
+ "sequence":[
+		{"son":"023615_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"023615_BT_Q01","x":0,"y":0},
+			{"filename":"023615_BT_Q02","x":51,"y":75}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1260,"effet":"B"}
+			]
+		},
+		{"son":"023615_BT_R",
+		"position":30113,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"023615_BT_Q01","x":0,"y":0},
+			{"filename":"023615_BT_R02","x":51,"y":75},
+			{"filename":"023615_BT_R03","x":0,"y":0},
+			{"filename":"023615_BT_R04","x":0,"y":0},
+			{"filename":"023615_BT_R05","x":91,"y":115}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6052,"effet":"C"},
+			{"image":3,"position":10770,"effet":"C"},
+			{"image":4,"position":16258,"effet":"C"},
+			{"image":5,"position":24754,"effet":"C"}
+			]
+		}
+	]
+}

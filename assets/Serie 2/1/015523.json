@@ -1,0 +1,37 @@
+{"id":"015523",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La restriction de circulation est valable uniquement les jours de pics de pollution :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"015523_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"015523_BT_Q01","x":0,"y":0},
+			{"filename":"015523_BT_Q02","x":1007,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1358,"effet":"C"},
+			{"image":1,"position":11302,"effet":"C"}
+			]
+		},
+		{"son":"015523_BT_R",
+		"position":22694,
+		"temps":0,
+		"nbimages":2,
+		"image":[
+			{"filename":"015523_BT_Q01","x":0,"y":0},
+			{"filename":"015523_BT_R02","x":363,"y":19}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9854,"effet":"C"},
+			{"image":1,"position":22249,"effet":"C"}
+			]
+		}
+	]
+}

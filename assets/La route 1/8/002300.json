@@ -1,0 +1,41 @@
+{"id":"002300",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Les feux les plus appropriés pour circuler sont :","",""],
+ "proposition":["- les feux de croisement","- les feux de brouillard avant","- les feux de route",""],
+ "sequence":[
+		{"son":"002300_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002300_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002300_BT_R",
+		"position":21520,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"002300_BT_Q01","x":0,"y":0},
+			{"filename":"002300_BT_R02","x":350,"y":67},
+			{"filename":"002300_BT_R03","x":267,"y":67},
+			{"filename":"002300_BT_R04","x":267,"y":67},
+			{"filename":"002300_BT_R05","x":267,"y":67},
+			{"filename":"002300_BT_R06","x":49,"y":67}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":6530,"effet":"C"},
+			{"image":3,"position":10330,"effet":"C"},
+			{"image":4,"position":14110,"effet":"C"},
+			{"image":5,"position":17590,"effet":"C"},
+			{"image":6,"position":20690,"effet":"C"}
+			]
+		}
+	]
+}

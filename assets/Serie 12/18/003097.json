@@ -1,0 +1,41 @@
+{"id":"003097",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Je tourne à droite, je cède le passage :","- au cycliste","- au piéton"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"003097_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"003097_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"003097_BT_R",
+		"position":37745,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"003097_BT_Q01","x":0,"y":0},
+			{"filename":"003097_BT_R02","x":458,"y":238},
+			{"filename":"003097_BT_R03","x":458,"y":238},
+			{"filename":"003097_BT_R04","x":990,"y":0},
+			{"filename":"003097_BT_R05","x":530,"y":310},
+			{"filename":"003097_BT_R06","x":530,"y":196}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5272,"effet":"C"},
+			{"image":3,"position":11808,"effet":"C"},
+			{"image":4,"position":22912,"effet":"C"},
+			{"image":5,"position":30864,"effet":"C"},
+			{"image":6,"position":35465,"effet":"C"}
+			]
+		}
+	]
+}

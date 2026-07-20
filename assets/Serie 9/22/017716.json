@@ -1,0 +1,43 @@
+{"id":"017716",
+ "reponse":"AD",
+ "sexe":"H",
+ "enonce":["J'anticipe un éventuel écart de la moto :","","Je maintiens l'allure :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"017716_BT_Q",
+		"video":"017716",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017716_BT_Q03","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017716_BT_R",
+		"video":"017716",
+		"position":42628,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"017716_BT_R04","x":0,"y":0},
+			{"filename":"017716_BT_R05","x":19,"y":53},
+			{"filename":"017716_BT_R06","x":0,"y":0},
+			{"filename":"017716_BT_R07","x":0,"y":0},
+			{"filename":"017716_BT_R08","x":0,"y":0},
+			{"filename":"017716_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":11928,"effet":"C"},
+			{"image":3,"position":14784,"effet":"C"},
+			{"image":4,"position":24052,"effet":"C"},
+			{"image":5,"position":33668,"effet":"C"},
+			{"image":6,"position":42302,"effet":"C"}
+			]
+		}
+	]
+}

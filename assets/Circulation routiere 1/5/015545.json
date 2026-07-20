@@ -1,0 +1,38 @@
+{"id":"015545",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La vitesse maximale autorisée est fixée à :","",""],
+ "proposition":["- 80 km/h","- 90 km/h","- 100 km/h","- 110 km/h"],
+ "sequence":[
+		{"son":"015545_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"015545_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"015545_BT_R",
+		"position":37028,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"015545_BT_Q01","x":0,"y":0},
+			{"filename":"015545_BT_R02","x":863,"y":75},
+			{"filename":"015545_BT_R03","x":0,"y":75},
+			{"filename":"015545_BT_R04","x":0,"y":123}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8092,"effet":"C"},
+			{"image":3,"position":12029,"effet":"C"},
+			{"image":4,"position":17849,"effet":"C"},
+			{"image":1,"position":31017,"effet":"C"}
+			]
+		}
+	]
+}

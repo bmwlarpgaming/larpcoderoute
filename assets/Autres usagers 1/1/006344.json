@@ -1,0 +1,41 @@
+{"id":"006344",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Je tourne à droite. Je passe :","",""],
+ "proposition":["- avant le cycliste","- après le cycliste","",""],
+ "sequence":[
+		{"son":"006344_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"006344_BT_Q01","x":0,"y":0},
+			{"filename":"006344_BT_Q02","x":629,"y":55}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1116,"effet":"C"},
+			{"image":1,"position":8956,"effet":"C"}
+			]
+		},
+		{"son":"006344_BT_R",
+		"position":30373,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"006344_BT_Q01","x":0,"y":0},
+			{"filename":"006344_BT_R02","x":629,"y":55},
+			{"filename":"006344_BT_R03","x":0,"y":0},
+			{"filename":"006344_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1356,"effet":"C"},
+			{"image":3,"position":5548,"effet":"C"},
+			{"image":4,"position":16416,"effet":"C"},
+			{"image":1,"position":26682,"effet":"C"}
+			]
+		}
+	]
+}

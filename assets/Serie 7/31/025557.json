@@ -1,0 +1,45 @@
+{"id":"025557",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Un disque de stationnement est obligatoire pour stationner sur l'emplacement :","",""],
+ "proposition":["A","B","",""],
+ "sequence":[
+		{"son":"025557_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025557_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025557_BT_R",
+		"position":27050,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"025557_BT_Q01","x":0,"y":0},
+			{"filename":"025557_BT_R02","x":86,"y":0},
+			{"filename":"025557_BT_R03","x":411,"y":0},
+			{"filename":"025557_BT_R04","x":119,"y":0},
+			{"filename":"025557_BT_R05","x":116,"y":0},
+			{"filename":"025557_BT_R06","x":0,"y":0},
+			{"filename":"025557_BT_R07","x":0,"y":0}
+			],
+		"nbetapes":9,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4684,"effet":"C"},
+			{"image":3,"position":6704,"effet":"C"},
+			{"image":4,"position":9153,"effet":"C"},
+			{"image":5,"position":10731,"effet":"C"},
+			{"image":1,"position":12608,"effet":"C"},
+			{"image":6,"position":16298,"effet":"C"},
+			{"image":7,"position":23279,"effet":"C"},
+			{"image":1,"position":26846,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"023507",
+ "reponse":"C",
+ "sexe":"H",
+ "enonce":["Pour traverser la chaussée, il faut de préférence :","",""],
+ "proposition":["- passer devant le bus","- passer derrière le bus","- attendre que le bus reparte",""],
+ "sequence":[
+		{"son":"023507_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023507_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023507_BT_R",
+		"position":28910,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"023507_BT_Q01","x":0,"y":0},
+			{"filename":"023507_BT_R02","x":0,"y":0},
+			{"filename":"023507_BT_R03","x":0,"y":0},
+			{"filename":"023507_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1752,"effet":"C"},
+			{"image":3,"position":8620,"effet":"C"},
+			{"image":4,"position":19828,"effet":"C"},
+			{"image":1,"position":28421,"effet":"C"}
+			]
+		}
+	]
+}

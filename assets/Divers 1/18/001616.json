@@ -1,0 +1,40 @@
+{"id":"001616",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["En cas de perte totale des points, un conducteur confirmé :","- perd le droit de conduire","- repasse le code et la conduite"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"001616_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"001616_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"001616_BT_R",
+		"position":34131,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"001616_BT_Q01","x":0,"y":0},
+			{"filename":"001616_BT_R02","x":0,"y":0},
+			{"filename":"001616_BT_R03","x":811,"y":43},
+			{"filename":"001616_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1279,"effet":"C"},
+			{"image":1,"position":10231,"effet":"C"},
+			{"image":3,"position":16397,"effet":"C"},
+			{"image":1,"position":24258,"effet":"C"},
+			{"image":4,"position":30058,"effet":"C"},
+			{"image":1,"position":33688,"effet":"C"}
+			]
+		}
+	]
+}

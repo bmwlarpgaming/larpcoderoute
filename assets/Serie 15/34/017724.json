@@ -1,0 +1,36 @@
+{"id":"017724",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je tourne à droite. Je cède le passage au piéton :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017724_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017724_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017724_BT_R",
+		"position":21889,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017724_BT_Q01","x":0,"y":0},
+			{"filename":"017724_BT_R02","x":471,"y":273},
+			{"filename":"017724_BT_R03","x":611,"y":152}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9944,"effet":"C"},
+			{"image":3,"position":15758,"effet":"C"},
+			{"image":1,"position":21258,"effet":"C"}
+			]
+		}
+	]
+}

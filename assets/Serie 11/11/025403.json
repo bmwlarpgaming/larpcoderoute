@@ -1,0 +1,38 @@
+{"id":"025403",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["Je dois habiter cette ville pour utiliser un de ces vélos :","","Je pourrai le restituer dans une station différente :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"025403_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025403_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025403_BT_R",
+		"position":23645,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025403_BT_Q01","x":0,"y":0},
+			{"filename":"025403_BT_R02","x":675,"y":75},
+			{"filename":"025403_BT_R03","x":675,"y":75},
+			{"filename":"025403_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2671,"effet":"C"},
+			{"image":3,"position":12504,"effet":"C"},
+			{"image":4,"position":18262,"effet":"C"},
+			{"image":1,"position":23040,"effet":"C"}
+			]
+		}
+	]
+}

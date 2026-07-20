@@ -1,0 +1,41 @@
+{"id":"011710",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["Le 112 est un numéro d'appel d'urgence :","",""],
+ "proposition":["- national","- européen","- international",""],
+ "sequence":[
+		{"son":"011710_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011710_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011710_BT_R",
+		"position":27525,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"011710_BT_Q01","x":0,"y":0},
+			{"filename":"011710_BT_R02","x":0,"y":0},
+			{"filename":"011710_BT_R03","x":0,"y":0},
+			{"filename":"011710_BT_R04","x":0,"y":0},
+			{"filename":"011710_BT_R05","x":0,"y":0}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2793,"effet":"C"},
+			{"image":3,"position":6200,"effet":"C"},
+			{"image":4,"position":12388,"effet":"C"},
+			{"image":5,"position":17481,"effet":"C"},
+			{"image":2,"position":23852,"effet":"C"},
+			{"image":1,"position":27111,"effet":"C"}
+			]
+		}
+	]
+}

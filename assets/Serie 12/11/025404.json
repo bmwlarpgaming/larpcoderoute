@@ -1,0 +1,38 @@
+{"id":"025404",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["En centre-ville aux heures de pointe, pour me déplacer plus rapidement, je privilégie :","",""],
+ "proposition":["- la voiture","- le vélo","",""],
+ "sequence":[
+		{"son":"025404_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"025404_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"025404_BT_R",
+		"position":24528,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"025404_BT_Q01","x":0,"y":0},
+			{"filename":"025404_BT_R02","x":83,"y":27},
+			{"filename":"025404_BT_R03","x":0,"y":0},
+			{"filename":"025404_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4191,"effet":"C"},
+			{"image":3,"position":8657,"effet":"C"},
+			{"image":4,"position":15609,"effet":"C"},
+			{"image":1,"position":23808,"effet":"C"}
+			]
+		}
+	]
+}

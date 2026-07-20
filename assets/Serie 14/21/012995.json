@@ -1,0 +1,38 @@
+{"id":"012995",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["Cet usager doit avoir :","- au moins un gilet jaune de sécurité","- 2 triangles de présignalisation"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"012995_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"012995_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"012995_BT_R",
+		"position":25011,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"012995_BT_Q01","x":0,"y":0},
+			{"filename":"012995_BT_R02","x":0,"y":0},
+			{"filename":"012995_BT_R03","x":0,"y":0},
+			{"filename":"012995_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3983,"effet":"C"},
+			{"image":3,"position":13355,"effet":"C"},
+			{"image":4,"position":18943,"effet":"C"},
+			{"image":1,"position":24747,"effet":"C"}
+			]
+		}
+	]
+}

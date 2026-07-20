@@ -1,0 +1,37 @@
+{"id":"017437",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["","Le marquage au sol autorise ponctuellement le dépassement :",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017437_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017437_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017437_BT_R",
+		"position":18445,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017437_BT_Q01","x":0,"y":0},
+			{"filename":"017437_BT_R02","x":37,"y":194},
+			{"filename":"017437_BT_R03","x":29,"y":182}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1629,"effet":"C"},
+			{"image":1,"position":9342,"effet":"C"},
+			{"image":3,"position":12400,"effet":"C"},
+			{"image":1,"position":16028,"effet":"C"}
+			]
+		}
+	]
+}

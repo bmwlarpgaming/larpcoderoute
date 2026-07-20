@@ -1,0 +1,38 @@
+{"id":"009349",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["La file de gauche avance plus vite que la mienne. Je change de voie :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"009349_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009349_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009349_BT_R",
+		"position":17154,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"009349_BT_Q01","x":0,"y":0},
+			{"filename":"009349_BT_R02","x":62,"y":51},
+			{"filename":"009349_BT_R03","x":288,"y":449},
+			{"filename":"009349_BT_R04","x":288,"y":449}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2950,"effet":"B"},
+			{"image":3,"position":11080,"effet":"C"},
+			{"image":4,"position":14856,"effet":"C"},
+			{"image":1,"position":16864,"effet":"C"}
+			]
+		}
+	]
+}

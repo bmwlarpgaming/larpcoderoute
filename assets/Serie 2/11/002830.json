@@ -1,0 +1,38 @@
+{"id":"002830",
+ "reponse":"AC",
+ "sexe":"H",
+ "enonce":["L’écomobilité, c’est choisir de se déplacer :","- en bus plutôt qu’en voiture thermique","- à vélo plutôt qu’en bus"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002830_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002830_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002830_BT_R",
+		"position":31346,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002830_BT_Q01","x":0,"y":0},
+			{"filename":"002830_BT_R02","x":0,"y":0},
+			{"filename":"002830_BT_R03","x":0,"y":0},
+			{"filename":"002830_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":9627,"effet":"C"},
+			{"image":3,"position":20241,"effet":"C"},
+			{"image":4,"position":24842,"effet":"C"},
+			{"image":1,"position":28076,"effet":"C"}
+			]
+		}
+	]
+}

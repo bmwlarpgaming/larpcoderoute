@@ -1,0 +1,39 @@
+{"id":"000521",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["Je diminue les effets de l’alcool :","- en prenant de l’aspirine","- en buvant une boisson énergétique"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"000521_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"000521_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"000521_BT_R",
+		"position":36974,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"000521_BT_Q01","x":0,"y":0},
+			{"filename":"000521_BT_R02","x":0,"y":0},
+			{"filename":"000521_BT_R03","x":0,"y":0},
+			{"filename":"000521_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":890,"effet":"C"},
+			{"image":3,"position":6447,"effet":"C"},
+			{"image":1,"position":16802,"effet":"C"},
+			{"image":4,"position":23202,"effet":"C"},
+			{"image":1,"position":36369,"effet":"C"}
+			]
+		}
+	]
+}

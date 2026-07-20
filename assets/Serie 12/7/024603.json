@@ -1,0 +1,40 @@
+{"id":"024603",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["L'intervalle latéral minimum à conserver pour dépasser ce cycliste est de :","",""],
+ "proposition":["- 1 m","- 1,5 m","",""],
+ "sequence":[
+		{"son":"024603_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"024603_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"024603_BT_R",
+		"position":31017,
+		"temps":0,
+		"nbimages":5,
+		"image":[
+			{"filename":"024603_BT_Q01","x":0,"y":0},
+			{"filename":"024603_BT_R02","x":264,"y":11},
+			{"filename":"024603_BT_R03","x":264,"y":11},
+			{"filename":"024603_BT_R04","x":91,"y":11},
+			{"filename":"024603_BT_R05","x":310,"y":237}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3374,"effet":"C"},
+			{"image":3,"position":10857,"effet":"C"},
+			{"image":4,"position":17466,"effet":"C"},
+			{"image":5,"position":24252,"effet":"C"},
+			{"image":1,"position":30664,"effet":"C"}
+			]
+		}
+	]
+}

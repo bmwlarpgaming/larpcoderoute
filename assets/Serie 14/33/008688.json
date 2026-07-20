@@ -1,0 +1,45 @@
+{"id":"008688",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["","","ou"],
+ "proposition":["Je reste en feux de croisement","j'allume les feux de route","",""],
+ "sequence":[
+		{"son":"008688_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008688_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008688_BT_R",
+		"position":35071,
+		"temps":0,
+		"nbimages":8,
+		"image":[
+			{"filename":"008688_BT_Q01","x":0,"y":0},
+			{"filename":"008688_BT_R02","x":0,"y":0},
+			{"filename":"008688_BT_R03","x":0,"y":0},
+			{"filename":"008688_BT_R04","x":0,"y":0},
+			{"filename":"008688_BT_R05","x":219,"y":357},
+			{"filename":"008688_BT_R06","x":515,"y":275},
+			{"filename":"008688_BT_R07","x":283,"y":400},
+			{"filename":"008688_BT_R08","x":257,"y":483}
+			],
+		"nbetapes":8,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5271,"effet":"C"},
+			{"image":3,"position":8854,"effet":"C"},
+			{"image":4,"position":13255,"effet":"C"},
+			{"image":5,"position":15911,"effet":"C"},
+			{"image":6,"position":21519,"effet":"C"},
+			{"image":7,"position":28143,"effet":"C"},
+			{"image":8,"position":32575,"effet":"C"}
+			]
+		}
+	]
+}

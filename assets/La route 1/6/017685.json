@@ -1,0 +1,38 @@
+{"id":"017685",
+ "reponse":"ACD",
+ "sexe":"F",
+ "enonce":["Dans cette situation, les feux autorisés sont les suivants :","",""],
+ "proposition":["A","B","C","D"],
+ "sequence":[
+		{"son":"017685_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017685_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017685_BT_R",
+		"position":26662,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"017685_BT_Q01","x":0,"y":0},
+			{"filename":"017685_BT_R02","x":163,"y":114},
+			{"filename":"017685_BT_R03","x":0,"y":0},
+			{"filename":"017685_BT_R04","x":400,"y":136}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7499,"effet":"C"},
+			{"image":3,"position":15371,"effet":"C"},
+			{"image":4,"position":19500,"effet":"C"},
+			{"image":1,"position":26090,"effet":"C"}
+			]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{"id":"007669",
+ "reponse":"BC",
+ "sexe":"F",
+ "enonce":["J'ai le droit  de circuler avec les feux :","",""],
+ "proposition":["- de position seuls","- de croisement","- de brouillard avant","- de brouillard arrière"],
+ "sequence":[
+		{"son":"007669_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"007669_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"007669_BT_R",
+		"position":23031,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"007669_BT_Q01","x":0,"y":0},
+			{"filename":"007669_BT_R02","x":299,"y":241},
+			{"filename":"007669_BT_R03","x":299,"y":241},
+			{"filename":"007669_BT_R04","x":299,"y":253}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4640,"effet":"C"},
+			{"image":3,"position":13155,"effet":"C"},
+			{"image":4,"position":16768,"effet":"C"},
+			{"image":1,"position":21874,"effet":"C"}
+			]
+		}
+	]
+}

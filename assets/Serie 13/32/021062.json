@@ -1,0 +1,37 @@
+{"id":"021062",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Lors d'un long trajet, il est conseillé de faire une pause :","- toutes les deux heures minimum","- dès que la fatigue apparaît"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"021062_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"021062_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"021062_BT_R",
+		"position":21948,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"021062_BT_Q01","x":0,"y":0},
+			{"filename":"021062_BT_R02","x":157,"y":299},
+			{"filename":"021062_BT_R03","x":0,"y":0},
+			{"filename":"021062_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3484,"effet":"C"},
+			{"image":3,"position":8580,"effet":"C"},
+			{"image":4,"position":17213,"effet":"C"}
+			]
+		}
+	]
+}

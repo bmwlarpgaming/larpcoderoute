@@ -1,0 +1,38 @@
+{"id":"002219",
+ "reponse":"BD",
+ "sexe":"H",
+ "enonce":["Je klaxonne :","","Je laisse un intervalle minimum de 0,50 m :"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"002219_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"002219_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"002219_BT_R",
+		"position":30570,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"002219_BT_Q01","x":0,"y":0},
+			{"filename":"002219_BT_R02","x":491,"y":0},
+			{"filename":"002219_BT_R03","x":365,"y":274},
+			{"filename":"002219_BT_R04","x":475,"y":237}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":8800,"effet":"C"},
+			{"image":3,"position":14110,"effet":"C"},
+			{"image":4,"position":20480,"effet":"C"},
+			{"image":1,"position":27920,"effet":"C"}
+			]
+		}
+	]
+}

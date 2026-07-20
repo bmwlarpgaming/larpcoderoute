@@ -1,0 +1,45 @@
+{"id":"010603",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["J'aborde une zone de dangers potentiels :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"010603_BT_Q",
+		"video":"010603",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"010603_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"010603_BT_R",
+		"video":"010603",
+		"position":58483,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"010603_BT_Q02","x":0,"y":0},
+			{"filename":"010603_BT_R03","x":0,"y":0},
+			{"filename":"010603_BT_R04","x":0,"y":0},
+			{"filename":"010603_BT_R05","x":0,"y":117},
+			{"filename":"010603_BT_R06","x":0,"y":0},
+			{"filename":"010603_BT_R07","x":817,"y":15},
+			{"filename":"010603_BT_R08","x":586,"y":257}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":1784,"effet":"C"},
+			{"image":3,"position":7276,"effet":"C"},
+			{"image":4,"position":19342,"effet":"C"},
+			{"image":5,"position":27933,"effet":"C"},
+			{"image":6,"position":37132,"effet":"C"},
+			{"image":7,"position":49941,"effet":"C"}
+			]
+		}
+	]
+}

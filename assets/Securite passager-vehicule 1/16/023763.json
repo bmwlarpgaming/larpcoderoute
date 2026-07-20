@@ -1,0 +1,41 @@
+{"id":"023763",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Un passager n'ayant pas attaché sa ceinture encourt une amende :","- s'il est majeur","- s'il est mineur"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"023763_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023763_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023763_BT_R",
+		"position":19465,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023763_BT_Q01","x":0,"y":0},
+			{"filename":"023763_BT_R02","x":43,"y":27},
+			{"filename":"023763_BT_R03","x":43,"y":27},
+			{"filename":"023763_BT_R04","x":43,"y":27},
+			{"filename":"023763_BT_R05","x":43,"y":27},
+			{"filename":"023763_BT_R06","x":43,"y":27}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":5821,"effet":"C"},
+			{"image":3,"position":8206,"effet":"C"},
+			{"image":4,"position":11465,"effet":"C"},
+			{"image":5,"position":12789,"effet":"C"},
+			{"image":6,"position":15325,"effet":"C"}
+			]
+		}
+	]
+}

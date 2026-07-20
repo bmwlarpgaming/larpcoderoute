@@ -1,0 +1,41 @@
+{"id":"009577",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["En cas de choc, quel passager est le mieux protégé :","",""],
+ "proposition":["- le A","- le B","- les deux",""],
+ "sequence":[
+		{"son":"009577_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"009577_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"009577_BT_R",
+		"position":41061,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"009577_BT_Q01","x":0,"y":0},
+			{"filename":"009577_BT_R02","x":0,"y":0},
+			{"filename":"009577_BT_R03","x":0,"y":0},
+			{"filename":"009577_BT_R04","x":0,"y":0},
+			{"filename":"009577_BT_R05","x":0,"y":0},
+			{"filename":"009577_BT_R06","x":0,"y":181}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":12381,"effet":"C"},
+			{"image":3,"position":18126,"effet":"C"},
+			{"image":4,"position":23629,"effet":"C"},
+			{"image":5,"position":24655,"effet":"C"},
+			{"image":6,"position":34051,"effet":"C"}
+			]
+		}
+	]
+}

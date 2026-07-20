@@ -1,0 +1,40 @@
+{"id":"015513",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["","",""],
+ "proposition":["L'automobiliste cède le passage au cycliste","Le cycliste cède le passage à l'automobiliste","",""],
+ "sequence":[
+		{"son":"015513_BT_Q",
+		"temps":15,
+		"nbimages":2,
+		"image":[
+			{"filename":"015513_BT_Q01","x":0,"y":0},
+			{"filename":"015513_BT_Q02","x":555,"y":258}
+			],
+		"nbetapes":2,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":880,"effet":"B"}
+			]
+		},
+		{"son":"015513_BT_R",
+		"position":24733,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"015513_BT_Q01","x":0,"y":0},
+			{"filename":"015513_BT_R02","x":700,"y":308},
+			{"filename":"015513_BT_R03","x":700,"y":308},
+			{"filename":"015513_BT_R04","x":700,"y":183}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4712,"effet":"C"},
+			{"image":3,"position":9077,"effet":"C"},
+			{"image":4,"position":15208,"effet":"C"},
+			{"image":1,"position":19554,"effet":"C"}
+			]
+		}
+	]
+}

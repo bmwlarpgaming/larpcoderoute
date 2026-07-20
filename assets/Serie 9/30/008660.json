@@ -1,0 +1,36 @@
+{"id":"008660",
+ "reponse":"B",
+ "sexe":"F",
+ "enonce":["Je vais aborder un endroit fréquenté par des enfants uniquement pendant les entrées et sorties d'écoles :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008660_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008660_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008660_BT_R",
+		"position":23424,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"008660_BT_Q01","x":0,"y":0},
+			{"filename":"008660_BT_R02","x":714,"y":134},
+			{"filename":"008660_BT_R03","x":659,"y":115}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4172,"effet":"C"},
+			{"image":3,"position":8188,"effet":"C"},
+			{"image":1,"position":23316,"effet":"C"}
+			]
+		}
+	]
+}

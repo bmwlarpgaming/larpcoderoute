@@ -1,0 +1,38 @@
+{"id":"008597",
+ "reponse":"AC",
+ "sexe":"F",
+ "enonce":["Dans cette rue à sens unique, je suis bien placé :","- pour m'arrêter","- pour stationner"],
+ "proposition":["OUI","NON","OUI","NON"],
+ "sequence":[
+		{"son":"008597_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008597_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008597_BT_R",
+		"position":22672,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008597_BT_Q01","x":0,"y":0},
+			{"filename":"008597_BT_R02","x":1029,"y":207},
+			{"filename":"008597_BT_R03","x":582,"y":80},
+			{"filename":"008597_BT_R04","x":887,"y":98}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":13376,"effet":"C"},
+			{"image":3,"position":16808,"effet":"C"},
+			{"image":4,"position":20187,"effet":"C"},
+			{"image":1,"position":22296,"effet":"C"}
+			]
+		}
+	]
+}

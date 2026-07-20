@@ -1,0 +1,38 @@
+{"id":"008221",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Le réglage du GPS par le conducteur se fait exclusivement à l'arrêt :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008221_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008221_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008221_BT_R",
+		"position":24206,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008221_BT_Q01","x":0,"y":0},
+			{"filename":"008221_BT_R02","x":0,"y":0},
+			{"filename":"008221_BT_R03","x":0,"y":0},
+			{"filename":"008221_BT_R04","x":0,"y":0}
+			],
+		"nbetapes":5,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7842,"effet":"C"},
+			{"image":3,"position":12164,"effet":"C"},
+			{"image":4,"position":13047,"effet":"C"},
+			{"image":1,"position":16062,"effet":"C"}
+			]
+		}
+	]
+}

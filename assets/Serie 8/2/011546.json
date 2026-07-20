@@ -1,0 +1,36 @@
+{"id":"011546",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Le véhicule derrière moi tourne :","",""],
+ "proposition":["- à droite","- à gauche","",""],
+ "sequence":[
+		{"son":"011546_BT_Q",
+		"video":"011546",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"011546_BT_Q02","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"011546_BT_R",
+		"video":"011546",
+		"position":33960,
+		"temps":0,
+		"nbimages":2,
+		"image":[
+			{"filename":"011546_BT_Q02","x":0,"y":0},
+			{"filename":"011546_BT_R03","x":0,"y":0}
+			],
+		"nbetapes":3,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":18219,"effet":"C"},
+			{"image":1,"position":30664,"effet":"C"}
+			]
+		}
+	]
+}

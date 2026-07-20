@@ -1,0 +1,41 @@
+{"id":"023683",
+ "reponse":"AD",
+ "sexe":"F",
+ "enonce":["Ce panneau indique un passage à niveau comportant :","","Le passage d'un train sera annoncé par un feu rouge clignotant :"],
+ "proposition":["- 1 seule voie","- plusieurs voies","OUI","NON"],
+ "sequence":[
+		{"son":"023683_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023683_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023683_BT_R",
+		"position":34827,
+		"temps":0,
+		"nbimages":6,
+		"image":[
+			{"filename":"023683_BT_Q01","x":0,"y":0},
+			{"filename":"023683_BT_R02","x":531,"y":187},
+			{"filename":"023683_BT_R03","x":979,"y":187},
+			{"filename":"023683_BT_R04","x":667,"y":187},
+			{"filename":"023683_BT_R05","x":531,"y":187},
+			{"filename":"023683_BT_R06","x":531,"y":155}
+			],
+		"nbetapes":6,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":4945,"effet":"C"},
+			{"image":3,"position":8287,"effet":"C"},
+			{"image":4,"position":13651,"effet":"C"},
+			{"image":5,"position":19015,"effet":"C"},
+			{"image":6,"position":26693,"effet":"C"}
+			]
+		}
+	]
+}

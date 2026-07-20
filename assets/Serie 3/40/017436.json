@@ -1,0 +1,36 @@
+{"id":"017436",
+ "reponse":"B",
+ "sexe":"H",
+ "enonce":["","Je peux utiliser la voie de gauche pour dépasser le cycliste :",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"017436_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"017436_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"017436_BT_R",
+		"position":18555,
+		"temps":0,
+		"nbimages":3,
+		"image":[
+			{"filename":"017436_BT_Q01","x":0,"y":0},
+			{"filename":"017436_BT_R02","x":474,"y":176},
+			{"filename":"017436_BT_R03","x":551,"y":244}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":7871,"effet":"C"},
+			{"image":3,"position":12819,"effet":"C"},
+			{"image":1,"position":18123,"effet":"C"}
+			]
+		}
+	]
+}

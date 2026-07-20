@@ -1,0 +1,43 @@
+{"id":"023568",
+ "reponse":"A",
+ "sexe":"F",
+ "enonce":["Un niveau d'Adblue insuffisant peut empêcher le démarrage du moteur :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"023568_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"023568_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"023568_BT_R",
+		"position":51397,
+		"temps":0,
+		"nbimages":7,
+		"image":[
+			{"filename":"023568_BT_Q01","x":0,"y":0},
+			{"filename":"023568_BT_R02","x":195,"y":139},
+			{"filename":"023568_BT_R03","x":195,"y":67},
+			{"filename":"023568_BT_R04","x":195,"y":139},
+			{"filename":"023568_BT_R05","x":95,"y":139},
+			{"filename":"023568_BT_R06","x":95,"y":139},
+			{"filename":"023568_BT_R07","x":95,"y":139}
+			],
+		"nbetapes":7,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":2066,"effet":"C"},
+			{"image":3,"position":14270,"effet":"C"},
+			{"image":4,"position":23751,"effet":"C"},
+			{"image":5,"position":29043,"effet":"C"},
+			{"image":6,"position":35016,"effet":"C"},
+			{"image":7,"position":47376,"effet":"C"}
+			]
+		}
+	]
+}

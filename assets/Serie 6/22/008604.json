@@ -1,0 +1,37 @@
+{"id":"008604",
+ "reponse":"A",
+ "sexe":"H",
+ "enonce":["Je suis bien placé :","",""],
+ "proposition":["OUI","NON","",""],
+ "sequence":[
+		{"son":"008604_BT_Q",
+		"temps":15,
+		"nbimages":1,
+		"image":[
+			{"filename":"008604_BT_Q01","x":0,"y":0}
+			],
+		"nbetapes":1,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"}
+			]
+		},
+		{"son":"008604_BT_R",
+		"position":22744,
+		"temps":0,
+		"nbimages":4,
+		"image":[
+			{"filename":"008604_BT_Q01","x":0,"y":0},
+			{"filename":"008604_BT_R02","x":939,"y":155},
+			{"filename":"008604_BT_R03","x":155,"y":83},
+			{"filename":"008604_BT_R04","x":141,"y":346}
+			],
+		"nbetapes":4,
+		"etape":[
+			{"image":1,"position":0,"effet":"C"},
+			{"image":2,"position":3540,"effet":"C"},
+			{"image":3,"position":8731,"effet":"C"},
+			{"image":4,"position":19523,"effet":"C"}
+			]
+		}
+	]
+}
